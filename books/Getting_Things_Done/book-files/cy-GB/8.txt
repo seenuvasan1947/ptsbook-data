@@ -1,0 +1,19 @@
+Pennod 7: Prosesu: mynd i mewn i wag
+
+Wrth gyflawni pethau gan David Allen, Rhan 2, o'r enw Processing: Get 'In' i wagio, rydym yn plymio'n ddyfnach i gyfnod critigol y prosesu.Mae'r rhan hon o fethodoleg GTD yn ymwneud ag egluro'r ystyr a'r camau nesaf ar gyfer yr eitemau rydych chi wedi'u casglu.Dyma'r cysyniadau allweddol o'r adran hon:
+
+Y broses egluro: Prosesu yw'r cam lle rydych chi'n penderfynu beth mae pob eitem a gasglwyd yn ei olygu a pha weithred, os o gwbl, sy'n gysylltiedig ag ef.Mae pedwar opsiwn ar gyfer egluro eitemau:
+
+Sbwriel: Os nad oes gwerth na pherthnasedd i eitem, ei daflu.
+Deori: Nid oes angen gweithredu ar unwaith ar rai eitemau ond gallent fod yn bwysig yn y dyfodol.Rhowch yr eitemau hyn mewn system ddeori neu gyfeirio.
+Cyfeirnod: Mae rhai eitemau'n gweithredu fel deunydd cyfeirio, megis gwybodaeth i'w ffeilio neu ei storio i'w defnyddio'n ddiweddarach.
+Gweithredu: Os oes angen gweithredu ar eitem, rhaid i chi bennu'r camau nesaf penodol.
+Camau nesaf: Mae diffinio'r weithred nesaf yn egwyddor sylfaenol GTD.Mae'n golygu torri tasgau i lawr yn gamau y gellir eu gweithredu.Yn lle eitemau annelwig i'w gwneud fel Adroddiad Ysgrifennu, byddech chi'n ei egluro fel drafftio cyflwyniad yr adroddiad.Mae'r eglurder hwn yn dileu amwysedd ac yn ei gwneud hi'n haws gweithredu.
+
+Diffiniad y prosiect: Os oes angen mwy nag un cam i'w gwblhau ar dasg, mae'n dod yn brosiect.Dylai prosiectau gael eu diffinio'n benodol gyda chanlyniad clir a'r camau nesaf sydd eu hangen i gyflawni'r canlyniad hwnnw.
+
+Trefnu Camau: Ar ôl i chi egluro'r gweithredoedd nesaf, trefnwch nhw mewn ffordd sy'n eu gwneud yn hawdd eu cyrraedd pan fyddwch chi'n barod i weithio arnyn nhw.Gallai hyn gynnwys categoreiddio gweithredoedd yn ôl cyd -destun, blaenoriaeth neu ddyddiad cau.
+
+Y Rhestr Aros: Nid yw pob gweithred o fewn eich rheolaeth.Defnyddiwch restr aros i olrhain gweithredoedd sy'n dibynnu ar eraill.Mae hyn yn helpu i atal eitemau rhag cwympo trwy'r craciau.
+
+Y Rhestr Someday/Efallai: Dal Syniadau neu Brosiectau nad ydych chi wedi ymrwymo i weithio arnyn nhw ar unwaith ond y byddech chi'n eu hystyried yn y dyfodol.Mae'r rhestr hon yn cadw'r syniadau hyn rhag annibendod eich rhestrau tasgau gweithredol.

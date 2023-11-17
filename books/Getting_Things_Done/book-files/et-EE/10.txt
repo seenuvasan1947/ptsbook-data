@@ -1,0 +1,25 @@
+9. osa: ülevaade: oma süsteemi funktsionaalse hoidmine
+
+David Alleni tehtud asjade saamisel uurib 2. osa ülevaatamise kriitilist kontseptsiooni, mis on hädavajalik funktsionaalse ja tõhusa tootlikkuse süsteemi säilitamiseks.Siit leiate, mida peate sellest jaotisest teadma:
+
+Regulaarsete arvustuste eesmärk: regulaarsed ülevaated on liim, mis hoiab teie GTD -süsteemi koos.Need tagavad, et teie usaldusväärsed organisatsioonilised tööriistad püsivad ajakohased ja funktsionaalsed.Nende ülevaadete eesmärk on hoida oma kohustused ja ülesanded vastavusse teie eesmärkide ja prioriteetidega.
+
+Igapäevane mini-ülevaade: minu päeva alguses ja lõpus on mini-ülevaade hädavajalik.See võimaldab teil oma kohustusi ümber hinnata, oma ülesannete loendeid värskendada ja tagada, et töötate kõige olulisemate ülesannete kallal.See aitab teil ka päeva selgusega alustada ja lõpetada.
+
+Nädala ülevaade: iganädalane ülevaade on GTD metoodika kõige olulisem ülevaade.Tavaliselt peaks kuluma umbes 1-2 tundi.Iganädalase ülevaate ajal läbite mitu peamist sammu:
+
+Koguge lahtised paberid: koguge kõik lahtised paberid, märkmed või töötlemist vajavad esemed.
+Tühjendage pea: kirjutage üles kõik nädala jooksul tekkinud uued ülesanded, ideed või kohustused.
+Töötlege oma postkastid: minge läbi oma füüsilised ja digitaalsed postkastid, selgitades ja korraldades nende sisalduvaid esemeid.
+Vaadake üle oma kalender: vaadake üle möödunud nädal ja eelseisv nädal kalendris, et veenduda, et olete teadlik kõigist kohtumistest ja tähtaegadest.
+Vaadake üle oma projektid: lugege läbi iga projekt ja veenduge, et olete tuvastanud järgmised toimingud, mis on vajalikud nende edasiliikumiseks.
+Vaadake üle oma nimekirja ootamine: jälgige kõiki esemeid, mida teistelt ootate.
+Vaadake üle oma ühel päeval/võib -olla nimekiri: mõtisklege võimalike projektide või ideede üle, mida võiksite tulevikus jätkata.
+Vaadake üle oma tegevusloendid: veenduge, et teie järgmised toimingute loendid oleksid ajakohased, ja teil on eelseisva nädala jooksul selged ülesanded.
+Regulaarsete arvustuste eelised: regulaarsetel ülevaadetel on mitmeid eeliseid.Nad aitavad teid:
+
+Säilitage selgus ja keskenduge oma eesmärkidele ja prioriteetidele.
+Vähendage tähtaegade või kohustuste puudumise riski.
+Tuvastage kõik mittetäielikud või seiskunud projektid.
+Kõrvaldage koondamine ja veenduge, et te ei dubleeri.
+Hoidke kontrolli oma töökoormuse üle ja vähendage stressi.

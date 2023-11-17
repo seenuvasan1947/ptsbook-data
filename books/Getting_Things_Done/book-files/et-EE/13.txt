@@ -1,0 +1,17 @@
+12. osa: tööriistade loomine ja kasutamine töövoogude toetamiseks
+
+David Allenil on asjad tehtud, uurib ideed, et õigete tööriistade ja süsteemide olemasolu võib teie töövoogu ja tootlikkust märkimisväärselt parandada.Raamatu 2. osas, mille pealkiri on töövoogude toetamiseks tööriistade loomine ja kasutamine, uurib Allen erinevaid tööriistu ja tehnikaid, mis aitavad teil GTD metoodikat tõhusamalt rakendada.Siin on ülevaade sellest osast:
+
+Jäädvustamise tööriist: jäädvustamise tööriist on GTD põhikomponent.See on koht, kus jäädvustate kiiresti kogu sissetuleva teabe, ülesanded, ideed ja kohustused, mis muidu võivad teie meelt segada.See tööriist võiks olla füüsiline postkast, digitaalne märkmete võtmise rakendus või isegi häälmagnetofon.Peamine on, et teil on usaldusväärne süsteem, et jäädvustada kõike, mis teie tähelepanu vajab.
+
+Kalender: teie kalender on koht, kus kavandate ajatundlikke kohtumisi, koosolekuid ja tähtaegu.GTD -s on kalender reserveeritud üksuste jaoks, millel on nendega seotud konkreetne kuupäev ja kellaaeg.Teid julgustatakse kasutama kalendrit säästlikult, et neid kohustusi segaduste vältimiseks vältida.
+
+Järgmised toimingute loend: 2. osa rõhutab oma järgmiste toimingute loendi, mis on konkreetsete, teostatavate ülesannete pidamise tähtsus, mida peate oma projektide edasiliikumiseks täitma.Allen soovitab need toimingud kategoriseerida konteksti (nt kõned, e -kirjad, käsud), et hõlbustada nende tõhusat lahendamist.
+
+Projektide loend: see loend sisaldab kõiki teie aktiivseid projekte, millest igaühel on selge soovitud tulemus ja järgmiste toimingute loend.Projektide loendi ülevaatamine tagab regulaarselt, et püsite õigel teel ja teete järjekindlaid edusamme.
+
+Nimekirja ootamine: Nagu varem mainitud, jälgib see loetelu ülesandeid või kohustusi, mis sõltuvad kellegi teise tegevusest või vastusest.See on ülioluline vahend organiseeritud ja delegeeritud ülesannete täitmiseks.
+
+Võrdlusmaterjali süsteem: GTD rõhutab vajadust organiseeritud võrdlussüsteemi järele dokumentide, võrdlusmaterjalide ja teabe hoidmiseks, mida tulevikus vajate.See süsteem aitab teil vajadusel kiiresti teavet hankida.
+
+Tehnoloogia tõhusalt kasutamine: 2. osa käsitleb ka seda, kuidas kasutada digitaalseid tööriistu nagu e-post, ülesandehaldusrakendused ja märkmete tegemise tarkvara, et täiustada teie töövoogu.Peamine on integreerida need tööriistad oma GTD -süsteemi viisil, mis toetab teie tootlikkust, selle asemel, et lisada keerukust.

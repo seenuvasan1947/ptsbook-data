@@ -1,12 +1,12 @@
-Episode 1: Paradigms and Principles
+1. rész: Paradigmák és alapelvek
 
-In the opening chapter of "The 7 Habits," Stephen R. Covey introduces us to the fundamental concepts that underpin his philosophy of personal effectiveness: 
-paradigms and principles. He explains that paradigms are the lenses through which we view the world—the mental maps that shape our perceptions, attitudes, and behaviors. 
-These paradigms are often deeply ingrained and influence our decision-making.
+A 7 szokás megnyitó fejezetében Stephen R. Covey bemutatja nekünk az alapvető fogalmakat, amelyek a személyes hatékonyság filozófiáját alátámasztják:
+Paradigmák és alapelvek.Elmagyarázza, hogy a paradigmák azok a lencsék, amelyek révén a világot tekintjük - azok a mentális térképek, amelyek formálják az észlelésünket, attitűdjeinket és viselkedésünket.
+Ezek a paradigmák gyakran mélyen elmélyülnek és befolyásolják döntéshozatalunkat.
 
-Covey emphasizes the importance of examining and, if necessary, shifting our paradigms to align with enduring principles—timeless truths about human behavior 
-and effectiveness. Principles are the bedrock upon which personal and professional success is built. They include integrity, honesty, humility, empathy, 
-and the Golden Rule: treating others as we wish to be treated.
+Covey hangsúlyozza a vizsgálat fontosságát, és szükség esetén a paradigmáink megváltoztatása a tartós alapelvekhez való hozzáigazítás - az emberi viselkedésről szóló idő nélküli igazságok -
+és a hatékonyság.Az alapelvek az alapkőzet, amelyre a személyes és a szakmai sikert építik.Ide tartoznak az integritás, az őszinteség, az alázat, az empátia,
+és az aranyszabály: másokkal bánni, amikor kezelni akarunk.
 
-By understanding the power of paradigms and embracing universal principles, individuals can transform their lives from the inside out. 
-This insight sets the stage for the journey through the seven habits, guiding us to become more proactive in shaping our destinies.
+A paradigmák erejének megértésével és az egyetemes alapelvek átfogásával az egyének kívülről átalakíthatják életüket.
+Ez a betekintés megteremti a hét szokáson történő utazás színpadát, és arra irányul, hogy proaktívabbá váljunk a sorsok kialakításában.

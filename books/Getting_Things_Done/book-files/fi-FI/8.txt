@@ -1,0 +1,19 @@
+Jakso 7: Käsittely: tyhjentäminen
+
+Saatuaan asiat David Allenin, osa 2, nimeltään Processing: 'Sisälle' tyhjiin, sukeltamme syvemmälle prosessoinnin kriittiseen vaiheeseen.Tämä GTD -metodologian osa tarkoittaa kerättyjen kohteiden merkityksen ja seuraavien toimintojen selventämistä.Tässä ovat keskeiset käsitteet tästä osiosta:
+
+Selventämisprosessi: Käsittely on vaihe, jossa päätät, mitä kukin kerätty esine tarkoittaa ja mitä toimenpiteet siihen liittyy.Tuotteiden selventämiseen on neljä vaihtoehtoa:
+
+Roskakori: Jos esineellä ei ole arvoa tai merkitystä, hävitä se.
+Inkubaatti: Jotkut esineet eivät vaadi välittömiä toimia, mutta voivat olla tärkeitä tulevaisuudessa.Aseta nämä kohteet inkubaatio- tai referenssijärjestelmään.
+Viite: Jotkut kohteet toimivat vertailumateriaalina, kuten arkistoitavissa tai tallennettavissa olevat tiedot myöhempää käyttöä varten.
+Toimi: Jos kohde vaatii toimintaa, sinun on määritettävä erityiset seuraavat vaiheet.
+Seuraavat toimet: Seuraavan toiminnan määritteleminen on GTD: n perusperiaate.Se tarkoittaa tehtävien jakamista toimiviksi vaiheiksi.Epämääräisten tehtävätuotteiden, kuten kirjoitusraportin, sijasta selventäisit sitä raportin käyttöönoton luonnokseksi.Tämä selkeys eliminoi epäselvyyden ja helpottaa toimien toteuttamista.
+
+Projektin määritelmä: Jos tehtävä vaatii useamman kuin yhden askeleen valmistumiseen, siitä tulee projekti.Hankkeet on määriteltävä nimenomaisesti selkeällä tuloksella ja seuraavilla toimilla, joita tarvitaan tämän lopputuloksen saavuttamiseksi.
+
+Järjestäminen: Kun olet selventänyt seuraavia toimia, järjestä ne tavalla, joka tekee niistä helposti saatavilla, kun olet valmis työskentelemään niiden parissa.Tähän voisi liittyä toimien luokittelu kontekstin, prioriteetin tai määräajan mukaan.
+
+Luettelon odottaminen: Kaikki toiminnot eivät ole sinun hallinnassasi.Käytä luetteloa seuraavia toimintoja, jotka riippuvat muista.Tämä auttaa estämään esineitä putoamasta halkeamien läpi.
+
+Joskus/ehkä luettelo: Kaappaa ideoita tai projekteja, joita et ole sitoutunut työskentelemään välittömästi, mutta saatat harkita tulevaisuudessa.Tämä luettelo estää näitä ideoita sekoittamasta aktiivisia tehtäväluetteloitasi.

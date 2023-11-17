@@ -1,0 +1,19 @@
+Episodio 7: Procesamiento: Entrar en vacío
+
+Al hacer las cosas que David Allen, parte 2, titulado Processing: Entring 'In' vacía, nos sumergimos más profundamente en la fase crítica del procesamiento.Esta parte de la metodología GTD se trata de aclarar el significado y las próximas acciones para los elementos que ha recopilado.Aquí están los conceptos clave de esta sección:
+
+El proceso de aclaración: el procesamiento es la etapa en la que decide lo que significa cada elemento recopilado y qué acción, si la hay, está asociada con él.Hay cuatro opciones para aclarar elementos:
+
+Trash: si un elemento no tiene valor ni relevancia, descárguelo.
+Incubar: algunos elementos no requieren acciones inmediatas, pero pueden ser importantes en el futuro.Coloque estos elementos en un sistema de incubación o referencia.
+Referencia: Algunos elementos sirven como material de referencia, como la información que se presentará o almacenará para su uso posterior.
+Acción: si un elemento requiere acción, debe determinar los próximos pasos específicos.
+Siguiente Acciones: Definir la próxima acción es un principio fundamental de GTD.Significa dividir las tareas en pasos procesables.En lugar de elementos de tareas pendientes vagos como Write Report, lo aclararía como borrador de la introducción del informe.Esta claridad elimina la ambigüedad y hace que sea más fácil tomar medidas.
+
+Definición del proyecto: si una tarea requiere más de un paso para completar, se convierte en un proyecto.Los proyectos deben definirse explícitamente con un resultado claro y las siguientes acciones necesarias para lograr ese resultado.
+
+Acciones de organización: una vez que haya aclarado las próximas acciones, organícelas de una manera que las haga fácilmente accesibles cuando esté listo para trabajar en ellas.Esto podría implicar categorizar acciones por contexto, prioridad o fecha límite.
+
+La lista de espera: no todas las acciones están dentro de su control.Use una lista de espera para rastrear las acciones que dependen de los demás.Esto ayuda a evitar que los artículos caigan a través de las grietas.
+
+La lista de algún día/tal vez: capturar ideas o proyectos en los que no esté comprometido a trabajar de inmediato, pero que puede considerar en el futuro.Esta lista evita que estas ideas desordenen sus listas de tareas activas.

@@ -1,0 +1,11 @@
+Part 2: Heuristics and Biases
+
+Episode 3: The Lazy Controller
+
+In the third episode, Kahneman introduces the idea of System 2 as a  lazy controller.  While System 2 is essential for analytical thinking and self-control, it is reluctant to engage because it consumes mental energy.
+
+Kahneman presents an intriguing experiment to demonstrate System 2's reluctance. Participants are asked to solve math problems, and their responses are measured. When the problems are simple and intuitive, participants quickly and accurately respond. However, when the problems become more complex, requiring System 2's involvement, response times increase, and errors become more common.
+
+This phenomenon illustrates that our minds often default to System 1 thinking to conserve mental energy. System 2 is only activated when necessary, and even then, it seeks to minimize effort.
+
+Kahneman's exploration of the lazy controller concept highlights the fundamental role of System 2 in critical thinking and decision-making. It also introduces the idea that mental effort is a finite resource, and understanding how our minds allocate this resource is key to comprehending human cognition.

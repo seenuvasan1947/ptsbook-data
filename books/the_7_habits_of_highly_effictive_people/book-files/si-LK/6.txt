@@ -1,11 +1,11 @@
-Episode 4: The Third Habit: Put First Things First
+කථාංගය 4: තුන්වන පුරුද්ද: පළමු දේ පළමුව තබන්න
 
-In the third habit, "Put First Things First," Covey explores the art of time management and prioritization. He introduces the Time Management Matrix, 
-which categorizes tasks into four quadrants based on their urgency and importance.
+තුන්වන පුරුද්ද තුළ, පළමුව පළමු දේ මුල් තැන දෙන්න, කොව්ටි කාල කළමනාකරණය හා ප්රමුඛතාවය ලබා දෙන කලාව ගවේෂණය කරයි.ඔහු කාල කළමනාකරණ න්යාසය හඳුන්වා දෙයි,
+ඒවායේ හදිසි හා වැදගත්කම මත පදනම්ව චතුරස්රයන් හතරකට වර්ග හතරකට වර්ග කරන ලද කාර්යයන් වර්ග කරන ලදී.
 
-Covey argues that many people spend too much time on urgent but unimportant tasks (Quadrant I) or on non-urgent, unimportant tasks (Quadrant III),
- often neglecting the truly important but non-urgent tasks (Quadrant II). The key to effectiveness, he suggests, is to prioritize Quadrant II activities.
+කොවිදුකම තර්ක කරන්නේ බොහෝ අය හදිසි නමුත් අසීමිත නමුත් අසීමිත කාර්යයන් (චතුරන්ද්රික) හෝ හදිසි නොවන, වැදගත් නොවන කාර්යයන් (චතුරස්ර III) සඳහා වැඩි කාලයක් ගත කරන බවයි.
+ බොහෝ විට සැබවින්ම වැදගත් නමුත් හදිසි නොවන කාර්යයන් නොසලකා හැරීම (චතුරස්ර II).කාර්යක්ෂමතාව සඳහා වන යතුර, චතුරස්රාකාර II ක්රියාකාරකම් ප්රමුඛත්වය දීම බව ඔහු යෝජනා කරයි.
 
-To put first things first, Covey introduces the concept of "Quadrant II focus," which involves dedicating time to activities that are not urgent but have 
-a significant impact on our long-term goals. This habit helps individuals become more proactive and focused on what truly matters, allowing them to achieve 
-their objectives while reducing stress and firefighting.
+පළමු දේ පළමුවෙන්ම තැබීමට, කොවායිට චතුරස්රාකාර II වන සංකල්පය හඳුන්වා දෙයි, හදිසි නමුත් හදිසි නොවන ක්රියාකාරකම් සඳහා කාලය කැප කිරීම හා
+අපගේ දිගුකාලීන අරමුණු සඳහා සැලකිය යුතු බලපෑමක්.මෙම පුරුද්ද පුද්ගලයන්ට වඩාත් ක්රියාශීලී වීමට සහ සැබවින්ම වැදගත් වන දේ කෙරෙහි අවධානය යොමු කිරීමට ඉඩ සලසයි
+මානසික ආතතිය හා ගිනි නිවීම අවම කරන අතරතුර ඔවුන්ගේ අරමුණු.

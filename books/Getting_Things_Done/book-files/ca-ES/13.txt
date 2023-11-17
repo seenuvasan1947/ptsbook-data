@@ -1,0 +1,17 @@
+Episodi 12: Creació i utilitzant eines per suportar el flux de treball
+
+David Allen es fa les coses que explora la idea que tenir les eines i els sistemes adequats al seu lloc pot millorar significativament el flux de treball i la productivitat.A la segona part del llibre, titulat Creació i utilitzant eines per suportar el flux de treball, Allen aprofundeix en diverses eines i tècniques que us ajuden a implementar la metodologia GTD de manera més eficaç.Aquí teniu una visió general d'aquesta part:
+
+L’eina de captura: l’eina de captura és un component fonamental de GTD.És el lloc on captureu ràpidament tota la informació, tasques, idees i compromisos entrants que, d’altra manera, podrien afectar la vostra ment.Aquesta eina podria ser una safata d'entrada física, una aplicació de presa de notes digitals o fins i tot una gravadora de veu.La clau és tenir un sistema fiable per capturar tot el que necessiti la vostra atenció.
+
+El calendari: el vostre calendari és on programeu cites, reunions i terminis sensibles al temps.A GTD, el calendari es reserva per a articles que tinguin una data i hora específiques associades a ells.Se us anima a utilitzar el vostre calendari amb moderació per a aquests compromisos per evitar el desordre.
+
+La següent llista d’accions: la segona part posa l’accent en la importància de mantenir una llista de les vostres properes accions, que són les tasques concretes i factibles que heu de completar per avançar els vostres projectes.Allen recomana categoritzar aquestes accions per context (per exemple, trucades, correus electrònics, encàrrecs) per facilitar -les de manera eficient.
+
+La llista de projectes: aquesta llista conté tots els vostres projectes actius, cadascun amb un resultat clar desitjat i una llista de properes accions.Revisar la llista de projectes garanteix regularment que seguiu al camí i feu un progrés constant.
+
+La llista d'espera: com s'ha esmentat anteriorment, aquesta llista fa un seguiment de tasques o compromisos que depenen de l'acció o la resposta d'una altra persona.És una eina crucial per mantenir -se organitzat i seguir les tasques delegades.
+
+El sistema de material de referència: GTD posa l’accent en la necessitat d’un sistema de referència organitzat per emmagatzemar documents, materials de referència i informació que necessiteu en el futur.Aquest sistema us ajuda a recuperar ràpidament informació quan sigui necessari.
+
+Utilitzant la tecnologia de manera eficaç: la part 2 també tracta com aprofitar eines digitals com el correu electrònic, les aplicacions de gestió de tasques i el programari de presa de notes per millorar el vostre flux de treball.La clau és integrar aquestes eines al vostre sistema GTD de manera que admeti la vostra productivitat en lloc d’afegir complexitat.

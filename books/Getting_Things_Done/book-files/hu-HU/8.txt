@@ -1,0 +1,19 @@
+7. epizód: Feldolgozás: Az ürítésbe való belépés
+
+A David Allen, a 2. rész, a feldolgozás címe: a „beillesztése” elhelyezésével, mélyebben belemerülünk a feldolgozás kritikus szakaszába.A GTD -módszernek ez a része az összegyűjtött tételek jelentésének és következő tevékenységeinek tisztázásáról szól.Itt vannak a kulcsfogalmak ebből a szakaszból:
+
+A tisztító folyamat: A feldolgozás az a szakasz, amikor eldönti, hogy az egyes tételek mit jelentenek, és milyen művelet, ha van ilyen, kapcsolódik hozzá.Négy lehetőség van az elemek tisztázására:
+
+Trash: Ha egy elemnek nincs értéke vagy relevanciája, dobja el.
+Inkubálás: Néhány elem nem igényel azonnali intézkedést, de a jövőben is fontos lehet.Helyezze ezeket az elemeket inkubációs vagy referenciarendszerbe.
+Referencia: Egyes elemek referenciaanyagként szolgálnak, például a későbbi felhasználásra benyújtandó vagy tárolásra kerülő információk.
+Művelet: Ha egy elem műveletet igényel, akkor meg kell határoznia a következő lépéseket.
+Következő műveletek: A következő intézkedés meghatározása a GTD alapelve.Ez azt jelenti, hogy a feladatokat cselekvési lépésekre bontani.A homályos tennivalók helyett, mint például az írási jelentés, a jelentés bevezetésének tervezeteként tisztázná.Ez az egyértelműség kiküszöböli a kétértelműséget, és megkönnyíti a cselekvést.
+
+Projektdefiníció: Ha egy feladat egynél több lépést igényel a befejezéshez, akkor ez egy projektré válik.A projekteket kifejezetten egyértelmű eredményekkel és az eredmény eléréséhez szükséges következő intézkedésekkel kell meghatározni.
+
+Műveletek szervezése: Miután tisztázta a következő műveleteket, szervezze meg azokat oly módon, hogy könnyen hozzáférhetővé tegye őket, ha készen áll a munkára.Ez magában foglalhatja a cselekvések kategorizálását kontextus, prioritás vagy határidő szerint.
+
+A lista várakozása: Nem minden művelet van az Ön ellenőrzésén belül.Használjon egy várakozási listát a másoktól függő műveletek nyomon követésére.Ez segít megakadályozni, hogy az elemek a repedésekbe esjenek.
+
+A napi/esetleg felsorolják: olyan ötleteket vagy projekteket rögzítsen, amelyekkel nem vállalja azonnal a dolgot, de a jövőben is figyelembe veheti.Ez a lista megakadályozza, hogy ezek az ötletek az aktív feladatlisták rendetlenségétől.

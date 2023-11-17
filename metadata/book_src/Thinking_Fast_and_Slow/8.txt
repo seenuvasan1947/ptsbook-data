@@ -1,0 +1,5 @@
+Episode 7: A Machine for Jumping to Conclusions
+
+In this episode, Kahneman explores the tendency of our minds, specifically System 1, to jump to conclusions quickly. He introduces the concept of  wysiwg,  which stands for  what you see is all there is.  This principle suggests that when presented with limited information, we tend to form judgments and make decisions based on what's immediately available to us, even if it's incomplete.
+
+Kahneman discusses how this inclination to jump to conclusions can lead to errors in judgment and decision-making. Our minds fill in gaps in information with assumptions and heuristics, often leading to biased or incorrect conclusions. Understanding this cognitive shortcut is crucial for recognizing when we might be making judgments based on incomplete or biased information.

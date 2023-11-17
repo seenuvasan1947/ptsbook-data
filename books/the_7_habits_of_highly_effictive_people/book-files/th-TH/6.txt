@@ -1,11 +1,11 @@
-Episode 4: The Third Habit: Put First Things First
+ตอนที่ 4: นิสัยที่สาม: ใส่สิ่งแรกก่อน
 
-In the third habit, "Put First Things First," Covey explores the art of time management and prioritization. He introduces the Time Management Matrix, 
-which categorizes tasks into four quadrants based on their urgency and importance.
+ในนิสัยที่สามให้ใส่สิ่งแรกก่อน Covey สำรวจศิลปะการจัดการเวลาและการจัดลำดับความสำคัญเขาแนะนำเมทริกซ์การจัดการเวลา
+ซึ่งจัดหมวดหมู่งานเป็นสี่ส่วนขึ้นอยู่กับความเร่งด่วนและความสำคัญของพวกเขา
 
-Covey argues that many people spend too much time on urgent but unimportant tasks (Quadrant I) or on non-urgent, unimportant tasks (Quadrant III),
- often neglecting the truly important but non-urgent tasks (Quadrant II). The key to effectiveness, he suggests, is to prioritize Quadrant II activities.
+Covey แย้งว่าหลายคนใช้เวลามากเกินไปในงานเร่งด่วน แต่ไม่สำคัญ (Quadrant I) หรืองานที่ไม่เร่งด่วนไม่สำคัญ (Quadrant III)
+ มักจะละเลยงานที่สำคัญ แต่ไม่เร่งด่วน (Quadrant II)กุญแจสำคัญในประสิทธิภาพเขาแนะนำคือการจัดลำดับความสำคัญของกิจกรรม Quadrant II
 
-To put first things first, Covey introduces the concept of "Quadrant II focus," which involves dedicating time to activities that are not urgent but have 
-a significant impact on our long-term goals. This habit helps individuals become more proactive and focused on what truly matters, allowing them to achieve 
-their objectives while reducing stress and firefighting.
+เพื่อให้สิ่งแรกเป็นอันดับแรก Covey แนะนำแนวคิดของการโฟกัส Quadrant II ซึ่งเกี่ยวข้องกับการอุทิศเวลาให้กับกิจกรรมที่ไม่เร่งด่วน แต่มี
+ผลกระทบที่สำคัญต่อเป้าหมายระยะยาวของเรานิสัยนี้ช่วยให้บุคคลมีความกระตือรือร้นมากขึ้นและมุ่งเน้นไปที่สิ่งที่สำคัญอย่างแท้จริงทำให้พวกเขาบรรลุเป้าหมาย
+วัตถุประสงค์ของพวกเขาในขณะที่ลดความเครียดและการดับเพลิง

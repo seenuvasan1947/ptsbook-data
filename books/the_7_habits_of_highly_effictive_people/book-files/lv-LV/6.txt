@@ -1,11 +1,11 @@
-Episode 4: The Third Habit: Put First Things First
+4. epizode: trešais ieradums: vispirms izvirziet pirmās lietas
 
-In the third habit, "Put First Things First," Covey explores the art of time management and prioritization. He introduces the Time Management Matrix, 
-which categorizes tasks into four quadrants based on their urgency and importance.
+Trešajā ieradumā vispirms izvirza pirmās lietas, Covey pēta laika pārvaldības un prioritāšu noteikšanas mākslu.Viņš iepazīstina ar laika pārvaldības matricu,
+kas kategorizē uzdevumus četros kvadrantos, pamatojoties uz to steidzamību un nozīmi.
 
-Covey argues that many people spend too much time on urgent but unimportant tasks (Quadrant I) or on non-urgent, unimportant tasks (Quadrant III),
- often neglecting the truly important but non-urgent tasks (Quadrant II). The key to effectiveness, he suggests, is to prioritize Quadrant II activities.
+Covey apgalvo, ka daudzi cilvēki pārāk daudz laika pavada steidzamiem, bet nesvarīgiem uzdevumiem (I kvadrants) vai nesteidzīgiem, nesvarīgiem uzdevumiem (III kvadrants),
+ bieži novārtā atstājot patiesi svarīgus, bet neiespējīgus uzdevumus (II kvadrants).Viņš ierosina, ka efektivitātes atslēga ir II kvadranta aktivitāšu prioritāte.
 
-To put first things first, Covey introduces the concept of "Quadrant II focus," which involves dedicating time to activities that are not urgent but have 
-a significant impact on our long-term goals. This habit helps individuals become more proactive and focused on what truly matters, allowing them to achieve 
-their objectives while reducing stress and firefighting.
+Pirmās lietas vispirms, Covey iepazīstina ar II kvadranta fokusa jēdzienu, kas ietver laika veltīšanu darbībām, kas nav steidzamas, bet ir
+būtiska ietekme uz mūsu ilgtermiņa mērķiem.Šis ieradums palīdz indivīdiem kļūt aktīvākiem un koncentrēties uz to, kas patiesi ir svarīgi, ļaujot viņiem sasniegt
+Viņu mērķi, vienlaikus samazinot stresu un ugunsdzēsību.

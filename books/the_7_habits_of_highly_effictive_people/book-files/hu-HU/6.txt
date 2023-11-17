@@ -1,11 +1,11 @@
-Episode 4: The Third Habit: Put First Things First
+4. rész: A harmadik szokás: Tegye az első dolgokat
 
-In the third habit, "Put First Things First," Covey explores the art of time management and prioritization. He introduces the Time Management Matrix, 
-which categorizes tasks into four quadrants based on their urgency and importance.
+A harmadik szokás szerint az első dolgokat az első helyen áll, Covey feltárja az időgazdálkodás művészetét és a prioritások meghatározását.Bemutatja az időgazdálkodási mátrixot,
+amely sürgősségük és fontosságuk alapján négy negyedbe sorolja a feladatokat.
 
-Covey argues that many people spend too much time on urgent but unimportant tasks (Quadrant I) or on non-urgent, unimportant tasks (Quadrant III),
- often neglecting the truly important but non-urgent tasks (Quadrant II). The key to effectiveness, he suggests, is to prioritize Quadrant II activities.
+Covey azt állítja, hogy sok ember túl sok időt tölt sürgős, de nem fontos feladatokra (I. kvadráns), vagy nem sürgős, nem fontos feladatokra (III. Quadrant),
+ Gyakran elhanyagolják az igazán fontos, de nem sürgős feladatokat (II. Quadrant).A hatékonyság kulcsa - javasolja - a II. Tevékenységek prioritása.
 
-To put first things first, Covey introduces the concept of "Quadrant II focus," which involves dedicating time to activities that are not urgent but have 
-a significant impact on our long-term goals. This habit helps individuals become more proactive and focused on what truly matters, allowing them to achieve 
-their objectives while reducing stress and firefighting.
+Az első dolgok elsődleges feltárása érdekében a Covey bemutatja a II. Fókuszfókusz koncepcióját, amely magában foglalja az időt a nem sürgõs, de rendelkezõ tevékenységeknek való odaadással
+Jelentős hatással van hosszú távú céljainkra.Ez a szokás elősegíti az egyének proaktívabbá válását, és arra összpontosítson, ami valóban számít, lehetővé téve számukra az elérést
+célkitűzéseik, miközben csökkentik a stresszt és a tűzoltást.

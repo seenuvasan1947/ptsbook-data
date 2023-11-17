@@ -1,10 +1,10 @@
-Introduction
+හැදින්වීම
 
-In the introduction to "The 7 Habits of Highly Effective People," Stephen R. Covey sets the stage by sharing a powerful lesson from his own life. 
-He describes an experience on a New York City subway when he observed a man with his unruly children, seemingly indifferent to their disruptive behavior. 
-However, Covey's perspective changed when he realized that the father was mourning the recent loss of his wife. 
-This realization led Covey to reflect on the nature of principles and paradigms.
+ඉහළ effective ලදායී පුද්ගලයින් 7 දෙනාගේ පුරුදු 7 හැඳින්වීම තුළ, ස්ටීවන් ආර්. තුවී තම ජීවිතයෙන් ප්රබල පාඩමක් බෙදා ගැනීමෙන් වේදිකාව සකසයි.
+ඔහු නිව්යෝර්ක් නගරයක් උමං මාර්ගයක අත්දැකීමක් විස්තර කරන්නේ තමා නොහික්මුණු දරුවන් ඇති මිනිසෙකු නිරීක්ෂණය කළ මිනිසෙකු ඔවුන්ගේ කඩාකප්පල්කාරී හැසිරීම ගැන නොසැලකිලිමත් බවයි.
+කෙසේ වෙතත්, ආවේවිගේ දෘෂ්ටිකෝණය මෑතකදී තම බිරිඳ අහිමි වීම ගැන වැලපෙන බව දැනගත් විටය.
+මූලධර්ම හා පරමාදර්ශයේ ස්වභාවය ගැන මෙනෙහි කිරීම සඳහා මෙම අවබෝධය මෙහෙයවනු ලැබීය.
 
-Covey introduces the concept of "inside-out" thinking, emphasizing that true change and effectiveness come from a shift in one's character, mindset, and principles. 
-He challenges readers to examine their own paradigms and offers the promise that by embracing the seven habits outlined in the book, they can transform their lives, 
-both personally and professionally.
+කොවඩි තුළ ඇති වූ චින්තනය පිළිබඳ සංකල්පය, සැබෑ වෙනසක් හා effectiveness ලදායීතාවය කෙනෙකුගේ චරිත, මානසිකත්වය සහ මූලධර්මවල මාරුවකින් ලැබෙන බව අවධාරණය කරයි.
+පා readers කයන්ට තමන්ගේ පරමාදර්ශීන් පරීක්ෂා කර බැලීමට පා readers කයන්ට අභියෝග කරන අතර පොතේ දක්වා ඇති පුරුදු හත වැලඳ ගැනීමෙන් ඔවුන්ට ඔවුන්ගේ ජීවිත පරික්ෂා කළ හැකි බවට පොරොන්දුවක් ලබා දෙයි.
+පුද්ගලිකව හා වෘත්තීයමය වශයෙන්.

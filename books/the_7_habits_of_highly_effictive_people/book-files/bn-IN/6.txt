@@ -1,11 +1,11 @@
-Episode 4: The Third Habit: Put First Things First
+পর্ব 4: তৃতীয় অভ্যাস: প্রথম জিনিসগুলি প্রথমে রাখুন
 
-In the third habit, "Put First Things First," Covey explores the art of time management and prioritization. He introduces the Time Management Matrix, 
-which categorizes tasks into four quadrants based on their urgency and importance.
+তৃতীয় অভ্যাসে, প্রথম জিনিসগুলি প্রথমে রাখুন, কোভি সময় পরিচালনা এবং অগ্রাধিকারের শিল্পটি অনুসন্ধান করে।তিনি টাইম ম্যানেজমেন্ট ম্যাট্রিক্সের পরিচয় করিয়ে দেন,
+যা তাদের জরুরিতা এবং গুরুত্বের ভিত্তিতে চারটি কোয়াড্রেন্টে কাজগুলিকে শ্রেণিবদ্ধ করে।
 
-Covey argues that many people spend too much time on urgent but unimportant tasks (Quadrant I) or on non-urgent, unimportant tasks (Quadrant III),
- often neglecting the truly important but non-urgent tasks (Quadrant II). The key to effectiveness, he suggests, is to prioritize Quadrant II activities.
+কোভির যুক্তি রয়েছে যে অনেক লোক জরুরি তবে গুরুত্বহীন কাজগুলিতে (কোয়াড্রেন্ট আই) বা অ-জরুরি, গুরুত্বহীন কাজগুলিতে (কোয়াড্রেন্ট তৃতীয়) খুব বেশি সময় ব্যয় করে
+ প্রায়শই সত্যিকারের গুরুত্বপূর্ণ তবে অ-জরুরি কাজগুলি অবহেলা করা (চতুর্ভুজ II)।তিনি পরামর্শ দিয়েছিলেন, কার্যকারিতার মূল বিষয় হ'ল চতুর্ভুজ II ক্রিয়াকলাপকে অগ্রাধিকার দেওয়া।
 
-To put first things first, Covey introduces the concept of "Quadrant II focus," which involves dedicating time to activities that are not urgent but have 
-a significant impact on our long-term goals. This habit helps individuals become more proactive and focused on what truly matters, allowing them to achieve 
-their objectives while reducing stress and firefighting.
+প্রথম জিনিস প্রথমে বলতে গেলে, কোভি কোয়াড্রেন্ট II ফোকাসের ধারণাটি প্রবর্তন করে, যার মধ্যে জরুরি নয় তবে রয়েছে এমন ক্রিয়াকলাপগুলিতে সময় উত্সর্গ করা জড়িত
+আমাদের দীর্ঘমেয়াদী লক্ষ্যগুলিতে একটি উল্লেখযোগ্য প্রভাব।এই অভ্যাসটি ব্যক্তিদের আরও সক্রিয় হয়ে উঠতে সহায়তা করে এবং সত্যিকার অর্থে গুরুত্বপূর্ণ বিষয়গুলিতে মনোনিবেশ করে, তাদের অর্জনের অনুমতি দেয়
+স্ট্রেস এবং ফায়ারফাইটিং হ্রাস করার সময় তাদের উদ্দেশ্যগুলি।

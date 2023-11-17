@@ -1,0 +1,17 @@
+12. rész: Eszközök létrehozása és használata a munkafolyamat támogatására
+
+David Allen dolgok elvégzése feltárja azt az elképzelést, hogy a megfelelő eszközök és rendszerek a helyükön jelentősen javíthatják a munkafolyamatot és a termelékenységet.A könyv 2. részében, amelynek címe az eszközök létrehozása és felhasználása a munkafolyamat támogatására, Allen különféle eszközökbe és technikákba merül, amelyek segítenek a GTD módszertan hatékonyabb megvalósításában.Itt van egy áttekintés erről a részről:
+
+A rögzítőeszköz: A rögzítőeszköz a GTD alapvető alkotóeleme.Ez az a hely, ahol gyorsan rögzítheti az összes bejövő információt, feladatokat, ötleteket és kötelezettségvállalásokat, amelyek egyébként elronthatják az elmédet.Ez az eszköz lehet fizikai beérkező levelek, digitális jegyzetkészítő alkalmazás vagy akár hangrögzítő.A legfontosabb az, hogy megbízható rendszerrel rendelkezzen minden, ami a figyelmet igényli.
+
+A naptár: A naptárban az időérzékeny kinevezéseket, találkozókat és határidőket ütemezi.A GTD -ben a naptár olyan tételek számára van fenntartva, amelyekhez konkrét dátum és idő áll rendelkezésre.Arra biztatjuk, hogy a naptárát óvatosan használja ezekre a kötelezettségvállalásokra a rendetlenség elkerülése érdekében.
+
+A következő műveletek listája: A 2. rész hangsúlyozza a következő műveletek listájának fenntartásának fontosságát, amelyek a projektek előrehaladásához be kell fejezniük a beton, végrehajtható feladatokat.Allen azt javasolja, hogy ezeket a műveleteket kontextus szerint kategorizálják (például hívások, e -mailek, megbízások), hogy megkönnyítsék a hatékony kezelést.
+
+A projektek listája: Ez a lista tartalmazza az összes aktív projektet, mindegyiknek egyértelmű kívánt eredménye és a következő műveletek listája.A projektek listájának rendszeres áttekintése biztosítja, hogy a pályán maradjon, és folyamatosan haladjon.
+
+Várakozás a listára: Mint korábban említettük, ez a lista nyomon követi azokat a feladatokat vagy kötelezettségvállalásokat, amelyek valaki más cselekedetétől vagy válaszától függnek.Ez egy kritikus eszköz a szervezettség tartózkodásához és a delegált feladatok nyomon követéséhez.
+
+Referenciaanyagrendszer: A GTD hangsúlyozza a szervezett referenciarendszer szükségességét a dokumentumok, referenciaanyagok és információk tárolására, amelyekre a jövőben lehet.Ez a rendszer segít az információk gyors lekérdezésében, ha szükséges.
+
+A technológia hatékony használata: A 2. rész a munkafolyamat javítása érdekében a digitális eszközök, például az e-mail, a feladatkezelő alkalmazások és a jegyzetkészítő szoftverek kihasználása is.A legfontosabb az, hogy ezeket az eszközöket integráljuk a GTD rendszerbe oly módon, hogy a termelékenységet támogassák, ahelyett, hogy összetettséget adnának.

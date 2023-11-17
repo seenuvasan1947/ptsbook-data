@@ -1,0 +1,17 @@
+Jakso 12: Työkalujen luominen ja käyttäminen työnkulun tukemiseen
+
+David Allenin tekeminen tutkitaan ajatusta, että oikeiden työkalujen ja järjestelmien saaminen voi parantaa merkittävästi työnkulkua ja tuottavuutta.Kirjan osassa 2, jonka otsikko on työkalujen luominen ja käyttäminen työnkulun tukemiseen, Allen on erilaisissa työkaluissa ja tekniikoissa, jotka auttavat sinua toteuttamaan GTD -menetelmää tehokkaammin.Tässä on yleiskatsaus tästä osasta:
+
+Kaappaustyökalu: Kaappaustyökalu on GTD: n perusosa.Se on paikka, jossa kaappaat nopeasti kaikki saapuvat tiedot, tehtävät, ideat ja sitoumukset, jotka muuten saattavat sotkea mielesi.Tämä työkalu voisi olla fyysinen postilaatikko, digitaalinen muistiinpano-sovellus tai jopa äänitallistin.Tärkeintä on luotettava järjestelmä kaiken huomion sieppaamiseksi.
+
+Kalenteri: Kalenterisi ajoitat aikaherkät tapaamiset, kokoukset ja määräajat.GTD: ssä kalenteri on varattu kohteille, joiden tietty päivämäärä ja aika liittyy niihin.Sinua rohkaistaan käyttämään kalenteriasi säästeliäästi näiden sitoumusten suhteen sotkun välttämiseksi.
+
+Seuraava toimintoluettelo: Osa 2 korostaa seuraavien toimintojen luettelon ylläpitämisen tärkeyttä, jotka ovat konkreettisia, toteutettavissa olevia tehtäviä, jotka sinun on suoritettava projektien siirtämiseksi eteenpäin.Allen suosittelee näiden toimien luokittelua kontekstiin (esim. Puhelut, sähköpostit, asiat), jotta ne olisivat helpompaa käsitellä niitä tehokkaasti.
+
+Projektiluettelo: Tämä luettelo sisältää kaikki aktiiviset projektit, joissa jokaisella on selkeä haluttu tulos ja luettelo seuraavista toimista.Projektiluettelosi tarkistaminen säännöllisesti varmistaa, että pysyt raiteilla ja edistyt johdonmukaisesti.
+
+Luettelon odottaminen: Kuten aiemmin mainittiin, tämä luettelo seuraa tehtäviä tai sitoumuksia, jotka riippuvat jonkun toisen toiminnasta tai vastauksesta.Se on tärkeä työkalu organisoidun ja delegoidun tehtävien seuraamiseksi.
+
+Vertailumateriaalijärjestelmä: GTD korostaa organisoidun referenssijärjestelmän tarvetta asiakirjojen, vertailumateriaalien ja tietojen tallentamiseksi tulevaisuudessa.Tämä järjestelmä auttaa sinua hakemaan tietoja nopeasti tarvittaessa.
+
+Teknologian käyttäminen tehokkaasti: Osa 2 käsittelee myös digitaalisten työkalujen, kuten sähköpostien, tehtävänhallintasovellusten ja muistiinpanoohjelmistojen hyödyntämistä työnkulun parantamiseksi.Tärkeintä on integroida nämä työkalut GTD -järjestelmään tavalla, joka tukee tuottavuuttasi monimutkaisuuden lisäämisen sijaan.

@@ -1,0 +1,13 @@
+Part 1: Two Systems
+
+Episode 1: The Characters of the Story
+
+In the opening of  Thinking, Fast and Slow,  Daniel Kahneman introduces readers to the two central characters of his exploration into human cognition: System 1 and System 2. These two systems represent the dual nature of our thinking processes.
+
+System 1 is fast, intuitive, and automatic. It operates effortlessly, making quick judgments and decisions based on heuristics and patterns. It's the system that helps you recognize a familiar face or react swiftly to a sudden threat. However, it's prone to cognitive biases and errors.
+
+System 2, on the other hand, is slow, deliberate, and analytical. It engages when we face complex problems that require conscious thought and effort. It's the system we use for critical thinking, problem-solving, and self-control. Unlike System 1, it's more deliberate and less prone to biases.
+
+Kahneman's use of these characters sets the stage for the exploration of how they interact, sometimes harmoniously and sometimes in conflict, to shape our judgments and decisions. Understanding the roles of System 1 and System 2 is crucial to comprehending the complexities of human thought.
+
+
