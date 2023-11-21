@@ -1,18 +1,17 @@
-Episode 6: Collection: Corralling Your  Stuff  (Part 2)
+කථාංග 6: එකතු කිරීම: ඔබේ දේවල් කොරියල් කිරීම (2 කොටස)
 
-In the second part of  Getting Things Done  by David Allen, titled  Collection: Corralling Your 'Stuff,'  we explore the crucial step of gathering and capturing all the items, tasks, commitments, and ideas that clutter our minds and lives. This part focuses on building a system to collect and process these inputs effectively.
+එකතු කිරීමේ මාතෘකාව: ඔබේ 'දේවල් කොලිස් ඇල් ඩේවිඩ් ඇලන් විසින් කරන ලද දේවල් ලබා ගැනීමේ දෙවන කොටසෙහි: ඔබේ' දේවල් කොලිස්, 'අපගේ මනස හා ජීවිත අවුල් කරන සියලුම අයිතම, කාර්ය, බැඳීම් සහ අදහස් රැස් කිරීමේ තීරණාත්මක පියවර ගැන අපි ගවේෂණය කරමු.මෙම කොටස මෙම යෙදවුම් .ලදායී ලෙස එකතු කර සැකසීමට පද්ධතියක් ගොඩනැගීම කෙරෙහි අවධානය යොමු කරයි.
 
-Key concepts in this section include:
+මෙම කොටසේ ප්රධාන සංකල්පවලට ඇතුළත් වන්නේ:
 
-The Capture Habit: David Allen emphasizes the importance of developing the habit of capturing all your commitments and ideas as they arise. This includes everything from work-related tasks to personal to-dos and even fleeting thoughts or concerns. The goal is to ensure that nothing is left unrecorded.
+අල්ලා ගැනීමේ පුරුද්ද: ඔබගේ සියලු කැපවීම් හා අදහස් පැන නගින විට ග්රහණය කර ගැනීමේ පුරුද්ද වර්ධනය කිරීමේ වැදගත්කම ඩේවිඩ් ඇලන් අවධාරණය කරයි.රැකියාවට සම්බන්ධ කාර්යයන්වල සිට පෞද්ගලික හෝ කාරණා හෝ ගැටළු වලට පවා වැඩ හා සම්බන්ධ කාර්යයන්හි සෑම දෙයක්ම මෙයට ඇතුළත් වේ.ඉලක්කය වන්නේ කිසිවක් වාර්තා නොකිරීමට වග බලා ගැනීමයි.
 
-The Ubiquitous Capture Tool: To facilitate this capturing habit, it's essential to have a reliable and readily accessible tool for recording your  stuff.  This can be a physical notebook, a digital note-taking app, voice recorder, or any method that suits your preferences. The tool should always be within arm's reach.
+සර්වබලධාරී ග්රහණය කිරීමේ මෙවලම: මෙම ග්රහණය කිරීමේ පුරුද්ද සඳහා පහසුකම් සැලසීම සඳහා, ඔබේ දේවල් පටිගත කිරීම සඳහා විශ්වාසදායක හා පහසුවෙන් ප්රවේශ විය හැකි මෙවලමක් තිබීම අත්යවශ්ය වේ.මෙය භෞතික සටහන් පොතක්, ඩිජිටල් නෝට්ටුවක් ගැනීමේ යෙදුමක්, හ voice පටිගත කිරීම හෝ ඔබේ මනාපයන් ගැලපෙන ඕනෑම ක්රමයක් විය හැකිය.මෙවලම සැමවිටම අතේ ළඟා විය යුතුය.
 
-Avoiding Mental Clutter: By capturing everything externally, you prevent mental clutter and anxiety. Your mind is freed from the need to remember every detail, allowing you to think more clearly and make better decisions.
+මානසික කැළඹීම වළක්වා ගැනීම: සෑම දෙයක්ම බාහිරව අල්ලා ගැනීමෙන්, මානසික කැළඹීම සහ කාංසාව වළක්වා ගැනීමෙන්.සෑම විස්තරයක්ම මතක තබා ගැනීමේ අවශ්යතාවයෙන් ඔබේ මනස නිදහස් වී, ඔබට වඩාත් පැහැදිලිව සිතීමට හා වඩා හොඳ තීරණ ගැනීමට ඉඩ සලසයි.
 
-Unprocessed Items: Items you collect are not tasks yet; they are unprocessed. Processing involves deciding what each item means, what action is required (if any), and what the desired outcome is. This is where you transform  stuff  into actionable tasks, reference material, or items to be discarded.
+සැකසූ අයිතම: ඔබ එකතු කරන අයිතම තවමත් කාර්යයන් නොවේ;ඒවා සකස් කර නොමැත.සැකසීම යනු එක් එක් අයිතමයේ තේරුම තීරණය කිරීම, අවශ්ය වන්නේ කුමක්ද (ඇත්නම් (ඇත්නම්) සහ අපේක්ෂිත ප්රති come ලය කුමක්ද යන්නයි.ඉවතලන පරිදි ක්රියාශීලී කාර්යයන්, යොමු ද්රව්ය හෝ ඉවත දැමිය යුතු දේ ඔබ පරිවර්තනය කරන්නේ මෙහිදීය.
 
-The Two-Minute Rule: If an item can be completed in two minutes or less, do it immediately. This small commitment of time eliminates many small tasks quickly, preventing them from accumulating.
+මිනිත්තු දෙකේ රීතිය: අයිතමයක් මිනිත්තු දෙකකින් හෝ ඊට අඩු ගණනකින් සම්පූර්ණ කළ හැකි නම්, වහාම එය කරන්න.මෙම කුඩා කැපවීමෙන් සමුච්චය වීම වළක්වාලමින් කුඩා බොහෝ කුඩා කාර්යයන් ඉක්මනින් ඉවත් කරයි.
 
-Deferred Decisions: Not everything needs immediate action. Some items are better suited for future actions or reference. The GTD system helps you organize these deferred decisions systematically.
-
+කල් දැමූ තීරණ: සෑම දෙයක්ම ක්ෂණික ක්රියාමාර්ගයක් අවශ්ය නොවේ.සමහර අයිතම අනාගත ක්රියා හෝ යොමු කිරීම සඳහා සුදුසු වේ.මෙම කල් දැමූ තීරණ ක්රමානුකූලව සංවිධානය කිරීමට GTD පද්ධතිය ඔබට උපකාරී වේ.

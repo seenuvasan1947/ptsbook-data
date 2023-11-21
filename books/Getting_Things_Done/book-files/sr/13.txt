@@ -1,18 +1,17 @@
-Episode 12: Creating and Using Tools to Support Workflow 
+Епизода 12: Стварање и коришћење алата за подршку радном току
 
-David Allen's  Getting Things Done  explores the idea that having the right tools and systems in place can significantly enhance your workflow and productivity. In Part 2 of the book, titled  Creating and Using Tools to Support Workflow,  Allen delves into various tools and techniques that help you implement the GTD methodology more effectively. Here's an overview of this part:
+Давид Аллен је урађено да се ураде истражује идеја да имају праве алате и системе који могу значајно побољшати ваш радни ток и продуктивност.У делу 2 књиге, под називом креирања и коришћењем алата за подршку радном току, Аллен преноси у разне алате и технике које вам помажу да ефикасније примените ГТД методологију.Ево прегледа овог дела:
 
-The Capture Tool: The Capture Tool is a fundamental component of GTD. It's the place where you quickly capture all the incoming information, tasks, ideas, and commitments that might otherwise clutter your mind. This tool could be a physical inbox, a digital note-taking app, or even a voice recorder. The key is to have a reliable system for capturing everything that needs your attention.
+Алат за хватање: Алат за хватање је основна компонента ГТД-а.То је место где брзо ухватите све долазне информације, задатке, идеје и обавезе које би се иначе могле оставити ума.Овај алат може бити физички примљени оквир, апликација за дигиталну белешку или чак и диктафон.Кључ је да имате поуздан систем за хватање свега што вам је потребна пажња.
 
-The Calendar: Your calendar is where you schedule time-sensitive appointments, meetings, and deadlines. In GTD, the calendar is reserved for items that have a specific date and time associated with them. You're encouraged to use your calendar sparingly for these commitments to avoid clutter.
+Календар: Ваш календар је место где закажите временске термине, састанке и рокове.У ГТД-у календар је резервисан за ставке који имају одређени датум и време повезани са њима.Охрабрује вас да своје календар користите у реду да ове обавезе избегавају неред.
 
-The Next Actions List: Part 2 emphasizes the importance of maintaining a list of your next actions, which are the concrete, doable tasks you need to complete to move your projects forward. Allen recommends categorizing these actions by context (e.g., calls, emails, errands) to make it easier to tackle them efficiently.
+Сљедеће листе акција: Део 2 наглашава важност одржавања листе ваших следећих радњи, који су конкретни, износ задатака који су вам потребни да бисте довршили да бисте премештали своје пројекте напред.Аллен препоручује категоризацију ових радњи по контексту (нпр. Позиви, е-поруке, налоге) да би се олакшало ефикасно рјешавање њих.
 
-The Projects List: This list contains all your active projects, each with a clear desired outcome and a list of next actions. Reviewing your Projects List regularly ensures that you stay on track and make consistent progress.
+Листа пројеката: Ова листа садржи све ваше активне пројекте, по сваком са јасним жељеним исходом и списком следећих радњи.Редовно прегледавање листе пројеката редовно осигурава да останете на путу и дајте доследан напредак.
 
-The  Waiting For  List: As mentioned earlier, this list tracks tasks or commitments that depend on someone else's action or response. It's a crucial tool for staying organized and following up on delegated tasks.
+Листа чекања: Као што је раније поменуто, ова листа прати задатке или обавезе које зависе од туђе акције или одговора.То је пресудно средство за боравак организованог и праћења делегираних задатака.
 
-The Reference Material System: GTD emphasizes the need for an organized reference system for storing documents, reference materials, and information you might need in the future. This system helps you quickly retrieve information when necessary.
+Референтни системски систем: ГТД наглашава потребу за организованим референтним системом за чување докумената, референтних материјала и информација које би вам могле у будућности требати.Овај систем вам помаже да брзо преузмете информације по потреби.
 
-Using Technology Effectively: Part 2 also addresses how to leverage digital tools like email, task management apps, and note-taking software to enhance your workflow. The key is to integrate these tools into your GTD system in a way that supports your productivity rather than adding complexity.
-
+Ефективно коришћење технологије: ДИО 2 такође се бави како да левераге дигиталне алате попут е-поште, апликације за управљање задацима и преузмем узимање напомена да бисте побољшали ваш радни ток.Кључ је интеграција ових алата у ваш ГТД систем на начин који подржава вашу продуктивност, а не додавање сложености.

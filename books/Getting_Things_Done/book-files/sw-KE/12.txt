@@ -1,18 +1,17 @@
-Episode 11: Getting Projects Under Control 
+Sehemu ya 11: Kupata miradi chini ya udhibiti
 
-In David Allen's  Getting Things Done,  Part 2 of the book focuses on the critical aspect of getting your projects under control. Managing projects effectively is essential for achieving your goals and reducing stress. Here's an overview of this part:
+Katika kufanya mambo ya David Allen, sehemu ya 2 ya kitabu hicho inazingatia hali muhimu ya kudhibiti miradi yako.Kusimamia miradi kwa ufanisi ni muhimu kwa kufikia malengo yako na kupunguza mafadhaiko.Hapa kuna muhtasari wa sehemu hii:
 
-Defining a Project: Allen begins by defining a project as anything that requires more than one action step to complete. This broad definition encompasses not only work-related projects but also personal goals and aspirations.
+Kuelezea Mradi: Allen huanza kwa kufafanua mradi kama kitu chochote kinachohitaji hatua zaidi ya moja kukamilisha.Ufafanuzi huu mpana unajumuisha miradi inayohusiana na kazi tu bali pia malengo ya kibinafsi na matarajio.
 
-The Natural Planning Model: To get projects under control, GTD introduces the Natural Planning Model, a series of steps to help you plan effectively. This model involves defining your purpose and principles, envisioning your desired outcome, brainstorming, organizing your ideas, and identifying the next actions.
+Mfano wa upangaji wa asili: Ili kupata miradi chini ya udhibiti, GTD inaleta mfano wa upangaji wa asili, safu ya hatua za kukusaidia kupanga vizuri.Mfano huu unajumuisha kufafanua kusudi lako na kanuni, unaona matokeo yako unayotaka, kufikiria mawazo, kuandaa maoni yako, na kutambua vitendo vifuatavyo.
 
-Outcome and Action Thinking: GTD emphasizes the importance of distinguishing between outcomes and actions. Outcomes represent the specific results you want to achieve, while actions are the concrete steps you need to take to move toward those outcomes.
+Matokeo na Kufikiria kwa vitendo: GTD inasisitiza umuhimu wa kutofautisha kati ya matokeo na vitendo.Matokeo yanawakilisha matokeo maalum unayotaka kufikia, wakati hatua ni hatua halisi ambazo unahitaji kuchukua ili kuelekea kwenye matokeo hayo.
 
-Mind Mapping: Mind mapping is a powerful tool introduced in this section. It allows you to visually organize your ideas and brainstorm effectively. Mind maps can help you generate insights and identify critical actions within a project.
+Ramani ya akili: Ramani ya akili ni zana yenye nguvu iliyoletwa katika sehemu hii.Inakuruhusu kuandaa maoni yako na mawazo yako vizuri.Ramani za akili zinaweza kukusaidia kutoa ufahamu na kutambua vitendo muhimu ndani ya mradi.
 
-Organizing Projects: Once you've defined the outcomes and actions for your projects, GTD provides guidance on organizing them. This includes creating project lists, specifying the desired outcomes, and listing the next actions required to make progress.
+Kupanga Miradi: Mara tu umeelezea matokeo na vitendo kwa miradi yako, GTD hutoa mwongozo wa kuandaa.Hii ni pamoja na kuunda orodha za mradi, kubainisha matokeo unayotaka, na kuorodhesha hatua zifuatazo zinazohitajika kufanya maendeleo.
 
-Project Support Material: Support materials for your projects, such as research notes, documents, or reference materials, should be organized and readily accessible. GTD suggests keeping these materials separate from your regular reference files to maintain clarity.
+Vifaa vya Msaada wa Mradi: Vifaa vya msaada kwa miradi yako, kama vile maelezo ya utafiti, hati, au vifaa vya kumbukumbu, vinapaswa kupangwa na kupatikana kwa urahisi.GTD inapendekeza kuweka vifaa hivi tofauti na faili zako za kumbukumbu za kawaida ili kudumisha uwazi.
 
-The  Waiting For  List: Projects often involve collaboration with others. GTD recommends maintaining a  Waiting For  list to track commitments or tasks that are dependent on someone else's action or response.
-
+Kusubiri kwa orodha: Miradi mara nyingi huhusisha kushirikiana na wengine.GTD inapendekeza kudumisha orodha ya kusubiri kufuatilia ahadi au kazi ambazo zinategemea hatua au majibu ya mtu mwingine.

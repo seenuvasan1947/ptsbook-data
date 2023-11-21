@@ -1,20 +1,19 @@
-Episode 7: Processing: Getting  In  to Empty 
+Episódio 7: Processamento: entrar para esvaziar
 
-In  Getting Things Done  by David Allen, Part 2, titled  Processing: Getting 'In' to Empty,  we dive deeper into the critical phase of processing. This part of the GTD methodology is all about clarifying the meaning and next actions for the items you've collected. Here are the key concepts from this section:
+Ao fazer as coisas por David Allen, parte 2, intitulada Processamento: entrando 'para esvaziar, mergulhamos mais fundo na fase crítica do processamento.Esta parte da metodologia GTD trata de esclarecer o significado e as próximas ações para os itens que você coletou.Aqui estão os principais conceitos desta seção:
 
-The Clarifying Process: Processing is the stage where you decide what each item collected means and what action, if any, is associated with it. There are four options for clarifying items:
+O processo de esclarecimento: o processamento é o estágio em que você decide o que cada item coletado significa e que ação, se houver, está associada a ele.Existem quatro opções para esclarecer itens:
 
-Trash: If an item has no value or relevance, discard it.
-Incubate: Some items don't require immediate action but might be important in the future. Place these items in an  incubation  or reference system.
-Reference: Some items serve as reference material, such as information to be filed or stored for later use.
-Action: If an item requires action, you must determine the specific next steps.
-Next Actions: Defining the next action is a fundamental principle of GTD. It means breaking tasks down into actionable steps. Instead of vague to-do items like  write report,  you would clarify it as  draft the introduction of the report.  This clarity eliminates ambiguity and makes it easier to take action.
+Lixo: Se um item não tiver valor ou relevância, descarte -o.
+Incubar: Alguns itens não exigem ação imediata, mas podem ser importantes no futuro.Coloque esses itens em um sistema de incubação ou referência.
+Referência: Alguns itens servem como material de referência, como informações a serem arquivadas ou armazenadas para uso posterior.
+Ação: Se um item exigir ação, você deverá determinar as próximas etapas específicas.
+Próximas ações: Definir a próxima ação é um princípio fundamental do GTD.Isso significa dividir tarefas em etapas acionáveis.Em vez de itens vagos de tarefa, como o relatório de gravação, você o esclareceria como redigir a introdução do relatório.Essa clareza elimina a ambiguidade e facilita a ação.
 
-Project Definition: If a task requires more than one step to complete, it becomes a project. Projects should be explicitly defined with a clear outcome and the next actions needed to achieve that outcome.
+Definição do projeto: se uma tarefa exigir mais de uma etapa para concluir, ela se tornará um projeto.Os projetos devem ser explicitamente definidos com um resultado claro e as próximas ações necessárias para alcançar esse resultado.
 
-Organizing Actions: Once you've clarified the next actions, organize them in a way that makes them easily accessible when you're ready to work on them. This could involve categorizing actions by context, priority, or deadline.
+Organizando ações: Depois de esclarecer as próximas ações, organize -as de uma maneira que as torne facilmente acessíveis quando estiver pronto para trabalhar nelas.Isso pode envolver a categorização de ações por contexto, prioridade ou prazo.
 
-The  Waiting For  List: Not all actions are within your control. Use a  Waiting For  list to track actions that depend on others. This helps prevent items from falling through the cracks.
+A lista de espera: nem todas as ações estão sob seu controle.Use uma lista de espera para rastrear ações que dependem de outras pessoas.Isso ajuda a impedir que os itens caam pelas rachaduras.
 
-The  Someday/Maybe  List: Capture ideas or projects that you're not committed to working on immediately but might consider in the future. This list keeps these ideas from cluttering your active task lists.
-
+A lista de um dia/talvez: capture idéias ou projetos nos quais você não está comprometido em trabalhar imediatamente, mas pode considerar no futuro.Esta lista mantém essas idéias de atravessar suas listas de tarefas ativas.

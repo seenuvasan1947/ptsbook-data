@@ -1,25 +1,25 @@
-Episode 9: Reviewing: Keeping Your System Functional 
+කථාංග 9: සමාලෝචනය: ඔබේ පද්ධතිය ක්රියාකාරීව තබා ගැනීම
 
-In  Getting Things Done  by David Allen, Part 2 explores the critical concept of reviewing, which is essential for maintaining a functional and effective productivity system. Here's what you need to know from this section:
+ඩේවිඩ් ඇලන් විසින් කරන ලද දේවල් ලබා ගැනීමේදී, 2 වන කොටස සමාලෝචනය පිළිබඳ තීරණාත්මක සංකල්පය ගවේෂණය කරයි, එය ක්රියාකාරී හා effective ලදායී tivity ලදායිතා පද්ධතියක් පවත්වා ගැනීම සඳහා අත්යවශ්ය වේ.මෙන්න මෙම කොටසේ සිට ඔබ දැනගත යුතු දේ:
 
-The Purpose of Regular Reviews: Regular reviews are the glue that holds your GTD system together. They ensure that your trusted organizational tools stay current and functional. The purpose of these reviews is to keep your commitments and tasks aligned with your goals and priorities.
+නිතිපතා සමාලෝචනවල අරමුණ: නිතිපතා සමාලෝචන යනු ඔබේ GTD පද්ධතිය එකට තබා ඇති මැලියම් ය.ඔබේ විශ්වාසදායක ආයතනික මෙවලම් වර්තමාන හා ක්රියාකාරීත්වය පවත්වා ගෙන යන බවට ඔවුන් සහතික වේ.මෙම සමාලෝචනවල පරමාර්ථය වන්නේ ඔබේ අරමුණු හා ප්රමුඛතා සමඟ ඔබේ බැඳීම් සහ කාර්යයන් පෙළ ගැසී සිටීමයි.
 
-Daily Mini-Review: A mini-review at the beginning and end of your day is essential. It allows you to reassess your commitments, update your to-do lists, and ensure that you're working on the most important tasks. It also helps you start and end your day with clarity.
+දෛනික මිනි-සමාලෝචනය: ඔබේ දවසේ ආරම්භයේ හා අවසානයේ කුඩා සමාලෝචනයක් අත්යවශ්ය වේ.ඔබේ කැපවීම් නැවත තක්සේරු කිරීමට, ඔබේ කළ යුතු දේ ලැයිස්තු යාවත්කාලීන කිරීමට, ඔබේ කළ යුතු දේ ලැයිස්තු ගත කිරීමට සහ ඔබ වඩාත්ම වැදගත් කාර්යයන්හි වැඩ කිරීමට වගබලා ගැනීමට එය ඔබට ඉඩ සලසයි.එය ආරම්භ කිරීමට සහ ඔබේ දවස පැහැදිලිකමකින් අවසන් කිරීමට උපකාරී වේ.
 
-Weekly Review: The weekly review is the most crucial review session in the GTD methodology. Typically, it should take about 1-2 hours. During the weekly review, you go through several key steps:
+සතිපතා සමාලෝචනය: GTD ක්රමවේදයෙහි වඩාත්ම තීරණාත්මක සමාලෝචන සැසිය සතිපතා සමාලෝචනය වේ.සාමාන්යයෙන්, එය පැය 1-2 ක් පමණ ගත යුතුය.සතිපතා සමාලෝචනය අතරතුර, ඔබ ප්රධාන පියවර කිහිපයක් හරහා ගමන් කරයි:
 
-Collect Loose Papers: Gather any loose papers, notes, or items that need processing.
-Empty Your Head: Write down any new tasks, ideas, or commitments that have arisen during the week.
-Process Your Inboxes: Go through your physical and digital inboxes, clarifying and organizing the items they contain.
-Review Your Calendar: Review the past week and the upcoming week on your calendar to ensure you're aware of all appointments and deadlines.
-Review Your Projects: Go through each project and ensure that you have identified the next actions required to move them forward.
-Review Your  Waiting For  List: Follow up on any items you're waiting for from others.
-Review Your  Someday/Maybe  List: Reflect on any potential projects or ideas you may want to pursue in the future.
-Review Your Action Lists: Ensure that your next actions lists are up to date, and you have clear tasks to work on during the upcoming week.
-The Benefits of Regular Reviews: Regular reviews have several benefits. They help you:
+ලිහිල් කඩදාසි එකතු කරන්න: සැකසීමට අවශ්ය ලිහිල් කඩදාසි, සටහන් හෝ අයිතම එකතු කරන්න.
+ඔබේ හිස හිස් කරන්න: සතිය තුළ පැන නැගී ඇති නව කාර්යයන්, අදහස් හෝ බැඳීම් ලියන්න.
+ඔබගේ එන ලිපි ක්රියාවලිය: ඔබේ භෞතික හා ඩිජිටල් එනබොක්ස් හරහා යන්න, ඒවායේ අඩංගු අයිතම පැහැදිලි කර සංවිධානය කිරීම සහ සංවිධානය කිරීම.
+ඔබගේ දින දර්ශනය සමාලෝචනය කරන්න: සියලු පත්වීම් හා කාලසීමාවන් පිළිබඳව ඔබ දන්නා බව සහතික කිරීම සඳහා පසුගිය සතිය සහ ඔබගේ දින දර්ශනයේ ඉදිරි සතිය සමාලෝචනය කරන්න.
+ඔබේ ව්යාපෘති සමාලෝචනය කරන්න: එක් එක් ව්යාපෘතිය හරහා ගොස් ඒවා ඉදිරියට ගෙන යාමට අවශ්ය ඊළඟ ක්රියා ඔබ හඳුනාගෙන ඇති බවට සහතික වන්න.
+ලැයිස්තුවක් සඳහා ඔබේ බලා සිටීම සමාලෝචනය කරන්න: ඔබ අන් අයගෙන් එන ඕනෑම අයිතමයක් අනුගමනය කරන්න.
+ඔබගේ WHEDEME / සමහර විට ලැයිස්තුව සමාලෝචනය කරන්න: අනාගතයේදී ඔබට අනුගමනය කිරීමට අවශ්ය ඕනෑම ව්යාපෘතියක් හෝ අදහස් ගැන මෙනෙහි කරන්න.
+ඔබගේ ක්රියාකාරී ලැයිස්තු සමාලෝචනය කරන්න: ඔබගේ ඊළඟ ක්රියා ලැයිස්තු යාවත්කාලීන කර ඇති බවට සහතික වන්න, එළඹෙන සතියේ වැඩ කිරීමට ඔබට පැහැදිලි කාර්යයන් ඇත.
+නිතිපතා සමාලෝචනවල ප්රතිලාභ: නිතිපතා සමාලෝචන කිහිපයක් සඳහා ප්රතිලාභ තිබේ.ඔවුන් ඔබට උදව් කරයි:
 
-Maintain clarity and focus on your goals and priorities.
-Reduce the risk of missing deadlines or commitments.
-Identify any incomplete or stalled projects.
-Eliminate redundancy and ensure you're not duplicating efforts.
-Stay in control of your workload and reduce stress.
+පැහැදිලිකම පවත්වා ගෙන ඔබේ අරමුණු හා ප්රමුඛතා කෙරෙහි අවධානය යොමු කරන්න.
+අතුරුදහන් වූ කාලසීමාවන් හෝ කැපවීමේ අවදානම අඩු කරන්න.
+අසම්පූර්ණ හෝ අශෝභන ව්යාපෘති හඳුනා ගන්න.
+අතිරික්තයක් ඉවත් කර ඔබ උත්සාහයන් අනුපිටපත් නොකරන බවට සහතික වන්න.
+ඔබේ වැඩ බර පාලනය කර ආතතිය අඩු කරන්න.

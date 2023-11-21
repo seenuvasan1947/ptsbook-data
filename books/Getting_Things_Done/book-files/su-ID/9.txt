@@ -1,18 +1,17 @@
-Episode 8: Organizing: Setting Up the Right Buckets 
+Episode 8: Pangatur: Nyetél ember anu leres
 
-In  Getting Things Done  by David Allen, Part 2 continues with the concept of organizing, specifically focusing on setting up the right organizational tools or  buckets  to manage your tasks and commitments effectively. Here's what you need to know from this section:
+Kasempetan anu dilakukeun ku David Allen, bagian 2 teras sareng konsép ngatur, khusus anu khusus pokus alat sareng komitasi pikeun ngatur tugas sareng komitmen.Ieu naon anu anjeun kedah terang ti bagian ieu:
 
-The Need for Organizational Tools: Organizing is all about creating a structure to manage your tasks and commitments efficiently. David Allen emphasizes that you need appropriate tools, both physical and digital, to ensure nothing slips through the cracks.
+Anu peryogi fungsi organisasi: Ngatur nyaéta sadayana ngeunaan cara nyiptakeun struktur pikeun ngatur tugas sareng komitmen éfisién.Dara almar kuéh ngantebkeun yén anjeun peryogi alat anu cocog, boh fisik sareng digital, pikeun mastikeun aya anu disilakan ku retakan.
 
-The Key Lists and Buckets: There are several key lists or  buckets  that help you organize your work:
+Daptar konci sareng ember: aya sababaraha daptar konci atanapi ember anu ngabantosan anjeun ngatur padamelan anjeun:
 
-Next Actions Lists: These are lists of tasks you can complete immediately. They are categorized based on context (e.g., office, home, phone) to make it easy to see what you can do in a specific situation.
-Projects Lists: Each project you have identified during processing should have a corresponding project list. This list tracks all the next actions required to move a project forward.
-Calendar: Use your calendar to schedule appointments, meetings, and any time-sensitive actions. Your calendar should only contain items with specific dates and times.
-Waiting For List: This list helps you keep track of tasks or commitments you are waiting for others to complete. It ensures that you follow up on these items as needed.
-Someday/Maybe List: Ideas, projects, or commitments that are not a priority at the moment but may be in the future should be recorded on this list.
-Reference Filing System: Create an organized reference system for storing information and materials you may need to refer to later.
-Choosing the Right Tools: The tools you choose for organizing can vary from physical notebooks and folders to digital apps and software. What's essential is that they fit your personal preferences and lifestyle. David Allen suggests that your tools should be easy to access, reliable, and tailored to your needs.
+Daptar tindakan salajengna: Ieu daptar tugas anjeun tiasa ngalengkepan langsung.Aranjeunna dikaitkeun dumasar kana kontéks (E.., kantor, bumi, telepon, telepon) kanggo gampang ningali naon anu anjeun tiasa laksanakeun dina kaayaan anu khusus.
+Daptar proyék: Tiap proyék anu anjeun parantos dikenal nalika ngolah ieu kedah ngagaduhan daptar proyék anu salse.Daptar lagu ieu sadayana tindakan salajengna anu diperyogikeun pikeun mindahkeun proyék teraskeun.
+Kalénder: Anggo kalénder anjeun ka jadwal janjian, rapat, sareng tindakan sensitipitas waktos.Kalénder anjeun ngan ukur ngandung barang sareng tanggal sareng waktos khusus.
+Ngantosan daptar: Daptar ieu ngabantosan anjeun ngalacak tugas atanapi komitmen anu anjeun tunggu.Éta ngajantenkeun yén anjeun nuturkeun barang-barang ieu upami diperyogikeun.
+Someday / Pro CHAM: Gagasan, proyék, atanapi komitmen anu sanés mangrupikeun prioritas tapi aya anu kaji hareup tapi meureun aya di masa depan kedah dirékam dina daptar ieu.
+Rujukan Sistem Filing: Jieun sistem rujukan anu teratur pikeun nyimpen inpormasi sareng bahan anjeun kedah ngarujuk engké.
+Milih alat anu leres: alat anu anjeun milih pikeun anu teratur pikeun ngawangun buku-situs fisik sareng polder ka aplikasi digitalan sareng software.Naon pentingna anu aranjeunna cocog sareng kahoyong pribadi sareng gaya hirup anjeun.Gelar David nunjukkeun yén alat-alat anjeun kedah gampang aksés, dipercaya, sareng rapi anu kabutuhan anjeun.
 
-The Weekly Review: Maintaining your organizational system requires a regular review. The weekly review is a crucial GTD practice. During this time, you ensure all your lists are up to date, reevaluate your priorities, and adjust your commitments and projects as needed.
-
+Review mingguan: Ngajaga sistem organisasi anjeun butuh ulasan biasa.Review mingguan nyaéta prakték gtd cemual.Salila ieu, anjeun mastikeun sadaya daptar anjeun ogé, Useverias kana prioritas anjeun, sareng saluyukeun komitmen sareng proyék anjeun sakumaha diperyogikeun.

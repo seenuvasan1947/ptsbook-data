@@ -1,18 +1,17 @@
-Episode 4: Practicing Stress-Free Productivity
+Епизода 4: Вежбање продуктивности без стреса
 
-In this episode, we explore the section of David Allen's  Getting Things Done  titled  Practicing Stress-Free Productivity.  This part of the book delves into the core principles and methods for managing your tasks and commitments with minimal stress.
+У овој епизоди истражујемо део Давида Аллена, постају ствари које су учињене на основу практичности продуктивности без стреса.Овај део књиге преноси у основне принципе и методе за управљање вашим задацима и обавезама са минималним стресом.
 
-David Allen emphasizes several key concepts in this part of the book:
+Давид Аллен наглашава неколико кључних концепата у овом делу књиге:
 
-Capture Everything: One of the fundamental principles of stress-free productivity is to capture all your commitments, tasks, and ideas in an external system. This could be a physical notebook, a digital app, or any tool that works for you. By doing this, you free up mental space and ensure that nothing important slips through the cracks.
+Ухватите све: Један од основних принципа продуктивности без стреса је да учврстите све своје обавезе, задатке и идеје у спољном систему.Ово би могла бити физичка свеска, дигитална апликација или било који алат који ради за вас.Радећи ово, ослободите се менталног простора и осигурајте да ништа важно прође кроз пукотине.
 
-Clarify Next Actions: Instead of vague to-do list items, clarify the very next physical actions required to move tasks forward. This level of granularity makes it easier to tackle tasks without ambiguity.
+Разјасните следеће радње: уместо нејасних ставки на листу обавеза, разјасните све следеће физичке радње потребне за премештање задатака напред.Овај ниво грануларности олакшава решавање задатака без двосмислености.
 
-Organize Tasks by Context: Group your tasks by the context in which you can complete them. For example, tasks that require a phone call should be grouped together so that you can efficiently make all your calls at once.
+Организујте задатке по контексту: Групирајте своје задатке по контексту у којем их можете довршити.На пример, задаци који захтевају телефонски позив треба да буду груписани заједно тако да можете ефикасно да направите све своје позиве одједном.
 
-Review Regularly: Consistent review of your commitments and tasks is crucial. Allen recommends weekly reviews to ensure that your system remains up-to-date and aligned with your current priorities.
+Редовно прегледајте: Доследни преглед ваших обавеза и задатака је пресудан.Аллен препоручује да недељни прегледи да осигурају да ваш систем остане у току и усклађен са вашим тренутним приоритетима.
 
-Do, Delegate, Defer, or Delete: When you encounter a task, make a decision about what to do with it. You can do it right away, delegate it to someone else, defer it to a later date, or delete it if it's no longer relevant.
+До, делегирајте, одложите или бришете: Када наиђете на задатак, донедите одлуку о томе шта да радите са њим.Можете то одмах, делегирати неком другом, одложити га на каснији датум или га избрисати ако то више није релевантно.
 
-Use a Trusted System: Your external organization system, whether it's a digital app or a physical planner, should be reliable and easily accessible. It should inspire trust that everything you need to remember is captured and managed.
-
+Користите поуздан систем: Ваш спољни систем организације, било да је то дигитална апликација или физички планер, треба да буде поуздан и лако доступан.Треба да инспирише поверење да је све што требате запамтити је заробљено и управљано.

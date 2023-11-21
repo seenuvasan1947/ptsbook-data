@@ -1,18 +1,17 @@
-Episode 6: Collection: Corralling Your  Stuff  (Part 2)
+Sehemu ya 6: Mkusanyiko: Kurekebisha vitu vyako (Sehemu ya 2)
 
-In the second part of  Getting Things Done  by David Allen, titled  Collection: Corralling Your 'Stuff,'  we explore the crucial step of gathering and capturing all the items, tasks, commitments, and ideas that clutter our minds and lives. This part focuses on building a system to collect and process these inputs effectively.
+Katika sehemu ya pili ya kufanya mambo kufanywa na David Allen, yenye jina la ukusanyaji: Kurekebisha 'vitu vyako,' tunachunguza hatua muhimu ya kukusanya na kukamata vitu vyote, kazi, ahadi, na maoni ambayo yanaunganisha akili zetu na maisha.Sehemu hii inazingatia kujenga mfumo wa kukusanya na kusindika pembejeo hizi kwa ufanisi.
 
-Key concepts in this section include:
+Dhana muhimu katika sehemu hii ni pamoja na:
 
-The Capture Habit: David Allen emphasizes the importance of developing the habit of capturing all your commitments and ideas as they arise. This includes everything from work-related tasks to personal to-dos and even fleeting thoughts or concerns. The goal is to ensure that nothing is left unrecorded.
+Tabia ya kukamata: David Allen anasisitiza umuhimu wa kukuza tabia ya kukamata ahadi na maoni yako yote wanapotokea.Hii ni pamoja na kila kitu kutoka kwa kazi zinazohusiana na kazi hadi kwa kibinafsi na hata mawazo ya kupita kiasi au wasiwasi.Lengo ni kuhakikisha kuwa hakuna kitu kinachoachwa bila kuandaliwa.
 
-The Ubiquitous Capture Tool: To facilitate this capturing habit, it's essential to have a reliable and readily accessible tool for recording your  stuff.  This can be a physical notebook, a digital note-taking app, voice recorder, or any method that suits your preferences. The tool should always be within arm's reach.
+Zana ya kukamata ya kawaida: Ili kuwezesha tabia hii ya kukamata, ni muhimu kuwa na zana ya kuaminika na inayopatikana kwa urahisi ya kurekodi vitu vyako.Hii inaweza kuwa daftari la mwili, programu ya kuchukua barua ya dijiti, kinasa sauti, au njia yoyote ambayo inafaa upendeleo wako.Chombo hicho kinapaswa kuwa ndani ya mkono kila wakati.
 
-Avoiding Mental Clutter: By capturing everything externally, you prevent mental clutter and anxiety. Your mind is freed from the need to remember every detail, allowing you to think more clearly and make better decisions.
+Kuepuka Clutter ya Akili: Kwa kukamata kila kitu nje, unazuia ujanja wa akili na wasiwasi.Akili yako imeachiliwa kutoka kwa hitaji la kukumbuka kila undani, hukuruhusu kufikiria vizuri zaidi na kufanya maamuzi bora.
 
-Unprocessed Items: Items you collect are not tasks yet; they are unprocessed. Processing involves deciding what each item means, what action is required (if any), and what the desired outcome is. This is where you transform  stuff  into actionable tasks, reference material, or items to be discarded.
+Vitu visivyokusudiwa: Vitu unavyokusanya sio kazi bado;Hazijafanikiwa.Usindikaji ni pamoja na kuamua nini kila kitu kinamaanisha, ni hatua gani inahitajika (ikiwa ipo), na nini matokeo unayotaka ni.Hapa ndipo unapobadilisha vitu kuwa kazi zinazoweza kutekelezwa, vifaa vya kumbukumbu, au vitu ambavyo vimetupwa.
 
-The Two-Minute Rule: If an item can be completed in two minutes or less, do it immediately. This small commitment of time eliminates many small tasks quickly, preventing them from accumulating.
+Sheria ya dakika mbili: ikiwa kitu kinaweza kukamilika kwa dakika mbili au chini, fanya mara moja.Ahadi hii ndogo ya wakati huondoa kazi nyingi ndogo haraka, kuwazuia kujilimbikiza.
 
-Deferred Decisions: Not everything needs immediate action. Some items are better suited for future actions or reference. The GTD system helps you organize these deferred decisions systematically.
-
+Uamuzi ulioachwa: Sio kila kitu kinachohitaji hatua za haraka.Vitu vingine vinafaa zaidi kwa vitendo vya baadaye au kumbukumbu.Mfumo wa GTD hukusaidia kuandaa maamuzi haya yaliyofutwa kwa utaratibu.

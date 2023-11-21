@@ -1,18 +1,17 @@
-Episode 12: Creating and Using Tools to Support Workflow 
+Эпизод 12: Создание и использование инструментов для поддержки рабочего процесса
 
-David Allen's  Getting Things Done  explores the idea that having the right tools and systems in place can significantly enhance your workflow and productivity. In Part 2 of the book, titled  Creating and Using Tools to Support Workflow,  Allen delves into various tools and techniques that help you implement the GTD methodology more effectively. Here's an overview of this part:
+Дэвид Аллен делает все, что происходит, исследует идею о том, что наличие правильных инструментов и систем может значительно повысить ваш рабочий процесс и производительность.Во второй части книги под названием «Создание и использование инструментов для поддержки рабочего процесса» Аллен углубляется в различные инструменты и методы, которые помогают более эффективно реализовать методологию GTD.Вот обзор этой части:
 
-The Capture Tool: The Capture Tool is a fundamental component of GTD. It's the place where you quickly capture all the incoming information, tasks, ideas, and commitments that might otherwise clutter your mind. This tool could be a physical inbox, a digital note-taking app, or even a voice recorder. The key is to have a reliable system for capturing everything that needs your attention.
+Инструмент захвата: инструмент захвата является фундаментальным компонентом GTD.Это место, где вы быстро захватываете всю входящую информацию, задачи, идеи и обязательства, которые в противном случае могли бы загромождать ваш разум.Этот инструмент может быть физическим почтовым ящиком, цифровым приложением для съемки или даже голосовым регистратором.Ключ состоит в том, чтобы иметь надежную систему для захвата всего, что требует вашего внимания.
 
-The Calendar: Your calendar is where you schedule time-sensitive appointments, meetings, and deadlines. In GTD, the calendar is reserved for items that have a specific date and time associated with them. You're encouraged to use your calendar sparingly for these commitments to avoid clutter.
+Календарь: Ваш календарь-это то, где вы планируете, чувствительные к во времени встречи, встречи и сроки.В GTD календарь зарезервирован для предметов, которые имеют определенную дату и время, связанные с ними.Вам рекомендуется использовать свой календарь для этих обязательств, чтобы избежать беспорядка.
 
-The Next Actions List: Part 2 emphasizes the importance of maintaining a list of your next actions, which are the concrete, doable tasks you need to complete to move your projects forward. Allen recommends categorizing these actions by context (e.g., calls, emails, errands) to make it easier to tackle them efficiently.
+Следующий список действий: Часть 2 подчеркивает важность поддержания списка ваших следующих действий, которые являются конкретными, выполнимыми задачами, которые вам необходимы для выполнения ваших проектов вперед.Аллен рекомендует классифицировать эти действия по контексту (например, вызовы, электронные письма, поручения), чтобы облегчить их эффективное решение.
 
-The Projects List: This list contains all your active projects, each with a clear desired outcome and a list of next actions. Reviewing your Projects List regularly ensures that you stay on track and make consistent progress.
+Список проектов: Этот список содержит все ваши активные проекты, каждый из которых имеет четкий желаемый результат и список следующих действий.Регулярное просмотр списка проектов гарантирует, что вы останетесь на правильном пути и достигаете последовательного прогресса.
 
-The  Waiting For  List: As mentioned earlier, this list tracks tasks or commitments that depend on someone else's action or response. It's a crucial tool for staying organized and following up on delegated tasks.
+Список ожидания: как упоминалось ранее, этот список отслеживает задачи или обязательства, которые зависят от чужих действий или ответа.Это важный инструмент для того, чтобы оставаться организованными и выполнять делегированные задачи.
 
-The Reference Material System: GTD emphasizes the need for an organized reference system for storing documents, reference materials, and information you might need in the future. This system helps you quickly retrieve information when necessary.
+Система справочных материалов: GTD подчеркивает необходимость организованной справочной системы для хранения документов, справочных материалов и информации, которая вам может понадобиться в будущем.Эта система помогает вам быстро извлечь информацию при необходимости.
 
-Using Technology Effectively: Part 2 also addresses how to leverage digital tools like email, task management apps, and note-taking software to enhance your workflow. The key is to integrate these tools into your GTD system in a way that supports your productivity rather than adding complexity.
-
+Эффективное использование технологий: Часть 2 также рассматривает, как использовать цифровые инструменты, такие как электронная почта, приложения для управления задачами и программное обеспечение для сделки с заметками для улучшения вашего рабочего процесса.Ключ состоит в том, чтобы интегрировать эти инструменты в вашу систему GTD таким образом, чтобы поддержать вашу производительность, а не добавлять сложность.

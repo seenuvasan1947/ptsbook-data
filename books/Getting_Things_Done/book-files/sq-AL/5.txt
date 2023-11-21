@@ -1,18 +1,17 @@
-Episode 4: Practicing Stress-Free Productivity
+Episodi 4: Praktikimi i produktivitetit pa stres
 
-In this episode, we explore the section of David Allen's  Getting Things Done  titled  Practicing Stress-Free Productivity.  This part of the book delves into the core principles and methods for managing your tasks and commitments with minimal stress.
+Në këtë episod, ne eksplorojmë seksionin e David Allen's Getting Things Bërë me titull Praktikimi i produktivitetit pa stres.Kjo pjesë e librit paraqitet në parimet dhe metodat thelbësore për menaxhimin e detyrave dhe angazhimeve tuaja me stres minimal.
 
-David Allen emphasizes several key concepts in this part of the book:
+David Allen thekson disa koncepte kryesore në këtë pjesë të librit:
 
-Capture Everything: One of the fundamental principles of stress-free productivity is to capture all your commitments, tasks, and ideas in an external system. This could be a physical notebook, a digital app, or any tool that works for you. By doing this, you free up mental space and ensure that nothing important slips through the cracks.
+Kapni gjithçka: Një nga parimet themelore të produktivitetit pa stres është të kapni të gjitha angazhimet, detyrat dhe idetë tuaja në një sistem të jashtëm.Kjo mund të jetë një fletore fizike, një aplikacion dixhital ose ndonjë mjet që funksionon për ju.Duke bërë këtë, ju çlironi hapësirë mendore dhe siguroni që asgjë e rëndësishme të rrëshqasë nëpër çarje.
 
-Clarify Next Actions: Instead of vague to-do list items, clarify the very next physical actions required to move tasks forward. This level of granularity makes it easier to tackle tasks without ambiguity.
+Sqaroni veprimet e ardhshme: Në vend të artikujve të paqartë të listës për të bërë, sqaroni veprimet e ardhshme fizike të kërkuara për të çuar përpara detyrat.Ky nivel i kokrrizave e bën më të lehtë trajtimin e detyrave pa paqartësi.
 
-Organize Tasks by Context: Group your tasks by the context in which you can complete them. For example, tasks that require a phone call should be grouped together so that you can efficiently make all your calls at once.
+Organizoni detyrat sipas kontekstit: Gruponi detyrat tuaja sipas kontekstit në të cilin mund t'i plotësoni ato.Për shembull, detyrat që kërkojnë një telefonatë duhet të grupohen së bashku, në mënyrë që të mund të bëni në mënyrë efikase të gjitha thirrjet tuaja menjëherë.
 
-Review Regularly: Consistent review of your commitments and tasks is crucial. Allen recommends weekly reviews to ensure that your system remains up-to-date and aligned with your current priorities.
+Rishikimi rregullisht: Rishikimi i vazhdueshëm i angazhimeve dhe detyrave tuaja është thelbësore.Allen rekomandon rishikime javore për të siguruar që sistemi juaj të mbetet i azhurnuar dhe i përafruar me përparësitë tuaja aktuale.
 
-Do, Delegate, Defer, or Delete: When you encounter a task, make a decision about what to do with it. You can do it right away, delegate it to someone else, defer it to a later date, or delete it if it's no longer relevant.
+Bëni, delegoni, shtyni ose fshini: Kur hasni një detyrë, merrni një vendim se çfarë të bëni me të.Ju mund ta bëni atë menjëherë, ta delegoni dikujt tjetër, ta shtyni atë në një datë të mëvonshme, ose ta fshini nëse nuk është më e rëndësishme.
 
-Use a Trusted System: Your external organization system, whether it's a digital app or a physical planner, should be reliable and easily accessible. It should inspire trust that everything you need to remember is captured and managed.
-
+Përdorni një sistem të besueshëm: Sistemi juaj i jashtëm i organizimit, pavarësisht nëse është një aplikacion dixhital ose një planifikues fizik, duhet të jetë i besueshëm dhe lehtësisht i arritshëm.Duhet të frymëzojë besim se gjithçka që duhet të mbani mend është kapur dhe menaxhuar.

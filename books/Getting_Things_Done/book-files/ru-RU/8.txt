@@ -1,20 +1,19 @@
-Episode 7: Processing: Getting  In  to Empty 
+Эпизод 7: Обработка: попасть в пустые
 
-In  Getting Things Done  by David Allen, Part 2, titled  Processing: Getting 'In' to Empty,  we dive deeper into the critical phase of processing. This part of the GTD methodology is all about clarifying the meaning and next actions for the items you've collected. Here are the key concepts from this section:
+Занимая вещи Дэвидом Алленом, частью 2, под названием «Обработка:« Получение », чтобы опустошать, мы углубимся в критическую фазу обработки.Эта часть методологии GTD посвящена выяснению значения и следующих действиях для собравшихся вами элементов.Вот ключевые понятия из этого раздела:
 
-The Clarifying Process: Processing is the stage where you decide what each item collected means and what action, if any, is associated with it. There are four options for clarifying items:
+Процесс выяснения: обработка - это этап, на которой вы решаете, что означает каждый собранной элемент и какое действие, если таковое имеется, связано с ним.Есть четыре варианта для разъясняющих предметов:
 
-Trash: If an item has no value or relevance, discard it.
-Incubate: Some items don't require immediate action but might be important in the future. Place these items in an  incubation  or reference system.
-Reference: Some items serve as reference material, such as information to be filed or stored for later use.
-Action: If an item requires action, you must determine the specific next steps.
-Next Actions: Defining the next action is a fundamental principle of GTD. It means breaking tasks down into actionable steps. Instead of vague to-do items like  write report,  you would clarify it as  draft the introduction of the report.  This clarity eliminates ambiguity and makes it easier to take action.
+Мусор: если элемент не имеет значения или актуальности, отбросьте его.
+Incubate: Некоторые пункты не требуют немедленных действий, но могут быть важными в будущем.Поместите эти элементы в инкубационную или справочную систему.
+Ссылка: Некоторые элементы служат справочным материалом, таким как информация, которая должна быть подана или сохранена для последующего использования.
+Действие: Если элемент требует действия, вы должны определить конкретные следующие шаги.
+Следующие действия: Определение следующего действия является фундаментальным принципом GTD.Это означает разрыв задач на действенные шаги.Вместо расплывчатых предметов, таких как отчет о записи, вы прояснили его как проект введения отчета.Эта ясность устраняет двусмысленность и облегчает действие.
 
-Project Definition: If a task requires more than one step to complete, it becomes a project. Projects should be explicitly defined with a clear outcome and the next actions needed to achieve that outcome.
+Определение проекта: если задача требует более одного шага для завершения, оно становится проектом.Проекты должны быть четко определены с помощью четкого результата и следующих действий, необходимых для достижения этого результата.
 
-Organizing Actions: Once you've clarified the next actions, organize them in a way that makes them easily accessible when you're ready to work on them. This could involve categorizing actions by context, priority, or deadline.
+Организация действий: как только вы уточнили следующие действия, организуйте их таким образом, чтобы они были легко доступны, когда вы будете готовы работать над ними.Это может включать классификацию действий по контексту, приоритету или крайнему сроку.
 
-The  Waiting For  List: Not all actions are within your control. Use a  Waiting For  list to track actions that depend on others. This helps prevent items from falling through the cracks.
+Ожидание списка: не все действия находятся под вашим контролем.Используйте ожидание списка, чтобы отслеживать действия, которые зависят от других.Это помогает предотвратить падение предметов через трещины.
 
-The  Someday/Maybe  List: Capture ideas or projects that you're not committed to working on immediately but might consider in the future. This list keeps these ideas from cluttering your active task lists.
-
+Когда -нибудь/может быть список: захватить идеи или проекты, над которыми вы не привержены работе немедленно, но можете рассмотреть в будущем.Этот список не дает этим идеям загромождать ваши списки активных задач.

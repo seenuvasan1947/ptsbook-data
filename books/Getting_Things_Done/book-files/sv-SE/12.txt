@@ -1,18 +1,17 @@
-Episode 11: Getting Projects Under Control 
+Avsnitt 11: Få projekt under kontroll
 
-In David Allen's  Getting Things Done,  Part 2 of the book focuses on the critical aspect of getting your projects under control. Managing projects effectively is essential for achieving your goals and reducing stress. Here's an overview of this part:
+I David Allen får saker gjort, del 2 av boken fokuserar på den kritiska aspekten av att få dina projekt under kontroll.Att hantera projekt är effektivt avgörande för att uppnå dina mål och minska stress.Här är en översikt över den här delen:
 
-Defining a Project: Allen begins by defining a project as anything that requires more than one action step to complete. This broad definition encompasses not only work-related projects but also personal goals and aspirations.
+Definiera ett projekt: Allen börjar med att definiera ett projekt som allt som kräver mer än ett åtgärdssteg att slutföra.Denna breda definition omfattar inte bara arbetsrelaterade projekt utan också personliga mål och ambitioner.
 
-The Natural Planning Model: To get projects under control, GTD introduces the Natural Planning Model, a series of steps to help you plan effectively. This model involves defining your purpose and principles, envisioning your desired outcome, brainstorming, organizing your ideas, and identifying the next actions.
+Den naturliga planeringsmodellen: För att få projekt under kontroll introducerar GTD den naturliga planeringsmodellen, en serie steg som hjälper dig att planera effektivt.Denna modell innebär att du definierar ditt syfte och principer, föreställer dig önskat resultat, brainstorming, organisering av dina idéer och identifierar nästa åtgärder.
 
-Outcome and Action Thinking: GTD emphasizes the importance of distinguishing between outcomes and actions. Outcomes represent the specific results you want to achieve, while actions are the concrete steps you need to take to move toward those outcomes.
+Resultat och handlingstänkande: GTD betonar vikten av att skilja mellan resultat och handlingar.Resultaten representerar de specifika resultaten du vill uppnå, medan åtgärder är de konkreta steg du behöver vidta för att gå mot dessa resultat.
 
-Mind Mapping: Mind mapping is a powerful tool introduced in this section. It allows you to visually organize your ideas and brainstorm effectively. Mind maps can help you generate insights and identify critical actions within a project.
+Mind Mapping: Mind Mapping är ett kraftfullt verktyg som introduceras i detta avsnitt.Det låter dig visuellt organisera dina idéer och brainstorma effektivt.Mind Maps kan hjälpa dig att generera insikter och identifiera kritiska åtgärder inom ett projekt.
 
-Organizing Projects: Once you've defined the outcomes and actions for your projects, GTD provides guidance on organizing them. This includes creating project lists, specifying the desired outcomes, and listing the next actions required to make progress.
+Organiseringsprojekt: När du har definierat resultaten och åtgärderna för dina projekt ger GTD vägledning om att organisera dem.Detta inkluderar att skapa projektlistor, specificera önskade resultat och lista de nästa åtgärder som krävs för att göra framsteg.
 
-Project Support Material: Support materials for your projects, such as research notes, documents, or reference materials, should be organized and readily accessible. GTD suggests keeping these materials separate from your regular reference files to maintain clarity.
+Projektstödmaterial: Supportmaterial för dina projekt, till exempel forskningsanmärkningar, dokument eller referensmaterial, bör vara organiserade och lättillgängliga.GTD föreslår att dessa material är separata från dina regelbundna referensfiler för att upprätthålla tydlighet.
 
-The  Waiting For  List: Projects often involve collaboration with others. GTD recommends maintaining a  Waiting For  list to track commitments or tasks that are dependent on someone else's action or response.
-
+Väntan på listan: Projekt involverar ofta samarbete med andra.GTD rekommenderar att upprätthålla en väntan på lista för att spåra åtaganden eller uppgifter som är beroende av någon annans handling eller svar.

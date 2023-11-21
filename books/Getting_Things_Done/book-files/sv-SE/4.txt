@@ -1,16 +1,15 @@
-Episode 3: Getting Projects Creatively Under Way: The Five Phases of Project Planning
+Avsnitt 3: Att få projekt kreativt på väg: de fem faserna av projektplanering
 
-In this episode, we dive into the section of David Allen's  Getting Things Done  titled  Getting Projects Creatively Under Way: The Five Phases of Project Planning.  This part of the book delves into the practical steps for initiating and executing projects efficiently within the GTD framework.
+I det här avsnittet dyker vi in i avsnittet av David Allen får saker och ting med titeln Att få projekt kreativt på väg: de fem faserna av projektplanering.Denna del av boken fördjupar de praktiska stegen för att initiera och genomföra projekt effektivt inom GTD -ramverket.
 
-David Allen introduces five key phases of project planning:
+David Allen introducerar fem viktiga faser av projektplanering:
 
-Defining Purpose and Principles: Before diving into a project, it's crucial to clarify the purpose and the guiding principles. This sets the foundation and helps ensure that the project aligns with your values and goals.
+Definiera syfte och principer: Innan du dyker in i ett projekt är det avgörande att klargöra syftet och de vägledande principerna.Detta sätter grunden och hjälper till att säkerställa att projektet överensstämmer med dina värderingar och mål.
 
-Outcome Visioning: In this phase, you visualize and define what a successful outcome for the project looks like. This clear mental image of the end goal helps in planning and execution.
+Resultatvision: I den här fasen visualiserar du och definierar hur ett framgångsrikt resultat för projektet ser ut.Denna tydliga mentala bild av slutmålet hjälper till att planera och genomföra.
 
-Brainstorming: Creativity plays a significant role in project planning. Allen encourages brainstorming to generate ideas and potential approaches to achieve the project's outcome.
+Brainstorming: Kreativitet spelar en viktig roll i projektplaneringen.Allen uppmuntrar brainstorming att generera idéer och potentiella tillvägagångssätt för att uppnå projektets resultat.
 
-Organizing: Once you have a list of ideas, it's time to organize them into actionable steps. This involves breaking down the project into smaller, manageable tasks and establishing priorities.
+Organisering: När du har en lista med idéer är det dags att organisera dem till handlingsbara steg.Detta handlar om att dela upp projektet i mindre, hanterbara uppgifter och fastställa prioriteringar.
 
-Identifying Next Actions: Finally, Allen stresses the importance of determining the very next physical action required to move the project forward. It's about identifying the immediate step you can take to make progress.
-
+Identifiering av nästa åtgärder: Slutligen betonar Allen vikten av att bestämma den nästa fysiska åtgärden som krävs för att flytta projektet framåt.Det handlar om att identifiera det omedelbara steget du kan ta för att göra framsteg.

@@ -1,25 +1,25 @@
-Episode 9: Reviewing: Keeping Your System Functional 
+Episodi 9: Rishikimi: Mbajtja e sistemit tuaj funksional
 
-In  Getting Things Done  by David Allen, Part 2 explores the critical concept of reviewing, which is essential for maintaining a functional and effective productivity system. Here's what you need to know from this section:
+Në bërjen e gjërave nga David Allen, Pjesa 2 eksploron konceptin kritik të rishikimit, i cili është thelbësor për ruajtjen e një sistemi funksional dhe efektiv të produktivitetit.Ja çfarë duhet të dini nga kjo pjesë:
 
-The Purpose of Regular Reviews: Regular reviews are the glue that holds your GTD system together. They ensure that your trusted organizational tools stay current and functional. The purpose of these reviews is to keep your commitments and tasks aligned with your goals and priorities.
+Qëllimi i rishikimeve të rregullta: Shqyrtimet e rregullta janë zam që mban së bashku sistemin tuaj GTD.Ata sigurojnë që mjetet tuaja organizative të besuara të qëndrojnë aktuale dhe funksionale.Qëllimi i këtyre rishikimeve është të mbani angazhimet dhe detyrat tuaja të lidhura me qëllimet dhe përparësitë tuaja.
 
-Daily Mini-Review: A mini-review at the beginning and end of your day is essential. It allows you to reassess your commitments, update your to-do lists, and ensure that you're working on the most important tasks. It also helps you start and end your day with clarity.
+Mini-rishikim ditor: Një mini-rishikim në fillim dhe në fund të ditës tuaj është thelbësore.Kjo ju lejon të rivlerësoni angazhimet tuaja, të azhurnoni listat tuaja për të bërë dhe të siguroheni që jeni duke punuar në detyrat më të rëndësishme.Gjithashtu ju ndihmon të filloni dhe mbaroni ditën tuaj me qartësi.
 
-Weekly Review: The weekly review is the most crucial review session in the GTD methodology. Typically, it should take about 1-2 hours. During the weekly review, you go through several key steps:
+Rishikimi javor: Rishikimi javor është seanca më e rëndësishme e rishikimit në metodologjinë GTD.Në mënyrë tipike, duhet të zgjasë rreth 1-2 orë.Gjatë rishikimit javor, ju kaloni disa hapa kryesorë:
 
-Collect Loose Papers: Gather any loose papers, notes, or items that need processing.
-Empty Your Head: Write down any new tasks, ideas, or commitments that have arisen during the week.
-Process Your Inboxes: Go through your physical and digital inboxes, clarifying and organizing the items they contain.
-Review Your Calendar: Review the past week and the upcoming week on your calendar to ensure you're aware of all appointments and deadlines.
-Review Your Projects: Go through each project and ensure that you have identified the next actions required to move them forward.
-Review Your  Waiting For  List: Follow up on any items you're waiting for from others.
-Review Your  Someday/Maybe  List: Reflect on any potential projects or ideas you may want to pursue in the future.
-Review Your Action Lists: Ensure that your next actions lists are up to date, and you have clear tasks to work on during the upcoming week.
-The Benefits of Regular Reviews: Regular reviews have several benefits. They help you:
+Mblidhni letra të lirshme: Mblidhni çdo letër, shënime ose sende të lirshme që kanë nevojë për përpunim.
+Zbracini kokën tuaj: Shkruani çdo detyrë, ide ose angazhime të reja që janë lindur gjatë javës.
+Përpunoni kutitë tuaja: Kaloni nëpër kutitë tuaja fizike dhe dixhitale, duke sqaruar dhe organizuar artikujt që ato përmbajnë.
+Rishikoni kalendarin tuaj: Rishikoni javën e kaluar dhe javën e ardhshme në kalendarin tuaj për të siguruar që jeni të vetëdijshëm për të gjitha takimet dhe afatet.
+Rishikoni projektet tuaja: Kaloni në secilin projekt dhe sigurohuni që të keni identifikuar veprimet e ardhshme të kërkuara për t'i çuar ato përpara.
+Rishikoni listën tuaj të pritjes: Ndiqni çdo send që prisni nga të tjerët.
+Rishikoni një ditë/ndoshta listën tuaj: Reflektoni në ndonjë projekt ose ide të mundshme që mund të dëshironi të ndiqni në të ardhmen.
+Rishikoni listat tuaja të veprimeve: Sigurohuni që listat e veprimeve tuaja të ardhshme të jenë të azhurnuara, dhe ju keni detyra të qarta për të punuar gjatë javës së ardhshme.
+Përfitimet e rishikimeve të rregullta: Shqyrtimet e rregullta kanë disa përfitime.Ato ju ndihmojnë:
 
-Maintain clarity and focus on your goals and priorities.
-Reduce the risk of missing deadlines or commitments.
-Identify any incomplete or stalled projects.
-Eliminate redundancy and ensure you're not duplicating efforts.
-Stay in control of your workload and reduce stress.
+Ruani qartësinë dhe përqendrohuni në qëllimet dhe përparësitë tuaja.
+Ulja e rrezikut të afateve ose angazhimeve të humbura.
+Identifikoni ndonjë projekt jo të plotë ose të ngecur.
+Eliminoni tepricën dhe sigurohuni që nuk po kopjoni përpjekjet.
+Qëndroni në kontrollin e ngarkesës suaj të punës dhe zvogëloni stresin.

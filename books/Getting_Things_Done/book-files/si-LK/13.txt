@@ -1,18 +1,17 @@
-Episode 12: Creating and Using Tools to Support Workflow 
+කථාංගය 12: කාර්ය ප්රවාහයට සහාය වීම සඳහා මෙවලම් නිර්මාණය කිරීම සහ භාවිතා කිරීම
 
-David Allen's  Getting Things Done  explores the idea that having the right tools and systems in place can significantly enhance your workflow and productivity. In Part 2 of the book, titled  Creating and Using Tools to Support Workflow,  Allen delves into various tools and techniques that help you implement the GTD methodology more effectively. Here's an overview of this part:
+ඩේවිඩ් ඇලන්ගේ දේවල් සිදු කිරීම නිවැරදි මෙවලම් හා පද්ධති තිබීම ඔබේ කාර්යබහුල හා tivity ලදායිතාව සැලකිය යුතු ලෙස වැඩි කළ හැකි අදහස ගවේෂණය කරයි.වැඩ ප්රවාහය නිර්මාණය කිරීම සඳහා මෙවලම් නිර්මාණය කිරීම හා භාවිතා කරමින් 2 වන කොටසෙහි, ජීටීඩී ක්රමවේදය වඩාත් .ලදායී ලෙස ක්රියාත්මක කිරීමට ඔබට උපකාරී වන විවිධ මෙවලම් හා ශිල්පීය ක්රම සඳහා ඇලන්.මෙන්න මෙම කොටස පිළිබඳ දළ විශ්ලේෂණයක්:
 
-The Capture Tool: The Capture Tool is a fundamental component of GTD. It's the place where you quickly capture all the incoming information, tasks, ideas, and commitments that might otherwise clutter your mind. This tool could be a physical inbox, a digital note-taking app, or even a voice recorder. The key is to have a reliable system for capturing everything that needs your attention.
+ග්රහණ මෙවලම: ග්රහණ මෙවලම GTD හි මූලික අංගයකි.ඔබේ මනස අවුල් විය හැකි එන එන තොරතුරු, කාර්යයන්, අදහස් සහ බැඳීම් ඔබ ඉක්මනින් අල්ලා ගන්නා ස්ථානය එයයි.මෙම මෙවලම භෞතික එන ලිපි, ඩිජිටල් නෝට්ටුවක් ගැනීමේ යෙදුමක් හෝ හ voice පටිගත කිරීමක් විය හැකිය.ප්රධාන දෙය නම්, ඔබේ අවධානය යොමු කරන සෑම දෙයක්ම ග්රහණය කර ගැනීම සඳහා විශ්වාසදායක ක්රමයක් තිබීමයි.
 
-The Calendar: Your calendar is where you schedule time-sensitive appointments, meetings, and deadlines. In GTD, the calendar is reserved for items that have a specific date and time associated with them. You're encouraged to use your calendar sparingly for these commitments to avoid clutter.
+දින දර්ශනය: ඔබගේ දින දර්ශනය යනු ඔබ කාල සංවේදී පත්වීම්, රැස්වීම් සහ කාලසීමාවන් උපලේඛනගත කළ ස්ථානයකි.GTD හි, දින දර්ශනය නිශ්චිත දිනයක් සහ ඒවා හා සම්බන්ධ නිශ්චිත දිනයක් සහ වේලාවක් ඇති අයිතම සඳහා වෙන් කර ඇත.කැළඹීම වළක්වා ගැනීම සඳහා මෙම බැඳීම් සඳහා ඔබේ දින දර්ශනය අරපිරිමැස්මෙන් භාවිතා කිරීමට ඔබව දිරිමත් කරයි.
 
-The Next Actions List: Part 2 emphasizes the importance of maintaining a list of your next actions, which are the concrete, doable tasks you need to complete to move your projects forward. Allen recommends categorizing these actions by context (e.g., calls, emails, errands) to make it easier to tackle them efficiently.
+ඊළඟ ක්රියා ලැයිස්තුව: 2 වන කොටස අවධාරණය කරන්නේ ඔබගේ ඊළඟ ක්රියාවන් ලැයිස්තුවක් පවත්වාගෙන යාමේ වැදගත්කම වන අතර ඒවා ඔබේ ව්යාපෘති ඉදිරියට ගෙන යාම සඳහා සම්පූර්ණ කළ යුතු කොන්ක්රීට්, කළ හැකි කාර්යයන් වේ.ඇලන් විසින් මෙම ක්රියාවන් සන්දර්භය (ඊ.ජී., ඇමතුම්, ඊමේල්, ඊමේල්, වැරදි) මගින් වර්ගීකරණය කිරීම කාර්යක්ෂමව විසඳීම පහසු කරයි.
 
-The Projects List: This list contains all your active projects, each with a clear desired outcome and a list of next actions. Reviewing your Projects List regularly ensures that you stay on track and make consistent progress.
+ව්යාපෘති ලැයිස්තුව: මෙම ලැයිස්තුවේ ඔබගේ සියලු ක්රියාකාරී ව්යාපෘති අඩංගු වන අතර, එක් එක්, පැහැදිලි අපේක්ෂිත ප්රති come ලයක් සහ ඊළඟ ක්රියාවන්ගේ ලැයිස්තුවක් ඇත.ඔබේ ව්යාපෘති ලැයිස්තුව සමාලෝචනය කිරීම නිරන්තරයෙන් ඔබ ධාවන පථයේ රැඳී සිටිමින් ස්ථාවර ප්රගතියක් ලබා ගැනීම සහතික කරයි.
 
-The  Waiting For  List: As mentioned earlier, this list tracks tasks or commitments that depend on someone else's action or response. It's a crucial tool for staying organized and following up on delegated tasks.
+ලැයිස්තුවක් සඳහා බලා සිටීම: කලින් සඳහන් කළ පරිදි, මෙම ලැයිස්තුව වෙනත් කෙනෙකුගේ ක්රියාව හෝ ප්රතිචාරය මත රඳා පවතින කාර්යයන් හෝ කැපවීම් පතිවල.සංවිධානාත්මකව පවත්වා ගෙන යාම සහ පවරා ඇති කාර්යයන් අනුගමනය කිරීම සඳහා එය තීරණාත්මක මෙවලමකි.
 
-The Reference Material System: GTD emphasizes the need for an organized reference system for storing documents, reference materials, and information you might need in the future. This system helps you quickly retrieve information when necessary.
+යොමු ද්රව්ය පද්ධතිය: GTD අවධාරණය කරන්නේ ලේඛන, යොමු ද්රව්ය සහ අනාගතයේදී ඔබට අවශ්ය තොරතුරු ගබඩා කිරීම, යොමු ද්රව්ය සහ ඔබට අවශ්ය තොරතුරු ගබඩා කිරීම සඳහා සංවිධානාත්මක යොමු පද්ධතියක් අවශ්යතාවයෙනි.අවශ්ය විටදී තොරතුරු ඉක්මනින් ලබා ගැනීමට මෙම ක්රමය ඔබට ඉක්මනින් ලබා දීමට උපකාරී වේ.
 
-Using Technology Effectively: Part 2 also addresses how to leverage digital tools like email, task management apps, and note-taking software to enhance your workflow. The key is to integrate these tools into your GTD system in a way that supports your productivity rather than adding complexity.
-
+තාක්ෂණය effectively ලදායී ලෙස භාවිතා කිරීම: ඔබේ කාර්ය ප්රවාහය වැඩි දියුණු කිරීම සඳහා විද්යුත් තැපෑල, කාර්ය කළමනාකරණ යෙදුම් සහ නෝට්ටුව ගන්නා මෘදුකාංග වැනි ඩිජිටල් මෙවලම් උකහා ගන්නේ කෙසේද යන්න පිළිබඳ ආමන්ත්රණය කරයි.ප්රධාන දෙය නම් මෙම මෙවලම් ඔබේ GTD පද්ධතියට ඒකාබද්ධ කිරීමයි.

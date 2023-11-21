@@ -1,20 +1,19 @@
-Episode 7: Processing: Getting  In  to Empty 
+Epizóda 7: Spracovanie: Vstúpenie do prázdneho
 
-In  Getting Things Done  by David Allen, Part 2, titled  Processing: Getting 'In' to Empty,  we dive deeper into the critical phase of processing. This part of the GTD methodology is all about clarifying the meaning and next actions for the items you've collected. Here are the key concepts from this section:
+Pri dosahovaní vecí David Allen, časť 2, s názvom Spracovanie: Získanie „v“ do prázdneho, ponoríme sa hlbšie do kritickej fázy spracovania.Táto časť metodiky GTD je o objasnení významu a ďalších akcií pre zhromaždené položky.Tu sú kľúčové koncepty z tejto časti:
 
-The Clarifying Process: Processing is the stage where you decide what each item collected means and what action, if any, is associated with it. There are four options for clarifying items:
+Objasňujúci proces: Spracovanie je fáza, v ktorej sa rozhodnete, čo znamená každá zhromaždená položka a aké kroky, ak existuje, je s ňou spojená.Existujú štyri možnosti objasnenia položiek:
 
-Trash: If an item has no value or relevance, discard it.
-Incubate: Some items don't require immediate action but might be important in the future. Place these items in an  incubation  or reference system.
-Reference: Some items serve as reference material, such as information to be filed or stored for later use.
-Action: If an item requires action, you must determine the specific next steps.
-Next Actions: Defining the next action is a fundamental principle of GTD. It means breaking tasks down into actionable steps. Instead of vague to-do items like  write report,  you would clarify it as  draft the introduction of the report.  This clarity eliminates ambiguity and makes it easier to take action.
+Trash: Ak položka nemá žiadnu hodnotu ani relevantnosť, zlikvidujte ju.
+Inkubujte: Niektoré položky nevyžadujú okamžité kroky, ale v budúcnosti môžu byť dôležité.Umiestnite tieto položky do inkubácie alebo referenčného systému.
+Referencia: Niektoré položky slúžia ako referenčný materiál, napríklad informácie, ktoré sa majú podať alebo uložiť na neskoršie použitie.
+Akcia: Ak položka vyžaduje akciu, musíte určiť konkrétne ďalšie kroky.
+Ďalšie akcie: Definovanie ďalšej akcie je základný princíp GTD.Znamená to rozdelenie úloh do krokov, ktoré je možné vykonať.Namiesto nejasných položiek úloh, ako je správa o zápise, by ste ju objasnili ako návrh zavedenia správy.Táto jasnosť vylučuje nejednoznačnosť a uľahčuje konanie.
 
-Project Definition: If a task requires more than one step to complete, it becomes a project. Projects should be explicitly defined with a clear outcome and the next actions needed to achieve that outcome.
+Definícia projektu: Ak úloha vyžaduje viac ako jeden krok na dokončenie, stáva sa projektom.Projekty by sa mali výslovne definovať s jasným výsledkom a ďalšie kroky potrebné na dosiahnutie tohto výsledku.
 
-Organizing Actions: Once you've clarified the next actions, organize them in a way that makes them easily accessible when you're ready to work on them. This could involve categorizing actions by context, priority, or deadline.
+Organizácia akcií: Po objasnení ďalších akcií ich usporiadajte spôsobom, ktorý ich umožňuje ľahko dostupným, keď ste pripravení pracovať na nich.To by mohlo zahŕňať kategorizáciu akcií podľa kontextu, priority alebo termínu.
 
-The  Waiting For  List: Not all actions are within your control. Use a  Waiting For  list to track actions that depend on others. This helps prevent items from falling through the cracks.
+Čakanie na zoznam: Nie všetky akcie sú pod vašou kontrolou.Použite čakanie na zoznam na sledovanie akcií, ktoré závisia od ostatných.To pomáha zabrániť tomu, aby položky padali cez trhliny.
 
-The  Someday/Maybe  List: Capture ideas or projects that you're not committed to working on immediately but might consider in the future. This list keeps these ideas from cluttering your active task lists.
-
+Jedného dňa/možno zoznam: Zachytávajú nápady alebo projekty, na ktorých sa nezaviazali okamžite pracovať, ale v budúcnosti by ste mohli zvážiť.Tento zoznam chráni tieto nápady v tom, aby zaplnil vaše zoznamy aktívnych úloh.

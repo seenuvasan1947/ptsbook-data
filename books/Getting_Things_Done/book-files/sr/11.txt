@@ -1,18 +1,17 @@
-Episode 10: Doing: Making the Best Action Choices (Part 2)
+Епизода 10: Ради: Израда најбољих деловања акције (део 2)
 
-In  Getting Things Done  by David Allen, Part 2 dives into the critical phase of  Doing.  This phase is all about making the best action choices once you have collected, processed, organized, and reviewed your tasks and commitments. Here's what you need to understand about this phase:
+У томе да ствари ураде Давид Аллен, део 2 дио зарони у критичну фазу ради.Ова фаза је све у вези са најбољим деловима акције након што сте прикупили, обрађени, организовани и прегледали своје задатке и обавезе.Ево шта треба да разумете о овој фази:
 
-The Essence of Doing: At its core,  Doing  is about executing the tasks and actions you've identified as necessary to move your projects and goals forward. This phase is where the rubber meets the road, and you take tangible steps toward achieving your desired outcomes.
+Суштина рада: у свом језгру је ради о извршењу задатака и радњи које сте идентификовали по потреби да бисте преместили своје пројекте и циљеве напред.Ова фаза је место где се гума среће са пута, а ви узимате опипљиве кораке ка постизању жељених резултата.
 
-Contextual Lists: One of the key principles of the GTD method is organizing your tasks by context. Contexts are specific situations or locations where you can perform certain actions. For example, tasks that require a phone call can be grouped under the  Calls  context. This allows you to be efficient and choose actions based on your current context.
+Контекстуалне листе: Један од кључних принципа ГТД методе организује ваше задатке по контексту.Контексти су специфичне ситуације или локације на којима можете извршити одређене акције.На пример, задаци који захтевају телефонски позив могу се груписати под контекст позива.То вам омогућава да будете ефикасни и одабир акције на основу вашег тренутног контекста.
 
-The Two-Minute Rule: Allen introduces the  Two-Minute Rule,  which is a simple but powerful concept. If a task can be completed in two minutes or less, it should be done immediately. This prevents small tasks from accumulating and cluttering your to-do lists.
+Дво-минутно правило: Аллен уводи двоминутни правило, што је једноставан, али моћан концепт.Ако се задатак може завршити за две или мање, то би требало да се уради одмах.То спречава мале задатке да се акумулирају и затрпавају ваше листе обавеза.
 
-Choosing Actions with Confidence: GTD emphasizes that you should have confidence in the actions you choose to tackle. By following the GTD process of collection, processing, organization, and review, you've already ensured that your actions are aligned with your goals and priorities.
+Одабир акција са поуздањем: ГТД наглашава да бисте требали имати поверења у поступке које одлучите да се позабавите.Слиједећи ГТД процес прикупљања, прераде, организације и прегледа, већ сте осигурали да су ваше поступке усклађене са вашим циљевима и приоритетима.
 
-Resisting the Urge to Multitask: Multitasking is discouraged in GTD because it can reduce productivity and increase stress. Instead, focus on one task at a time, guided by your current context and priorities.
+Одузевши се нагону за више задатака: Вишетошење је обесхрабрен у ГТД-у јер може умањити продуктивност и повећати стрес.Уместо тога, фокусирајте се на један задатак у исто време, вођен тренутним контекстом и приоритетима.
 
-Calendar-Based Actions: While most tasks are organized by context, some actions are time-sensitive and should be placed on your calendar. These are appointments or commitments that must be honored at specific times or on specific dates.
+Акције засноване на календару: Док се већина задатака организује контекстом, неке радње су временски осетљиве и треба их поставити на ваш календар.То су именовања или обавезе које морају бити почашћене у одређеном времену или на одређеним датумима.
 
-Handling Interruptions: GTD acknowledges that interruptions are a part of work and life. The key is to handle them mindfully and make quick decisions about whether to address them immediately, defer them, delegate them, or capture them for later processing.
-
+Претпостављање у руковању: ГТД признаје да су прекиди део рада и живота.Кључно је да се њима управљају умажено и направите брзе одлуке о томе да ли ће их одмах позабавити, одложити их, делегирати их или их ухватити за касније обрађивање.

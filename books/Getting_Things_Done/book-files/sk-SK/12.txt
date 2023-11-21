@@ -1,18 +1,17 @@
-Episode 11: Getting Projects Under Control 
+Epizóda 11: Získanie projektov pod kontrolu
 
-In David Allen's  Getting Things Done,  Part 2 of the book focuses on the critical aspect of getting your projects under control. Managing projects effectively is essential for achieving your goals and reducing stress. Here's an overview of this part:
+V dosahovaní vecí Davida Allena sa časť 2 knihy zameriava na kritický aspekt, keď vaše projekty pod kontrolou.Efektívne riadenie projektov je nevyhnutné na dosiahnutie vašich cieľov a zníženie stresu.Tu je prehľad tejto časti:
 
-Defining a Project: Allen begins by defining a project as anything that requires more than one action step to complete. This broad definition encompasses not only work-related projects but also personal goals and aspirations.
+Definovanie projektu: Allen začína definovaním projektu ako čohokoľvek, čo si vyžaduje dokončenie viac ako jedného kroku.Táto široká definícia zahŕňa nielen projekty súvisiace s prácou, ale aj osobné ciele a ašpirácie.
 
-The Natural Planning Model: To get projects under control, GTD introduces the Natural Planning Model, a series of steps to help you plan effectively. This model involves defining your purpose and principles, envisioning your desired outcome, brainstorming, organizing your ideas, and identifying the next actions.
+Model prírodného plánovania: Ak chcete získať projekty pod kontrolu, GTD predstavuje model Natural Planning Model, sériu krokov, ktoré vám pomôžu efektívne plánovať.Tento model zahŕňa definovanie vášho účelu a princípov, predstavenie vášho požadovaného výsledku, brainstorming, organizovanie vašich nápadov a identifikáciu ďalších akcií.
 
-Outcome and Action Thinking: GTD emphasizes the importance of distinguishing between outcomes and actions. Outcomes represent the specific results you want to achieve, while actions are the concrete steps you need to take to move toward those outcomes.
+Výsledok a akčné myslenie: GTD zdôrazňuje dôležitosť rozlišovania medzi výsledkami a činmi.Výsledky predstavujú konkrétne výsledky, ktoré chcete dosiahnuť, zatiaľ čo akcie sú konkrétne kroky, ktoré musíte podniknúť, aby ste sa posunuli k týmto výsledkom.
 
-Mind Mapping: Mind mapping is a powerful tool introduced in this section. It allows you to visually organize your ideas and brainstorm effectively. Mind maps can help you generate insights and identify critical actions within a project.
+Mapovanie mysle: Mapovanie mysle je výkonný nástroj uvedený v tejto časti.Umožňuje vám vizuálne organizovať vaše nápady a efektívne brainstorming.Mapy mysle vám môžu pomôcť vygenerovať poznatky a identifikovať kritické akcie v rámci projektu.
 
-Organizing Projects: Once you've defined the outcomes and actions for your projects, GTD provides guidance on organizing them. This includes creating project lists, specifying the desired outcomes, and listing the next actions required to make progress.
+Organizácia projektov: Akonáhle ste definovali výsledky a akcie pre svoje projekty, GTD poskytuje pokyny týkajúce sa ich organizácie.Zahŕňa to vytvorenie zoznamov projektov, špecifikovanie požadovaných výsledkov a uvedenie nasledujúcich akcií potrebných na dosiahnutie pokroku.
 
-Project Support Material: Support materials for your projects, such as research notes, documents, or reference materials, should be organized and readily accessible. GTD suggests keeping these materials separate from your regular reference files to maintain clarity.
+Materiál podpory projektu: Podporné materiály pre vaše projekty, ako sú výskumné poznámky, dokumenty alebo referenčné materiály, by sa mali organizovať a ľahko dostupné.GTD navrhuje, aby sa tieto materiály oddelili od vašich pravidelných referenčných súborov, aby sa udržala jasnosť.
 
-The  Waiting For  List: Projects often involve collaboration with others. GTD recommends maintaining a  Waiting For  list to track commitments or tasks that are dependent on someone else's action or response.
-
+Čakanie na zoznam: Projekty často zahŕňajú spoluprácu s ostatnými.Spoločnosť GTD odporúča udržiavať čakanie na zoznam záväzkov alebo úloh, ktoré závisia od akcie alebo odpovede niekoho iného.

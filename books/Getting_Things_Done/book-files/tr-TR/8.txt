@@ -1,0 +1,19 @@
+Bölüm 7: İşleme: Boş Giriş
+
+David Allen tarafından işleri yaparken, Bölüm 2, işleme: 'in' başlıklı olarak boşaltmak için, işlemin kritik aşamasına daha derin dalış yapıyoruz.GTD metodolojisinin bu kısmı, topladığınız öğelerin anlamını ve sonraki eylemlerini açıklığa kavuşturmakla ilgilidir.İşte bu bölümün temel kavramları:
+
+Açıklayıcı Süreç: İşleme, her bir öğenin ne anlama geldiğine ve varsa hangi eylemin onunla ilişkili olduğuna karar verdiğiniz aşamadır.Öğeleri açıklığa kavuşturmak için dört seçenek vardır:
+
+Çöp: Bir öğenin değeri veya alaka düzeyi yoksa, atın.
+İnkübe: Bazı öğeler derhal eylem gerektirmez, ancak gelecekte önemli olabilir.Bu öğeleri bir kuluçka veya referans sistemine yerleştirin.
+Referans: Bazı öğeler, daha sonra kullanılmak üzere dosyalanacak veya saklanacak bilgiler gibi referans malzeme olarak işlev görür.
+Eylem: Bir öğe işlem gerektiriyorsa, sonraki belirli adımları belirlemeniz gerekir.
+Sonraki Eylemler: Bir sonraki eylemin tanımlanması GTD'nin temel bir ilkesidir.Bu, görevleri eyleme geçirilebilir adımlara ayırmak anlamına gelir.Yazma raporu gibi belirsiz yapılacaklar yerine, raporun tanıtımını taslak olarak açıklarsınız.Bu netlik belirsizliği ortadan kaldırır ve harekete geçmeyi kolaylaştırır.
+
+Proje Tanımı: Bir görev tamamlamak için birden fazla adım gerektiriyorsa, bir proje haline gelir.Projeler açıkça net bir sonuç ve bu sonucu elde etmek için gereken sonraki eylemlerle tanımlanmalıdır.
+
+Eylemleri Düzenleme: Bir sonraki eylemleri açıkladıktan sonra, bunları üzerinde çalışmaya hazır olduğunuzda bunları kolayca erişilebilir hale getirecek şekilde düzenleyin.Bu, eylemlerin bağlam, önceliğe veya son tarihe göre sınıflandırılmasını içerebilir.
+
+Liste Beklenmesi: Tüm eylemler sizin kontrolünüzde değildir.Başkalarına bağlı eylemleri izlemek için bir bekleme listesi kullanın.Bu, eşyaların çatlaklardan düşmesini önlemeye yardımcı olur.
+
+Bir Gün/Belki Liste: Hemen üzerinde çalışmaya karar vermediğiniz ancak gelecekte düşünebileceğiniz fikirleri veya projeleri yakalayın.Bu liste, bu fikirlerin etkin görev listelerinizi karıştırmasını engeller.

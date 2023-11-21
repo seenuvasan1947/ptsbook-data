@@ -1,18 +1,17 @@
-Episode 10: Doing: Making the Best Action Choices (Part 2)
+කථාංග 10: කිරීම: හොඳම ක්රියාකාරී තේරීම් කිරීම (2 වන කොටස)
 
-In  Getting Things Done  by David Allen, Part 2 dives into the critical phase of  Doing.  This phase is all about making the best action choices once you have collected, processed, organized, and reviewed your tasks and commitments. Here's what you need to understand about this phase:
+ඩේවිඩ් ඇලන් විසින් කරන ලද දේවල් ලබා ගැනීමේදී 2 වන කොටසෙහි විවේචනාත්මක අවධියට කිමිදීම.මෙම අදියර ඔබ එකතු කර ගත් විට, සැකසූ, සංවිධානය කර ඇති සහ කැපවූ පසු හොඳම ක්රියාකාරී තේරීම් කිරීම සඳහා වේ.මෙම අදියර ගැන ඔබ තේරුම් ගත යුතු දේ මෙන්න:
 
-The Essence of Doing: At its core,  Doing  is about executing the tasks and actions you've identified as necessary to move your projects and goals forward. This phase is where the rubber meets the road, and you take tangible steps toward achieving your desired outcomes.
+කිරීමේ සාරය: එහි හරය අනුව, ඔබේ ව්යාපෘති හා අරමුණු ඉදිරියට ගෙන යාම සඳහා අවශ්ය යැයි ඔබ හඳුනාගෙන ඇති කාර්යයන් සහ ක්රියාවන් ක්රියාත්මක කිරීම ගැන ය.මෙම අදියර යනු රබර් පාර දිගේ මුණගැසෙන ස්ථානය වන අතර, ඔබ අපේක්ෂිත ප්රති come ල ලබා ගැනීම සඳහා පැහැදිලි පියවර ගනී.
 
-Contextual Lists: One of the key principles of the GTD method is organizing your tasks by context. Contexts are specific situations or locations where you can perform certain actions. For example, tasks that require a phone call can be grouped under the  Calls  context. This allows you to be efficient and choose actions based on your current context.
+සන්දර්භීය ලැයිස්තු: GTD ක්රමයේ එක් ප්රධාන මූලධර්මයක් වන්නේ සන්දර්භය අනුව ඔබේ කාර්යයන් සංවිධානය කිරීමයි.සන්දර්භය යනු ඔබට යම් යම් ක්රියාමාර්ගයක් කළ හැකි නිශ්චිත තත්වයන් හෝ ස්ථාන වේ.උදාහරණයක් ලෙස, දුරකථන ඇමතුමක් අවශ්ය වන කාර්යයන් ඇමතුම් සන්දර්භය යටතේ කාණ්ඩගත කළ හැකිය.මෙය ඔබට කාර්යක්ෂමව සිටීමට සහ ඔබගේ වර්තමාන සන්දර්භය මත පදනම්ව ක්රියා තෝරා ගැනීමට මෙය ඉඩ දෙයි.
 
-The Two-Minute Rule: Allen introduces the  Two-Minute Rule,  which is a simple but powerful concept. If a task can be completed in two minutes or less, it should be done immediately. This prevents small tasks from accumulating and cluttering your to-do lists.
+මිනිත්තු දෙකක රීතිය: ඇලන් විනාඩි දෙකේ රීතිය හඳුන්වා දෙයි, එය සරල නමුත් බලවත් සංකල්පයකි.යම් කාර්යයක් මිනිත්තු දෙකකින් හෝ ඊට අඩු ගණනකින් සම්පූර්ණ කළ හැකි නම්, එය වහාම කළ යුතුය.මෙය කුඩා කාර්යයන් ඔබේ කළ යුතු දේ ලැයිස්තුවට සමුච්චය කිරීම හා අවුල් කිරීම වළක්වයි.
 
-Choosing Actions with Confidence: GTD emphasizes that you should have confidence in the actions you choose to tackle. By following the GTD process of collection, processing, organization, and review, you've already ensured that your actions are aligned with your goals and priorities.
+විශ්වාසයෙන් යුතුව ක්රියා කිරීම: ඔබ සමඟ කටයුතු කිරීමට ඔබ තෝරා ගන්නා ක්රියාවන් පිළිබඳව ඔබට විශ්වාසයක් තිබිය යුතු බව ජීටීඩී අවධාරණය කරයි.එකතු කිරීමේ GTD ක්රියාවලිය අනුගමනය කිරීම, සැකසීම, සංවිධානය සහ සමාලෝචනය, ඔබේ ක්රියාවන් ඔබේ අරමුණු හා ප්රමුඛතා සමඟ පෙලගැසී ඇති බවට ඔබ දැනටමත් සහතික කර ඇත.
 
-Resisting the Urge to Multitask: Multitasking is discouraged in GTD because it can reduce productivity and increase stress. Instead, focus on one task at a time, guided by your current context and priorities.
+බහු කාර්යයන් සඳහා ඇති පෙළඹවීමකට එරෙහි වීම: GTD හි බහු කාර්යයන් අධෛර්යමත් කර ඇති නිසා එය tivity ලදායිතාව අඩු කර ආතතිය වැඩි කළ හැකිය.ඒ වෙනුවට, ඔබගේ වර්තමාන සන්දර්භය හා ප්රමුඛතා අනුව මඟ පෙන්වනු ලබන වරකට එක් කාර්යයක් කෙරෙහි අවධානය යොමු කරන්න.
 
-Calendar-Based Actions: While most tasks are organized by context, some actions are time-sensitive and should be placed on your calendar. These are appointments or commitments that must be honored at specific times or on specific dates.
+දින දර්ශන පදනම් කරගත් ක්රියාමාර්ග: බොහෝ කාර්යයන් සන්දර්භය විසින් සංවිධානය කරනු ලබන අතර, සමහර ක්රියා සමහර ක්රියා කාලය සංවේදී වන අතර ඔබේ දින දර්ශනයේ තැබිය යුතුය.මේවා නිශ්චිත කාලවලදී හෝ නිශ්චිත දිනයන්හි ගෞරවයට පාත්ර වූ පත්වීම් හෝ කැපවීම් වේ.
 
-Handling Interruptions: GTD acknowledges that interruptions are a part of work and life. The key is to handle them mindfully and make quick decisions about whether to address them immediately, defer them, delegate them, or capture them for later processing.
-
+බාධා කිරීම් හැසිරවීම: බාධා කිරීම් වැඩ හා ජීවිතයේ කොටසක් බව GTD පිළිගනී.ප්රධාන දෙය නම්, ඒවා ආමන්ත්රණය කිරීම, නෙරපා හැරීම, ඒවා පලවා හැරීම ගැන ඉක්මන් තීරණ ගැනීමයි.

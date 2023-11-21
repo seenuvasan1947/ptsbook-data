@@ -1,18 +1,17 @@
-Episode 11: Getting Projects Under Control 
+Episodi 11: Marrja e projekteve nën kontroll
 
-In David Allen's  Getting Things Done,  Part 2 of the book focuses on the critical aspect of getting your projects under control. Managing projects effectively is essential for achieving your goals and reducing stress. Here's an overview of this part:
+Në David Allen's Getting Things Bace, Pjesa 2 e librit përqendrohet në aspektin kritik të marrjes së projekteve tuaja nën kontroll.Menaxhimi i projekteve në mënyrë efektive është thelbësore për arritjen e qëllimeve tuaja dhe zvogëlimin e stresit.Këtu është një përmbledhje e kësaj pjese:
 
-Defining a Project: Allen begins by defining a project as anything that requires more than one action step to complete. This broad definition encompasses not only work-related projects but also personal goals and aspirations.
+Përcaktimi i një projekti: Allen fillon duke përcaktuar një projekt si çdo gjë që kërkon më shumë se një hap veprimi për të përfunduar.Ky përkufizim i gjerë përfshin jo vetëm projekte të lidhura me punën, por edhe qëllime personale dhe aspirata.
 
-The Natural Planning Model: To get projects under control, GTD introduces the Natural Planning Model, a series of steps to help you plan effectively. This model involves defining your purpose and principles, envisioning your desired outcome, brainstorming, organizing your ideas, and identifying the next actions.
+Modeli i planifikimit natyror: Për të marrë projekte nën kontroll, GTD prezanton modelin e planifikimit natyror, një seri hapash për t'ju ndihmuar të planifikoni në mënyrë efektive.Ky model përfshin përcaktimin e qëllimit dhe parimeve tuaja, parashikimin e rezultatit tuaj të dëshiruar, stuhinë e trurit, organizimin e ideve tuaja dhe identifikimin e veprimeve të ardhshme.
 
-Outcome and Action Thinking: GTD emphasizes the importance of distinguishing between outcomes and actions. Outcomes represent the specific results you want to achieve, while actions are the concrete steps you need to take to move toward those outcomes.
+Rezultati dhe Mendimi i Veprimit: GTD thekson rëndësinë e dallimit midis rezultateve dhe veprimeve.Rezultatet paraqesin rezultatet specifike që dëshironi të arrini, ndërsa veprimet janë hapat konkret që duhet të ndërmerrni për të lëvizur drejt atyre rezultateve.
 
-Mind Mapping: Mind mapping is a powerful tool introduced in this section. It allows you to visually organize your ideas and brainstorm effectively. Mind maps can help you generate insights and identify critical actions within a project.
+Hartimi i mendjes: Hartimi i mendjes është një mjet i fuqishëm i prezantuar në këtë pjesë.Kjo ju lejon të organizoni vizualisht idetë tuaja dhe stuhinë e trurit në mënyrë efektive.Hartat e mendjes mund t'ju ndihmojnë të gjeneroni njohuri dhe të identifikoni veprime kritike brenda një projekti.
 
-Organizing Projects: Once you've defined the outcomes and actions for your projects, GTD provides guidance on organizing them. This includes creating project lists, specifying the desired outcomes, and listing the next actions required to make progress.
+Projektet e organizimit: Pasi të keni përcaktuar rezultatet dhe veprimet për projektet tuaja, GTD ofron udhëzime për organizimin e tyre.Kjo përfshin krijimin e listave të projekteve, specifikimin e rezultateve të dëshiruara dhe renditjen e veprimeve të ardhshme të kërkuara për të bërë përparim.
 
-Project Support Material: Support materials for your projects, such as research notes, documents, or reference materials, should be organized and readily accessible. GTD suggests keeping these materials separate from your regular reference files to maintain clarity.
+Materiali mbështetës i projektit: Materialet mbështetëse për projektet tuaja, të tilla si shënime kërkimore, dokumente ose materiale referimi, duhet të jenë të organizuara dhe të arritshme.GTD sugjeron mbajtjen e këtyre materialeve të ndara nga skedarët tuaj të rregullt të referencës për të ruajtur qartësinë.
 
-The  Waiting For  List: Projects often involve collaboration with others. GTD recommends maintaining a  Waiting For  list to track commitments or tasks that are dependent on someone else's action or response.
-
+Pritja për listën: Projektet shpesh përfshijnë bashkëpunim me të tjerët.GTD rekomandon mbajtjen e një liste në pritje për të ndjekur angazhimet ose detyrat që varen nga veprimi ose përgjigja e dikujt tjetër.

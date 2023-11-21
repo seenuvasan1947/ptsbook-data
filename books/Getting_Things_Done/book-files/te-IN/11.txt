@@ -1,18 +1,17 @@
-Episode 10: Doing: Making the Best Action Choices (Part 2)
+ఎపిసోడ్ 10: చేయడం: ఉత్తమ యాక్షన్ ఎంపికలు (పార్ట్ 2)
 
-In  Getting Things Done  by David Allen, Part 2 dives into the critical phase of  Doing.  This phase is all about making the best action choices once you have collected, processed, organized, and reviewed your tasks and commitments. Here's what you need to understand about this phase:
+డేవిడ్ అలెన్ చేత పనులు చేయడంలో, పార్ట్ 2 చేసే క్లిష్టమైన దశలో మునిగిపోతుంది.ఈ దశ మీరు మీ పనులు మరియు కట్టుబాట్లను సేకరించి, ప్రాసెస్ చేసిన, వ్యవస్థీకృత మరియు సమీక్షించిన తర్వాత ఉత్తమమైన చర్య ఎంపికలు చేయడం.ఈ దశ గురించి మీరు అర్థం చేసుకోవలసినది ఇక్కడ ఉంది:
 
-The Essence of Doing: At its core,  Doing  is about executing the tasks and actions you've identified as necessary to move your projects and goals forward. This phase is where the rubber meets the road, and you take tangible steps toward achieving your desired outcomes.
+చేసే సారాంశం: దాని ప్రధాన భాగంలో, చేయడం అనేది మీ ప్రాజెక్టులు మరియు లక్ష్యాలను ముందుకు తరలించడానికి అవసరమైన విధంగా మీరు గుర్తించిన పనులు మరియు చర్యలను అమలు చేయడం.ఈ దశ రబ్బరు రహదారిని కలుస్తుంది మరియు మీరు కోరుకున్న ఫలితాలను సాధించడానికి మీరు స్పష్టమైన చర్యలు తీసుకుంటారు.
 
-Contextual Lists: One of the key principles of the GTD method is organizing your tasks by context. Contexts are specific situations or locations where you can perform certain actions. For example, tasks that require a phone call can be grouped under the  Calls  context. This allows you to be efficient and choose actions based on your current context.
+సందర్భోచిత జాబితాలు: GTD పద్ధతి యొక్క ముఖ్య సూత్రాలలో ఒకటి సందర్భోచితంగా మీ పనులను నిర్వహించడం.సందర్భాలు నిర్దిష్ట పరిస్థితులు లేదా మీరు కొన్ని చర్యలు చేయగల ప్రదేశాలు.ఉదాహరణకు, ఫోన్ కాల్ అవసరమయ్యే పనులను కాల్స్ సందర్భంలో వర్గీకరించవచ్చు.ఇది మీ ప్రస్తుత సందర్భం ఆధారంగా సమర్థవంతంగా ఉండటానికి మరియు చర్యలను ఎంచుకోవడానికి మిమ్మల్ని అనుమతిస్తుంది.
 
-The Two-Minute Rule: Allen introduces the  Two-Minute Rule,  which is a simple but powerful concept. If a task can be completed in two minutes or less, it should be done immediately. This prevents small tasks from accumulating and cluttering your to-do lists.
+రెండు నిమిషాల నియమం: అలెన్ రెండు నిమిషాల నియమాన్ని పరిచయం చేస్తుంది, ఇది సరళమైన కానీ శక్తివంతమైన భావన.ఒక పనిని రెండు నిమిషాలు లేదా అంతకంటే తక్కువ వ్యవధిలో పూర్తి చేయగలిగితే, అది వెంటనే చేయాలి.ఇది చిన్న పనులను మీ చేయవలసిన పనుల జాబితాలను కూడబెట్టుకోకుండా మరియు అస్తవ్యస్తం చేయకుండా నిరోధిస్తుంది.
 
-Choosing Actions with Confidence: GTD emphasizes that you should have confidence in the actions you choose to tackle. By following the GTD process of collection, processing, organization, and review, you've already ensured that your actions are aligned with your goals and priorities.
+విశ్వాసంతో చర్యలను ఎంచుకోవడం: మీరు పరిష్కరించడానికి ఎంచుకున్న చర్యలపై మీకు విశ్వాసం ఉండాలని GTD నొక్కి చెబుతుంది.సేకరణ, ప్రాసెసింగ్, సంస్థ మరియు సమీక్ష యొక్క GTD ప్రక్రియను అనుసరించడం ద్వారా, మీ చర్యలు మీ లక్ష్యాలు మరియు ప్రాధాన్యతలతో అనుసంధానించబడి ఉన్నాయని మీరు ఇప్పటికే నిర్ధారించారు.
 
-Resisting the Urge to Multitask: Multitasking is discouraged in GTD because it can reduce productivity and increase stress. Instead, focus on one task at a time, guided by your current context and priorities.
+మల్టీ టాస్క్ కోరికను నిరోధించడం: జిటిడిలో మల్టీ టాస్కింగ్ నిరుత్సాహపరుస్తుంది ఎందుకంటే ఇది ఉత్పాదకతను తగ్గిస్తుంది మరియు ఒత్తిడిని పెంచుతుంది.బదులుగా, మీ ప్రస్తుత సందర్భం మరియు ప్రాధాన్యతల ద్వారా మార్గనిర్దేశం చేయబడిన ఒక సమయంలో ఒక పనిపై దృష్టి పెట్టండి.
 
-Calendar-Based Actions: While most tasks are organized by context, some actions are time-sensitive and should be placed on your calendar. These are appointments or commitments that must be honored at specific times or on specific dates.
+క్యాలెండర్-ఆధారిత చర్యలు: చాలా పనులు సందర్భం ప్రకారం నిర్వహించబడుతున్నప్పటికీ, కొన్ని చర్యలు సమయం-సున్నితమైనవి మరియు మీ క్యాలెండర్‌లో ఉంచాలి.ఇవి నియామకాలు లేదా కట్టుబాట్లు, ఇవి నిర్దిష్ట సమయాల్లో లేదా నిర్దిష్ట తేదీలలో గౌరవించబడాలి.
 
-Handling Interruptions: GTD acknowledges that interruptions are a part of work and life. The key is to handle them mindfully and make quick decisions about whether to address them immediately, defer them, delegate them, or capture them for later processing.
-
+అంతరాయాలను నిర్వహించడం: అంతరాయాలు పని మరియు జీవితంలో ఒక భాగం అని GTD అంగీకరించింది.ముఖ్య విషయం ఏమిటంటే వాటిని బుద్ధిపూర్వకంగా నిర్వహించడం మరియు వాటిని వెంటనే పరిష్కరించడం, వాటిని వాయిదా వేయడం, వాటిని అప్పగించడం లేదా తరువాతి ప్రాసెసింగ్ కోసం పట్టుకోవడం గురించి శీఘ్ర నిర్ణయాలు తీసుకోవడం.

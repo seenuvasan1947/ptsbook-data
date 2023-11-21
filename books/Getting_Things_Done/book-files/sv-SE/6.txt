@@ -1,20 +1,19 @@
-Part 2: Practicing Stress-Free Productivity
+Del 2: Öva stressfri produktivitet
 
-Episode 5: Getting Started: Setting Up the Time, Space, and Tools (Part 2)
+Avsnitt 5: Komma igång: Ställa in tid, utrymme och verktyg (del 2)
 
-In this episode, we'll delve into the second part of David Allen's  Getting Things Done,  which is titled  Getting Started: Setting Up the Time, Space, and Tools.  This section focuses on the practical aspects of implementing the GTD system by creating an efficient environment for managing tasks and commitments.
+I det här avsnittet kommer vi att fördjupa den andra delen av David Allens Get Things Done, som har titeln Att komma igång: Ställa in tid, utrymme och verktyg.Det här avsnittet fokuserar på de praktiska aspekterna av att implementera GTD -systemet genom att skapa en effektiv miljö för att hantera uppgifter och åtaganden.
 
-David Allen emphasizes several key concepts in this part of the book:
+David Allen betonar flera viktiga koncept i denna del av boken:
 
-Create a Collection System: To begin with, you should set up a collection system to gather all your thoughts, ideas, tasks, and commitments. This could be a physical inbox on your desk, a digital note-taking app, or a combination of both. The idea is to have a single, trusted place to capture everything.
+Skapa ett samlingssystem: Till att börja med bör du ställa in ett samlingssystem för att samla in alla dina tankar, idéer, uppgifter och åtaganden.Detta kan vara en fysisk inkorg på skrivbordet, en digital anteckningsapp eller en kombination av båda.Tanken är att ha en enda, pålitlig plats att fånga allt.
 
-Mind Like Water: The GTD system aims to help you achieve a state where your mind is like water - calm and clear. To do this, you need to externalize your commitments and tasks into your collection system. This frees your mind from the burden of trying to remember everything.
+Mind Like Water: GTD -systemet syftar till att hjälpa dig att uppnå ett tillstånd där ditt sinne är som vatten - lugnt och tydligt.För att göra detta måste du externisera dina åtaganden och uppgifter i ditt samlingssystem.Detta befriar dig från bördan att försöka komma ihåg allt.
 
-Organize Your Workspace: Creating an organized and clutter-free workspace is essential for effective productivity. Ensure you have the necessary tools, supplies, and equipment readily available.
+Organisera din arbetsyta: Att skapa en organiserad och rörig arbetsyta är avgörande för effektiv produktivitet.Se till att du har nödvändiga verktyg, förnödenheter och utrustning som är lättillgängliga.
 
-Set Up Reference Filing: Establish a reference filing system for storing information, documents, and reference materials that you need for your work or personal life. This ensures that you can quickly access information when required.
+Ställ in referensfilmning: Upprätta ett referensansökningssystem för lagring av information, dokument och referensmaterial som du behöver för ditt arbete eller personliga liv.Detta säkerställer att du snabbt kan komma åt information vid behov.
 
-Use Lists and Calendars: Utilize lists for capturing tasks and commitments, and calendars for scheduling time-bound activities and events. Keep these tools current and regularly reviewed.
+Använd listor och kalendrar: Använd listor för att fånga uppgifter och åtaganden och kalendrar för att schemalägga tidsbundna aktiviteter och evenemang.Håll dessa verktyg aktuella och granskas regelbundet.
 
-Choose Your Tools: Select tools and technology that work best for you. Whether it's a physical planner, a digital task manager, or a combination of both, the tools should align with your preferences and lifestyle.
-
+Välj dina verktyg: Välj verktyg och teknik som fungerar bäst för dig.Oavsett om det är en fysisk planerare, en digital uppgiftschef eller en kombination av båda, bör verktygen anpassa sig till dina preferenser och livsstil.

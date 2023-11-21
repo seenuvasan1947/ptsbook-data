@@ -1,20 +1,19 @@
-Episode 7: Processing: Getting  In  to Empty 
+Episodi 7: Përpunimi: Hyrja në bosh
 
-In  Getting Things Done  by David Allen, Part 2, titled  Processing: Getting 'In' to Empty,  we dive deeper into the critical phase of processing. This part of the GTD methodology is all about clarifying the meaning and next actions for the items you've collected. Here are the key concepts from this section:
+Në bërjen e gjërave të bëra nga David Allen, Pjesa 2, me titull Përpunimi: Hyrja 'në' për të zbrazur, ne zhyten më thellë në fazën kritike të përpunimit.Kjo pjesë e metodologjisë GTD ka të bëjë me sqarimin e kuptimit dhe veprimeve të ardhshme për artikujt që keni mbledhur.Këtu janë konceptet kryesore nga kjo pjesë:
 
-The Clarifying Process: Processing is the stage where you decide what each item collected means and what action, if any, is associated with it. There are four options for clarifying items:
+Procesi i sqarimit: Përpunimi është faza ku ju vendosni se çfarë do të thotë secila artikull dhe çfarë veprimi, nëse ka, shoqërohet me të.Ekzistojnë katër mundësi për sqarimin e artikujve:
 
-Trash: If an item has no value or relevance, discard it.
-Incubate: Some items don't require immediate action but might be important in the future. Place these items in an  incubation  or reference system.
-Reference: Some items serve as reference material, such as information to be filed or stored for later use.
-Action: If an item requires action, you must determine the specific next steps.
-Next Actions: Defining the next action is a fundamental principle of GTD. It means breaking tasks down into actionable steps. Instead of vague to-do items like  write report,  you would clarify it as  draft the introduction of the report.  This clarity eliminates ambiguity and makes it easier to take action.
+Trashja: Nëse një artikull nuk ka asnjë vlerë ose rëndësi, hidhni atë.
+Inkubat: Disa artikuj nuk kërkojnë veprim të menjëhershëm, por mund të jenë të rëndësishme në të ardhmen.Vendosni këto artikuj në një sistem inkubacioni ose referimi.
+Referenca: Disa artikuj shërbejnë si material referimi, siç është informacioni që do të paraqitet ose ruhet për përdorim të mëvonshëm.
+Veprimi: Nëse një artikull kërkon veprim, duhet të përcaktoni hapat specifike të ardhshëm.
+Veprimet e ardhshme: Përcaktimi i veprimit tjetër është një parim themelor i GTD.Do të thotë prishja e detyrave në hapa të veprueshëm.Në vend të sendeve të paqarta për të bërë si Raporti i Shkrimit, ju do ta sqaroni atë si hartimin e prezantimit të raportit.Kjo qartësi eliminon paqartësinë dhe e bën më të lehtë ndërmarrjen e veprimeve.
 
-Project Definition: If a task requires more than one step to complete, it becomes a project. Projects should be explicitly defined with a clear outcome and the next actions needed to achieve that outcome.
+Përkufizimi i projektit: Nëse një detyrë kërkon më shumë se një hap për të përfunduar, ai bëhet një projekt.Projektet duhet të përcaktohen në mënyrë të qartë me një rezultat të qartë dhe veprimet e ardhshme të nevojshme për të arritur atë rezultat.
 
-Organizing Actions: Once you've clarified the next actions, organize them in a way that makes them easily accessible when you're ready to work on them. This could involve categorizing actions by context, priority, or deadline.
+Veprimet e organizimit: Pasi të keni sqaruar veprimet e ardhshme, organizojini ato në një mënyrë që i bën ata lehtësisht të arritshëm kur të jeni gati për të punuar në to.Kjo mund të përfshijë kategorizimin e veprimeve sipas kontekstit, përparësisë ose afatit.
 
-The  Waiting For  List: Not all actions are within your control. Use a  Waiting For  list to track actions that depend on others. This helps prevent items from falling through the cracks.
+Lista e pritjes për: Jo të gjitha veprimet janë nën kontrollin tuaj.Përdorni një listë në pritje për të ndjekur veprimet që varen nga të tjerët.Kjo ndihmon në parandalimin e sendeve që të bien nëpër çarje.
 
-The  Someday/Maybe  List: Capture ideas or projects that you're not committed to working on immediately but might consider in the future. This list keeps these ideas from cluttering your active task lists.
-
+Një ditë/ndoshta lista: kapni ide ose projekte për të cilat nuk jeni të angazhuar të punoni menjëherë, por mund të merrni parasysh në të ardhmen.Kjo listë i mban këto ide nga rrëmuja e listave tuaja aktive të detyrave.

@@ -1,18 +1,17 @@
-Episode 12: Creating and Using Tools to Support Workflow 
+Episode 12: Nyiptakeun sareng nganggo alat pikeun ngadukung Gratis
 
-David Allen's  Getting Things Done  explores the idea that having the right tools and systems in place can significantly enhance your workflow and productivity. In Part 2 of the book, titled  Creating and Using Tools to Support Workflow,  Allen delves into various tools and techniques that help you implement the GTD methodology more effectively. Here's an overview of this part:
+David Allen kéngingkeun hal anu dilakukeun pikeun ngajalajah ideu anu gaduh alat sareng sistem anu leres dina tempat anu leres-leres tiasa ningkatkeun aliranflow sareng produktivitas anjeun.Di bagian 2 tina buku, anginakeun nyiptakeun sareng nganggo alat pikeun ngadukung greenflow, nomen anu ngabantosan anjeun ngalaksanakeun met métori gtd sacara efektif.Ieu welasan bagian ieu:
 
-The Capture Tool: The Capture Tool is a fundamental component of GTD. It's the place where you quickly capture all the incoming information, tasks, ideas, and commitments that might otherwise clutter your mind. This tool could be a physical inbox, a digital note-taking app, or even a voice recorder. The key is to have a reliable system for capturing everything that needs your attention.
+Alat Nyalamak: Alat néwak mangrupikeun komponén dasar GTD.Éta tempat dimana anjeun gancang némbalan sadayana inpormasi anu asup, tugas, ideu, sareng komitmen anu panginten tiasa ngaleungitkeun pikiran.Alat ieu bénténg di klastras, atanapi aplikasi anu digital, atanapi sékwékik sora.Konci éta gaduh sistem anu tiasa dipercaya pikeun ngarebut sadayana anu peryogi perhatian anjeun.
 
-The Calendar: Your calendar is where you schedule time-sensitive appointments, meetings, and deadlines. In GTD, the calendar is reserved for items that have a specific date and time associated with them. You're encouraged to use your calendar sparingly for these commitments to avoid clutter.
+Almenak: kalender anjeun dimana anjeun ngajadwas samentawis waktos, rapat, sareng wates waktu.Di GTD, kalénder anu ditangtayungan pikeun barang-barang anu ngagaduhan tanggal sareng waktos anu khusus anu aya hubunganana sareng aranjeunna.Anjeun didorong ngagunakeun kalénder anjeun sparingly pikeun komitmen ieu pikeun nyegah karier.
 
-The Next Actions List: Part 2 emphasizes the importance of maintaining a list of your next actions, which are the concrete, doable tasks you need to complete to move your projects forward. Allen recommends categorizing these actions by context (e.g., calls, emails, errands) to make it easier to tackle them efficiently.
+Daptar lampah salajengna: Bagian 2 Nganyakeun pentingna pentingna daptar pagawéan anjeun, nyaéta padamelan beton anjeun kedah lengkep pikeun mindahkeun proyék anjeun.Allen nyarankeun dikatalkeun lampah ieu ku kontéks (E.g., telepon, email, leres) kanggo ngagampangkeun éta éfisién.
 
-The Projects List: This list contains all your active projects, each with a clear desired outcome and a list of next actions. Reviewing your Projects List regularly ensures that you stay on track and make consistent progress.
+Daptar proyék: Daptar ieu ngandung sagala proyék aktip anjeun, masing-masing sareng hubungan anu dipikahoyong sareng daptar tindakan salajengna.Marios daptar proyék anjeun sacara teratur mastikeun anjeun tetep teraskeun kamajuan konsisten.
 
-The  Waiting For  List: As mentioned earlier, this list tracks tasks or commitments that depend on someone else's action or response. It's a crucial tool for staying organized and following up on delegated tasks.
+Ngantosan daptar: Sakumaha anu disebatkeun tadi, daptar lagu lagu lagu atanapi komitmen anu gumantung kana tindakan atanapi réspon batur.Ieu alat penting pikeun tetep teratur sareng nuturkeun tugas anu discegated.
 
-The Reference Material System: GTD emphasizes the need for an organized reference system for storing documents, reference materials, and information you might need in the future. This system helps you quickly retrieve information when necessary.
+Sistem bahan rujukan: GTD ngantebikeun kabutuhan pikeun sistem rujukan anu teratur pikeun nyimpen dokumén, bahan rujukan, sareng inpormasi anu anjeun kedah di hareup.Sistem ieu ngabantosan anjeun gancang nyandak inpormasi upami diperyogikeun.
 
-Using Technology Effectively: Part 2 also addresses how to leverage digital tools like email, task management apps, and note-taking software to enhance your workflow. The key is to integrate these tools into your GTD system in a way that supports your productivity rather than adding complexity.
-
+Nganggo téknologi éktrék: Bagian 2 ogé alam pikeun alamat alat digital sapertos email, Tamatan aplikasi, sareng kasasihan-software pikeun ningkatkeun barisan anjeun.Konci nyaéta ngawujudkeun alat-alat dina sistem gtd anjeun ku cara ngadukung produktivitas anjeun tinimbang nambihan pajeulitna.

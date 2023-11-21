@@ -1,25 +1,25 @@
-Episode 9: Reviewing: Keeping Your System Functional 
+Epizóda 9: Recenzia: udržiavanie funkčného systému
 
-In  Getting Things Done  by David Allen, Part 2 explores the critical concept of reviewing, which is essential for maintaining a functional and effective productivity system. Here's what you need to know from this section:
+Pri získavaní vecí David Allen časť 2 skúma kritický koncept preskúmania, ktorý je nevyhnutný na udržanie funkčného a efektívneho systému produktivity.Tu je to, čo potrebujete vedieť z tejto sekcie:
 
-The Purpose of Regular Reviews: Regular reviews are the glue that holds your GTD system together. They ensure that your trusted organizational tools stay current and functional. The purpose of these reviews is to keep your commitments and tasks aligned with your goals and priorities.
+Účelom pravidelných recenzií: Pravidelné recenzie sú lepidlo, ktoré drží váš systém GTD pohromade.Zabezpečujú, aby vaše dôveryhodné organizačné nástroje zostali aktuálne a funkčné.Účelom týchto recenzií je udržať vaše záväzky a úlohy v súlade s vašimi cieľmi a prioritami.
 
-Daily Mini-Review: A mini-review at the beginning and end of your day is essential. It allows you to reassess your commitments, update your to-do lists, and ensure that you're working on the most important tasks. It also helps you start and end your day with clarity.
+Denný mini-review: Mini-review na začiatku a na konci dňa je nevyhnutný.Umožňuje vám prehodnotiť vaše záväzky, aktualizovať svoje zoznamy úloh a zabezpečiť, aby ste pracovali na najdôležitejších úlohách.Pomáha vám tiež začať a ukončiť váš deň jasnosťou.
 
-Weekly Review: The weekly review is the most crucial review session in the GTD methodology. Typically, it should take about 1-2 hours. During the weekly review, you go through several key steps:
+Týždenné preskúmanie: Týždenné preskúmanie je najdôležitejšou recenziou preskúmania v metodike GTD.Zvyčajne by to malo trvať asi 1-2 hodiny.Počas týždennej recenzie prechádzate niekoľkými kľúčovými krokmi:
 
-Collect Loose Papers: Gather any loose papers, notes, or items that need processing.
-Empty Your Head: Write down any new tasks, ideas, or commitments that have arisen during the week.
-Process Your Inboxes: Go through your physical and digital inboxes, clarifying and organizing the items they contain.
-Review Your Calendar: Review the past week and the upcoming week on your calendar to ensure you're aware of all appointments and deadlines.
-Review Your Projects: Go through each project and ensure that you have identified the next actions required to move them forward.
-Review Your  Waiting For  List: Follow up on any items you're waiting for from others.
-Review Your  Someday/Maybe  List: Reflect on any potential projects or ideas you may want to pursue in the future.
-Review Your Action Lists: Ensure that your next actions lists are up to date, and you have clear tasks to work on during the upcoming week.
-The Benefits of Regular Reviews: Regular reviews have several benefits. They help you:
+Zbierajte voľné papiere: Zhromaždite akékoľvek voľné papiere, poznámky alebo položky, ktoré si vyžadujú spracovanie.
+Vyprázdnite hlavu: Napíšte akékoľvek nové úlohy, nápady alebo záväzky, ktoré vznikli počas týždňa.
+Spracujte svoju doručenú poštu: Prejdite si fyzickú a digitálnu doručenú poštu, objasnite a organizujte položky, ktoré obsahujú.
+Skontrolujte si svoj kalendár: Skontrolujte minulý týždeň a nadchádzajúci týždeň vo svojom kalendári, aby ste si uistili, že ste si vedomí všetkých stretnutí a termínov.
+Skontrolujte svoje projekty: Prejdite každý projekt a uistite sa, že ste identifikovali ďalšie akcie potrebné na ich posunutie vpred.
+Skontrolujte svoje čakanie na zoznam: Nasledujte všetky položky, na ktoré čakáte od ostatných.
+Skontrolujte svoj zoznam jedného dňa/možno: Zamyslite sa nad akýmikoľvek potenciálnymi projektmi alebo nápadmi, ktoré by ste mohli chcieť vykonávať v budúcnosti.
+Skontrolujte svoje zoznamy akcií: Uistite sa, že vaše ďalšie zoznamy akcií sú aktuálne a počas nadchádzajúceho týždňa máte jasné úlohy, na ktorých by ste mali pracovať.
+Výhody pravidelných recenzií: Pravidelné recenzie majú niekoľko výhod.Pomáhajú vám:
 
-Maintain clarity and focus on your goals and priorities.
-Reduce the risk of missing deadlines or commitments.
-Identify any incomplete or stalled projects.
-Eliminate redundancy and ensure you're not duplicating efforts.
-Stay in control of your workload and reduce stress.
+Udržiavajte jasnosť a zamerajte sa na svoje ciele a priority.
+Znížte riziko chýbajúcich termínov alebo záväzkov.
+Identifikujte akékoľvek neúplné alebo zastavené projekty.
+Odstráňte redundanciu a uistite sa, že nedotiahnete úsilie.
+Zostaňte pod kontrolou svojho pracovného zaťaženia a znížte stres.

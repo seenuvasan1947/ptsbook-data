@@ -1,20 +1,19 @@
-Episode 7: Processing: Getting  In  to Empty 
+Episode 7: Ngolah: Kéngingkeun kanggo kosong
 
-In  Getting Things Done  by David Allen, Part 2, titled  Processing: Getting 'In' to Empty,  we dive deeper into the critical phase of processing. This part of the GTD methodology is all about clarifying the meaning and next actions for the items you've collected. Here are the key concepts from this section:
+Dina kéngingkeun hal anu dilakukeun ku David Allen, Bagian 2, prosés nitll: Kéngingkeun 'in' pikeun kosong, kamileum, kami teuleum, kami caket kana fase kritis.Bagian ieu metodologi GTD sadayana ngeunaan netelakeun artos sareng tindakan salajengna pikeun barang anu anjeun dikumpulkeun.Ieu konsép konci tina bagian ieu:
 
-The Clarifying Process: Processing is the stage where you decide what each item collected means and what action, if any, is associated with it. There are four options for clarifying items:
+Akumatan netelightivitas: Ngolah mangrupikeun panggung dimana anjeun mutuskeun naon masing-masing barang anu dikumpulkeun hartos sareng naon waé, upami aya, pakait sareng éta.Aya opat pilihan pikeun netelakeun barang:
 
-Trash: If an item has no value or relevance, discard it.
-Incubate: Some items don't require immediate action but might be important in the future. Place these items in an  incubation  or reference system.
-Reference: Some items serve as reference material, such as information to be filed or stored for later use.
-Action: If an item requires action, you must determine the specific next steps.
-Next Actions: Defining the next action is a fundamental principle of GTD. It means breaking tasks down into actionable steps. Instead of vague to-do items like  write report,  you would clarify it as  draft the introduction of the report.  This clarity eliminates ambiguity and makes it easier to take action.
+Sampah: Upami aya barang teu gaduh nilai atanapi relevansi, Piceun.
+Dianggo: Sababaraha barang henteu peryogi tindakan langsung tapi tiasa penting dina masa depan.Teundeun barang-barang ieu dina inkubasi atanapi sistem rujukan.
+Rujukan: Sababaraha barang ngawula kana bahan rujukan, sapertos inpormasi pikeun dipilampah atanapi disimpen engké.
+Aksi: Upami hiji barang ngabutuhkeun tindakan, anjeun kedah nangtukeun léngkah-léngkah anu khusus.
+Laku lampah: Ngartikeun tindakan salajengna mangrupikeun prinsip dasar gtd.Éta hartosna istirahat tugas turun kana léngkah-léngkah.Tinimbang anu anjeun-ngalakukeun barang-barang sapertos nyerat laporan, anjeun bakal netelakeun janten draf laporan laporan.Kelelasan ieu nyababkeun ambiguity sareng damel langkung gampang nyandak tindakan.
 
-Project Definition: If a task requires more than one step to complete, it becomes a project. Projects should be explicitly defined with a clear outcome and the next actions needed to achieve that outcome.
+Definisi proyék: Upami tawaran butuh langkung ti hiji léngkah pikeun réngsé, janten proyek.Proyék kedah jelas ditetepkeun sareng hasil anu jelas sareng tindakan salajengna anu diperyogikeun pikeun ngahontal hasilna.
 
-Organizing Actions: Once you've clarified the next actions, organize them in a way that makes them easily accessible when you're ready to work on them. This could involve categorizing actions by context, priority, or deadline.
+Pamakéan lampah: sakali anjeun parantos nyarios lampah saterusna, ngatur dina cara anu ngajantenkeun aranjeunna gampang diaksés nalika anjeun parantos siap damel.Ieu tiasa ngabubarkeun lampah tindakan ku kontéks, prioritas, atanapi wates waktu.
 
-The  Waiting For  List: Not all actions are within your control. Use a  Waiting For  list to track actions that depend on others. This helps prevent items from falling through the cracks.
+Ngantosan daptar: Henteu sadaya tindakan aya dina kontrol anjeun.Anggo nunggu daptar pikeun ngalacak tindakan anu gumantung ka batur.Ieu ngabantuan nyegah barang tina ragrag kana retakan.
 
-The  Someday/Maybe  List: Capture ideas or projects that you're not committed to working on immediately but might consider in the future. This list keeps these ideas from cluttering your active task lists.
-
+Womeday / Panganggo: Candak ideu atanapi proyék anu anjeun henteu komitmen damel langsung tapi tiasa nganggap di hareup.Daptar ieu ngajaga ideu ieu tina cietter daptar tugas anu aktip.

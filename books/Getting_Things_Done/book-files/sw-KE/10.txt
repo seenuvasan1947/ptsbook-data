@@ -1,25 +1,25 @@
-Episode 9: Reviewing: Keeping Your System Functional 
+Sehemu ya 9: Kupitia: Kuweka Mfumo wako Kazi
 
-In  Getting Things Done  by David Allen, Part 2 explores the critical concept of reviewing, which is essential for maintaining a functional and effective productivity system. Here's what you need to know from this section:
+Katika kufanya mambo kufanywa na David Allen, Sehemu ya 2 inachunguza dhana muhimu ya kukagua, ambayo ni muhimu kwa kudumisha mfumo wa uzalishaji na mzuri.Hapa ndio unahitaji kujua kutoka kwa sehemu hii:
 
-The Purpose of Regular Reviews: Regular reviews are the glue that holds your GTD system together. They ensure that your trusted organizational tools stay current and functional. The purpose of these reviews is to keep your commitments and tasks aligned with your goals and priorities.
+Madhumuni ya hakiki za mara kwa mara: Mapitio ya mara kwa mara ni gundi ambayo inashikilia mfumo wako wa GTD pamoja.Wanahakikisha kuwa zana zako za kuaminika za shirika zinakaa sasa na zinafanya kazi.Madhumuni ya hakiki hizi ni kuweka ahadi zako na kazi zako zinaendana na malengo na vipaumbele vyako.
 
-Daily Mini-Review: A mini-review at the beginning and end of your day is essential. It allows you to reassess your commitments, update your to-do lists, and ensure that you're working on the most important tasks. It also helps you start and end your day with clarity.
+Mapitio ya kila siku ya Mini: Mapitio ya mini mwanzoni na mwisho wa siku yako ni muhimu.Inakuruhusu kufikiria tena ahadi zako, kusasisha orodha zako za kufanya, na hakikisha kuwa unafanya kazi kwenye kazi muhimu zaidi.Pia inakusaidia kuanza na kumaliza siku yako kwa uwazi.
 
-Weekly Review: The weekly review is the most crucial review session in the GTD methodology. Typically, it should take about 1-2 hours. During the weekly review, you go through several key steps:
+Mapitio ya kila wiki: Mapitio ya kila wiki ni kikao muhimu zaidi cha ukaguzi katika mbinu ya GTD.Kawaida, inapaswa kuchukua kama masaa 1-2.Wakati wa ukaguzi wa kila wiki, unapitia hatua kadhaa muhimu:
 
-Collect Loose Papers: Gather any loose papers, notes, or items that need processing.
-Empty Your Head: Write down any new tasks, ideas, or commitments that have arisen during the week.
-Process Your Inboxes: Go through your physical and digital inboxes, clarifying and organizing the items they contain.
-Review Your Calendar: Review the past week and the upcoming week on your calendar to ensure you're aware of all appointments and deadlines.
-Review Your Projects: Go through each project and ensure that you have identified the next actions required to move them forward.
-Review Your  Waiting For  List: Follow up on any items you're waiting for from others.
-Review Your  Someday/Maybe  List: Reflect on any potential projects or ideas you may want to pursue in the future.
-Review Your Action Lists: Ensure that your next actions lists are up to date, and you have clear tasks to work on during the upcoming week.
-The Benefits of Regular Reviews: Regular reviews have several benefits. They help you:
+Kukusanya karatasi huru: kukusanya karatasi zozote, maelezo, au vitu ambavyo vinahitaji usindikaji.
+Toa kichwa chako: Andika kazi yoyote mpya, maoni, au ahadi ambazo zimetokea wakati wa wiki.
+Kusindika sanduku zako: Pitia visanduku vyako vya mwili na dijiti, ukifafanua na kuandaa vitu ambavyo vina.
+Pitia kalenda yako: Pitia wiki iliyopita na wiki ijayo kwenye kalenda yako ili kuhakikisha kuwa unajua miadi yote na tarehe za mwisho.
+Pitia miradi yako: Pitia kila mradi na uhakikishe kuwa umegundua hatua zifuatazo zinazohitajika kusonga mbele.
+Pitia orodha yako ya kusubiri: Fuata vitu vyovyote ambavyo unangojea kutoka kwa wengine.
+Pitia orodha yako ya siku moja/labda: Tafakari juu ya miradi yoyote au maoni yoyote ambayo unaweza kutaka kufuata katika siku zijazo.
+Pitia orodha yako ya hatua: Hakikisha kuwa orodha zako za vitendo zifuatazo ni za kisasa, na una kazi wazi za kufanya kazi wakati wa wiki ijayo.
+Faida za hakiki za mara kwa mara: hakiki za mara kwa mara zina faida kadhaa.Wanakusaidia:
 
-Maintain clarity and focus on your goals and priorities.
-Reduce the risk of missing deadlines or commitments.
-Identify any incomplete or stalled projects.
-Eliminate redundancy and ensure you're not duplicating efforts.
-Stay in control of your workload and reduce stress.
+Dumisha uwazi na uzingatia malengo na vipaumbele vyako.
+Punguza hatari ya kukosa tarehe za mwisho au ahadi.
+Tambua miradi yoyote isiyokamilika au iliyosisitizwa.
+Ondoa upungufu wa damu na hakikisha haujafanya juhudi.
+Kaa katika udhibiti wa mzigo wako wa kazi na upunguze mafadhaiko.

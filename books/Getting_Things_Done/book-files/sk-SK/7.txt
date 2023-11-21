@@ -1,18 +1,17 @@
-Episode 6: Collection: Corralling Your  Stuff  (Part 2)
+Epizóda 6: Zbierka: Zorganizujte svoje veci (časť 2)
 
-In the second part of  Getting Things Done  by David Allen, titled  Collection: Corralling Your 'Stuff,'  we explore the crucial step of gathering and capturing all the items, tasks, commitments, and ideas that clutter our minds and lives. This part focuses on building a system to collect and process these inputs effectively.
+V druhej časti, keď sa veci robia David Allen, s názvom Zbierka: Zhrnutie vašich „vecí“, skúmame zásadný krok zhromažďovania a zachytávania všetkých položiek, úloh, záväzkov a nápadov, ktoré preplietajú našu myseľ a životy.Táto časť sa zameriava na vytvorenie systému na efektívne zhromažďovanie a spracovanie týchto vstupov.
 
-Key concepts in this section include:
+Kľúčové koncepty v tejto časti zahŕňajú:
 
-The Capture Habit: David Allen emphasizes the importance of developing the habit of capturing all your commitments and ideas as they arise. This includes everything from work-related tasks to personal to-dos and even fleeting thoughts or concerns. The goal is to ensure that nothing is left unrecorded.
+ZÁSADÝ HABOR: David Allen zdôrazňuje dôležitosť rozvoja zvyku zachytiť všetky vaše záväzky a nápady, keď sa objavia.To zahŕňa všetko od pracovných úloh až po osobné až DOS a dokonca prchavé myšlienky alebo obavy.Cieľom je zabezpečiť, aby sa nič nezostalo nezaznamenané.
 
-The Ubiquitous Capture Tool: To facilitate this capturing habit, it's essential to have a reliable and readily accessible tool for recording your  stuff.  This can be a physical notebook, a digital note-taking app, voice recorder, or any method that suits your preferences. The tool should always be within arm's reach.
+Všadeprítomný nástroj na zachytenie: Na uľahčenie tohto zvyku zachytávania je nevyhnutné mať spoľahlivý a ľahko prístupný nástroj na nahrávanie svojich vecí.Môže to byť fyzický notebook, digitálna aplikácia na zapisovanie poznámok, hlasový rekordér alebo akákoľvek metóda, ktorá vyhovuje vašim preferenciám.Nástroj by mal byť vždy v dosahu ramena.
 
-Avoiding Mental Clutter: By capturing everything externally, you prevent mental clutter and anxiety. Your mind is freed from the need to remember every detail, allowing you to think more clearly and make better decisions.
+Vyhýbanie sa mentálnemu neporiadku: Vonkajším zachytením všetkého bránite mentálnym neporiadkom a úzkosti.Vaša myseľ je oslobodená od potreby zapamätať si všetky detaily, čo vám umožňuje jasnejšie myslieť a robiť lepšie rozhodnutia.
 
-Unprocessed Items: Items you collect are not tasks yet; they are unprocessed. Processing involves deciding what each item means, what action is required (if any), and what the desired outcome is. This is where you transform  stuff  into actionable tasks, reference material, or items to be discarded.
+Nespracované položky: Položky, ktoré zhromažďujete, ešte nie sú úlohou;sú nespracované.Spracovanie zahŕňa rozhodnutie, čo znamená každá položka, aké kroky sa vyžadujú (ak existuje) a aký je požadovaný výsledok.To je miesto, kde transformujete veci na úlohy, referenčný materiál alebo položky, ktoré sa majú zlikvidovať.
 
-The Two-Minute Rule: If an item can be completed in two minutes or less, do it immediately. This small commitment of time eliminates many small tasks quickly, preventing them from accumulating.
+Dvojminútové pravidlo: Ak je možné položku dokončiť za dve minúty alebo menej, urobte to okamžite.Tento malý záväzok času rýchlo eliminuje mnoho malých úloh, čo im bráni hromadeniu.
 
-Deferred Decisions: Not everything needs immediate action. Some items are better suited for future actions or reference. The GTD system helps you organize these deferred decisions systematically.
-
+Odložené rozhodnutia: Nie všetko si vyžaduje okamžité kroky.Niektoré položky sú vhodnejšie pre budúce akcie alebo referencie.Systém GTD vám pomáha systematicky organizovať tieto odložené rozhodnutia.

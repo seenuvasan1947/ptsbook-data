@@ -1,18 +1,17 @@
-Episode 10: Doing: Making the Best Action Choices (Part 2)
+Avsnitt 10: Gör: Gör de bästa actionvalen (del 2)
 
-In  Getting Things Done  by David Allen, Part 2 dives into the critical phase of  Doing.  This phase is all about making the best action choices once you have collected, processed, organized, and reviewed your tasks and commitments. Here's what you need to understand about this phase:
+När han får saker gjort av David Allen dyker del 2 in i den kritiska fasen av att göra.Den här fasen handlar om att göra de bästa actionvalen när du har samlat in, behandlat, organiserat och granskat dina uppgifter och åtaganden.Här är vad du behöver förstå om den här fasen:
 
-The Essence of Doing: At its core,  Doing  is about executing the tasks and actions you've identified as necessary to move your projects and goals forward. This phase is where the rubber meets the road, and you take tangible steps toward achieving your desired outcomes.
+Kärnan i att göra: I sin kärna handlar det om att utföra de uppgifter och åtgärder du har identifierat vid behov för att flytta dina projekt och mål framåt.Denna fas är där gummiet möter vägen, och du tar konkreta steg mot att uppnå önskade resultat.
 
-Contextual Lists: One of the key principles of the GTD method is organizing your tasks by context. Contexts are specific situations or locations where you can perform certain actions. For example, tasks that require a phone call can be grouped under the  Calls  context. This allows you to be efficient and choose actions based on your current context.
+Kontextuella listor: En av de viktigaste principerna för GTD -metoden är att organisera dina uppgifter efter sammanhang.Sammanhang är specifika situationer eller platser där du kan utföra vissa åtgärder.Till exempel kan uppgifter som kräver ett telefonsamtal grupperas under samtalskonteksten.Detta gör att du kan vara effektiv och välja åtgärder baserat på ditt nuvarande sammanhang.
 
-The Two-Minute Rule: Allen introduces the  Two-Minute Rule,  which is a simple but powerful concept. If a task can be completed in two minutes or less, it should be done immediately. This prevents small tasks from accumulating and cluttering your to-do lists.
+Två minuters regel: Allen introducerar två minuters regel, som är ett enkelt men kraftfullt koncept.Om en uppgift kan slutföras på två minuter eller mindre bör den göras omedelbart.Detta förhindrar att små uppgifter samlas och rörar dina to-do-listor.
 
-Choosing Actions with Confidence: GTD emphasizes that you should have confidence in the actions you choose to tackle. By following the GTD process of collection, processing, organization, and review, you've already ensured that your actions are aligned with your goals and priorities.
+Att välja åtgärder med förtroende: GTD betonar att du bör ha förtroende för de åtgärder du väljer att ta itu med.Genom att följa GTD -processen för insamling, bearbetning, organisation och granskning har du redan säkerställt att dina handlingar är anpassade till dina mål och prioriteringar.
 
-Resisting the Urge to Multitask: Multitasking is discouraged in GTD because it can reduce productivity and increase stress. Instead, focus on one task at a time, guided by your current context and priorities.
+Motstånd mot lusten mot multitask: Multitasking är avskräckt i GTD eftersom det kan minska produktiviteten och öka stressen.Fokusera istället på en uppgift i taget, styrd av ditt nuvarande sammanhang och prioriteringar.
 
-Calendar-Based Actions: While most tasks are organized by context, some actions are time-sensitive and should be placed on your calendar. These are appointments or commitments that must be honored at specific times or on specific dates.
+Kalenderbaserade åtgärder: Medan de flesta uppgifter är organiserade efter sammanhang är vissa åtgärder tidskänsliga och bör placeras på din kalender.Dessa är möten eller åtaganden som måste hedras vid specifika tidpunkter eller på specifika datum.
 
-Handling Interruptions: GTD acknowledges that interruptions are a part of work and life. The key is to handle them mindfully and make quick decisions about whether to address them immediately, defer them, delegate them, or capture them for later processing.
-
+Hantering av avbrott: GTD erkänner att avbrott är en del av arbetet och livet.Nyckeln är att hantera dem medvetet och fatta snabba beslut om att ta itu med dem omedelbart, skjuta upp dem, delegera dem eller fånga dem för senare bearbetning.

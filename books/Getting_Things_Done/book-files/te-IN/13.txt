@@ -1,18 +1,17 @@
-Episode 12: Creating and Using Tools to Support Workflow 
+ఎపిసోడ్ 12: వర్క్‌ఫ్లో మద్దతు ఇవ్వడానికి సాధనాలను సృష్టించడం మరియు ఉపయోగించడం
 
-David Allen's  Getting Things Done  explores the idea that having the right tools and systems in place can significantly enhance your workflow and productivity. In Part 2 of the book, titled  Creating and Using Tools to Support Workflow,  Allen delves into various tools and techniques that help you implement the GTD methodology more effectively. Here's an overview of this part:
+డేవిడ్ అలెన్ పనులు పూర్తి చేయడం సరైన సాధనాలు మరియు వ్యవస్థలను కలిగి ఉండటం మీ వర్క్‌ఫ్లో మరియు ఉత్పాదకతను గణనీయంగా పెంచుతుంది అనే ఆలోచనను అన్వేషిస్తుంది.పుస్తకం యొక్క పార్ట్ 2 లో, వర్క్‌ఫ్లోకు మద్దతు ఇవ్వడానికి సాధనాలను సృష్టించడం మరియు ఉపయోగించడం, అలెన్ GTD పద్దతిని మరింత సమర్థవంతంగా అమలు చేయడంలో మీకు సహాయపడే వివిధ సాధనాలు మరియు పద్ధతులను పరిశీలిస్తాడు.ఈ భాగం యొక్క అవలోకనం ఇక్కడ ఉంది:
 
-The Capture Tool: The Capture Tool is a fundamental component of GTD. It's the place where you quickly capture all the incoming information, tasks, ideas, and commitments that might otherwise clutter your mind. This tool could be a physical inbox, a digital note-taking app, or even a voice recorder. The key is to have a reliable system for capturing everything that needs your attention.
+క్యాప్చర్ సాధనం: క్యాప్చర్ సాధనం GTD యొక్క ప్రాథమిక భాగం.ఇది మీ మనస్సును చిందరవందర చేసే అన్ని ఇన్కమింగ్ సమాచారం, పనులు, ఆలోచనలు మరియు కట్టుబాట్లను త్వరగా సంగ్రహించే ప్రదేశం ఇది.ఈ సాధనం భౌతిక ఇన్‌బాక్స్, డిజిటల్ నోట్ టేకింగ్ అనువర్తనం లేదా వాయిస్ రికార్డర్ కావచ్చు.మీ దృష్టికి అవసరమైన ప్రతిదాన్ని సంగ్రహించడానికి నమ్మదగిన వ్యవస్థను కలిగి ఉండటం ముఖ్య విషయం.
 
-The Calendar: Your calendar is where you schedule time-sensitive appointments, meetings, and deadlines. In GTD, the calendar is reserved for items that have a specific date and time associated with them. You're encouraged to use your calendar sparingly for these commitments to avoid clutter.
+క్యాలెండర్: మీ క్యాలెండర్ అంటే మీరు సమయ-సున్నితమైన నియామకాలు, సమావేశాలు మరియు గడువులను షెడ్యూల్ చేస్తారు.GTD లో, క్యాలెండర్ వాటితో అనుబంధించబడిన నిర్దిష్ట తేదీ మరియు సమయాన్ని కలిగి ఉన్న వస్తువులకు కేటాయించబడుతుంది.అయోమయాన్ని నివారించడానికి ఈ కట్టుబాట్ల కోసం మీ క్యాలెండర్‌ను తక్కువగా ఉపయోగించమని మీరు ప్రోత్సహించబడ్డారు.
 
-The Next Actions List: Part 2 emphasizes the importance of maintaining a list of your next actions, which are the concrete, doable tasks you need to complete to move your projects forward. Allen recommends categorizing these actions by context (e.g., calls, emails, errands) to make it easier to tackle them efficiently.
+తదుపరి చర్యల జాబితా: పార్ట్ 2 మీ తదుపరి చర్యల జాబితాను నిర్వహించడం యొక్క ప్రాముఖ్యతను నొక్కి చెబుతుంది, ఇవి మీ ప్రాజెక్టులను ముందుకు తీసుకెళ్లడానికి మీరు పూర్తి చేయాల్సిన కాంక్రీట్, చేయదగిన పనులు.ఈ చర్యలను సందర్భం (ఉదా., కాల్స్, ఇమెయిళ్ళు, పనులు) ద్వారా వర్గీకరించాలని అలెన్ సిఫార్సు చేస్తున్నాడు.
 
-The Projects List: This list contains all your active projects, each with a clear desired outcome and a list of next actions. Reviewing your Projects List regularly ensures that you stay on track and make consistent progress.
+ప్రాజెక్టుల జాబితా: ఈ జాబితాలో మీ అన్ని క్రియాశీల ప్రాజెక్టులు ఉన్నాయి, ప్రతి ఒక్కటి స్పష్టమైన కావలసిన ఫలితం మరియు తదుపరి చర్యల జాబితా.మీ ప్రాజెక్టుల జాబితాను క్రమం తప్పకుండా సమీక్షించడం వలన మీరు ట్రాక్‌లో ఉండి స్థిరమైన పురోగతి సాధిస్తారని నిర్ధారిస్తుంది.
 
-The  Waiting For  List: As mentioned earlier, this list tracks tasks or commitments that depend on someone else's action or response. It's a crucial tool for staying organized and following up on delegated tasks.
+జాబితా కోసం వేచి ఉంది: ముందే చెప్పినట్లుగా, ఈ జాబితా వేరొకరి చర్య లేదా ప్రతిస్పందనపై ఆధారపడే పనులు లేదా కట్టుబాట్లను ట్రాక్ చేస్తుంది.వ్యవస్థీకృతంగా ఉండటానికి మరియు ప్రతినిధి పనులను అనుసరించడానికి ఇది కీలకమైన సాధనం.
 
-The Reference Material System: GTD emphasizes the need for an organized reference system for storing documents, reference materials, and information you might need in the future. This system helps you quickly retrieve information when necessary.
+రిఫరెన్స్ మెటీరియల్ సిస్టమ్: భవిష్యత్తులో మీకు అవసరమైన పత్రాలు, రిఫరెన్స్ మెటీరియల్స్ మరియు సమాచారాన్ని నిల్వ చేయడానికి వ్యవస్థీకృత సూచన వ్యవస్థ యొక్క అవసరాన్ని GTD నొక్కి చెబుతుంది.అవసరమైనప్పుడు సమాచారాన్ని త్వరగా తిరిగి పొందడానికి ఈ వ్యవస్థ మీకు సహాయపడుతుంది.
 
-Using Technology Effectively: Part 2 also addresses how to leverage digital tools like email, task management apps, and note-taking software to enhance your workflow. The key is to integrate these tools into your GTD system in a way that supports your productivity rather than adding complexity.
-
+సాంకేతిక పరిజ్ఞానాన్ని సమర్థవంతంగా ఉపయోగించడం: మీ వర్క్‌ఫ్లోను మెరుగుపరచడానికి ఇమెయిల్, టాస్క్ మేనేజ్‌మెంట్ అనువర్తనాలు మరియు నోట్ టేకింగ్ సాఫ్ట్‌వేర్ వంటి డిజిటల్ సాధనాలను ఎలా ప్రభావితం చేయాలో పార్ట్ 2 కూడా పరిష్కరిస్తుంది.సంక్లిష్టతను జోడించడం కంటే మీ ఉత్పాదకతకు మద్దతు ఇచ్చే విధంగా ఈ సాధనాలను మీ జిటిడి సిస్టమ్‌లోకి అనుసంధానించడం ముఖ్య విషయం.

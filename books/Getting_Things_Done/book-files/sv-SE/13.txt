@@ -1,18 +1,17 @@
-Episode 12: Creating and Using Tools to Support Workflow 
+Avsnitt 12: Skapa och använda verktyg för att stödja arbetsflödet
 
-David Allen's  Getting Things Done  explores the idea that having the right tools and systems in place can significantly enhance your workflow and productivity. In Part 2 of the book, titled  Creating and Using Tools to Support Workflow,  Allen delves into various tools and techniques that help you implement the GTD methodology more effectively. Here's an overview of this part:
+David Allen får saker och ting undersöker idén att att ha rätt verktyg och system på plats kan förbättra ditt arbetsflöde och produktivitet avsevärt.I del 2 av boken, med titeln Att skapa och använda verktyg för att stödja arbetsflöde, djuper Allen i olika verktyg och tekniker som hjälper dig att implementera GTD -metodiken mer effektivt.Här är en översikt över den här delen:
 
-The Capture Tool: The Capture Tool is a fundamental component of GTD. It's the place where you quickly capture all the incoming information, tasks, ideas, and commitments that might otherwise clutter your mind. This tool could be a physical inbox, a digital note-taking app, or even a voice recorder. The key is to have a reliable system for capturing everything that needs your attention.
+Faptureverktyget: Capture -verktyget är en grundläggande komponent i GTD.Det är platsen där du snabbt fångar all inkommande information, uppgifter, idéer och åtaganden som annars kan röra dig.Det här verktyget kan vara en fysisk inkorg, en digital anteckningsapp eller till och med en röstinspelare.Nyckeln är att ha ett pålitligt system för att fånga allt som behöver din uppmärksamhet.
 
-The Calendar: Your calendar is where you schedule time-sensitive appointments, meetings, and deadlines. In GTD, the calendar is reserved for items that have a specific date and time associated with them. You're encouraged to use your calendar sparingly for these commitments to avoid clutter.
+Kalendern: Din kalender är där du planerar tidskänsliga möten, möten och tidsfrister.I GTD är kalendern reserverad för objekt som har ett specifikt datum och tid associerad med dem.Du uppmuntras att använda din kalender sparsamt för dessa åtaganden för att undvika röran.
 
-The Next Actions List: Part 2 emphasizes the importance of maintaining a list of your next actions, which are the concrete, doable tasks you need to complete to move your projects forward. Allen recommends categorizing these actions by context (e.g., calls, emails, errands) to make it easier to tackle them efficiently.
+Nästa listningslista: Del 2 betonar vikten av att upprätthålla en lista över dina nästa åtgärder, som är de konkreta, genomförbara uppgifterna du behöver för att genomföra dina projekt framåt.Allen rekommenderar att kategorisera dessa åtgärder efter sammanhang (t.ex. samtal, e -postmeddelanden, ärenden) för att göra det lättare att hantera dem effektivt.
 
-The Projects List: This list contains all your active projects, each with a clear desired outcome and a list of next actions. Reviewing your Projects List regularly ensures that you stay on track and make consistent progress.
+Projektlistan: Denna lista innehåller alla dina aktiva projekt, var och en med ett tydligt önskat resultat och en lista över nästa åtgärder.Genom att granska din projektlista säkerställer regelbundet att du håller dig på rätt spår och gör konsekventa framsteg.
 
-The  Waiting For  List: As mentioned earlier, this list tracks tasks or commitments that depend on someone else's action or response. It's a crucial tool for staying organized and following up on delegated tasks.
+Väntan på listan: Som nämnts tidigare spårar denna lista uppgifter eller åtaganden som beror på någon annans handling eller svar.Det är ett avgörande verktyg för att hålla sig organiserad och följa upp delegerade uppgifter.
 
-The Reference Material System: GTD emphasizes the need for an organized reference system for storing documents, reference materials, and information you might need in the future. This system helps you quickly retrieve information when necessary.
+Referensmaterialsystemet: GTD betonar behovet av ett organiserat referenssystem för att lagra dokument, referensmaterial och information du kan behöva i framtiden.Detta system hjälper dig att snabbt hämta information vid behov.
 
-Using Technology Effectively: Part 2 also addresses how to leverage digital tools like email, task management apps, and note-taking software to enhance your workflow. The key is to integrate these tools into your GTD system in a way that supports your productivity rather than adding complexity.
-
+Med hjälp av teknik effektivt: Del 2 adresserar också hur man utnyttjar digitala verktyg som e-post, Aktiveringsappar och anteckningsprogramvara för att förbättra ditt arbetsflöde.Nyckeln är att integrera dessa verktyg i ditt GTD -system på ett sätt som stöder din produktivitet snarare än att lägga till komplexitet.

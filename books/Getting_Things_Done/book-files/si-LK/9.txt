@@ -1,18 +1,17 @@
-Episode 8: Organizing: Setting Up the Right Buckets 
+කථාංගය 8: සංවිධානය කිරීම: නිවැරදි බාල්දි සැකසීම
 
-In  Getting Things Done  by David Allen, Part 2 continues with the concept of organizing, specifically focusing on setting up the right organizational tools or  buckets  to manage your tasks and commitments effectively. Here's what you need to know from this section:
+ඩේවිඩ් ඇලන් විසින් කරන ලද දේවල් ලබා ගැනීමේදී 2 වන කොටස දිගටම කරගෙන යන්නේ ඔබේ කාර්යයන් සහ බැඳීම් කළමනාකරණය කිරීම සඳහා නිවැරදි ආයතනික මෙවලම් හෝ බාල්දි පිහිටුවීමට සංවිධානය කිරීම, විශේෂයෙන් අවධානය යොමු කිරීමෙනි.මෙන්න මෙම කොටසේ සිට ඔබ දැනගත යුතු දේ:
 
-The Need for Organizational Tools: Organizing is all about creating a structure to manage your tasks and commitments efficiently. David Allen emphasizes that you need appropriate tools, both physical and digital, to ensure nothing slips through the cracks.
+ආයතනික මෙවලම් සඳහා අවශ්යතාවය: ඔබේ කාර්යයන් හා බැඳීම් කාර්යක්ෂමව කළමනාකරණය කිරීම සඳහා ව්යුහයක් නිර්මාණය කිරීම සඳහා සංවිධානය කිරීම යනු සපයයි.ඩේවිඩ් ඇලන් අවධාරණය කරන්නේ ඔබට සුදුසු මෙවලම්, ශාරීරික හා ඩිජිටල්කරණය, චාරිකාව හරහා කිසිවක් මුඩුක්කු කළ යුතු බවයි.
 
-The Key Lists and Buckets: There are several key lists or  buckets  that help you organize your work:
+ප්රධාන ලැයිස්තු සහ බාල්දි: ඔබේ වැඩ කටයුතු සංවිධානය කිරීමට ඔබට උපකාරී වන ප්රධාන ලැයිස්තු හෝ බාල්දි කිහිපයක් තිබේ:
 
-Next Actions Lists: These are lists of tasks you can complete immediately. They are categorized based on context (e.g., office, home, phone) to make it easy to see what you can do in a specific situation.
-Projects Lists: Each project you have identified during processing should have a corresponding project list. This list tracks all the next actions required to move a project forward.
-Calendar: Use your calendar to schedule appointments, meetings, and any time-sensitive actions. Your calendar should only contain items with specific dates and times.
-Waiting For List: This list helps you keep track of tasks or commitments you are waiting for others to complete. It ensures that you follow up on these items as needed.
-Someday/Maybe List: Ideas, projects, or commitments that are not a priority at the moment but may be in the future should be recorded on this list.
-Reference Filing System: Create an organized reference system for storing information and materials you may need to refer to later.
-Choosing the Right Tools: The tools you choose for organizing can vary from physical notebooks and folders to digital apps and software. What's essential is that they fit your personal preferences and lifestyle. David Allen suggests that your tools should be easy to access, reliable, and tailored to your needs.
+ඊළඟ ක්රියා ලැයිස්තු: මේවා ඔබට වහාම සම්පූර්ණ කළ හැකි කාර්යයන් ලැයිස්තුවකි.සන්දර්භය (ඊ.ජී., කාර්යාලය, නිවස, නිවස) හෝ නිශ්චිත තත්වයකදී ඔබට කළ හැකි දේ දැකීම පහසු කිරීම මත පදනම්ව ඒවා වර්ගීකරණය කර ඇත.
+ව්යාපෘති ලැයිස්තු: සැකසීමේදී ඔබ හඳුනාගෙන ඇති සෑම ව්යාපෘතියක්ම අනුරූපී ව්යාපෘති ලැයිස්තුවක් තිබිය යුතුය.ව්යාපෘතියක් ඉදිරියට ගෙන යාම සඳහා අවශ්ය සියලුම ඊළඟ ක්රියාමාර්ග මෙම ලැයිස්තුවට මුහුණ දෙයි.
+දින දර්ශනය: පත්වීම්, රැස්වීම් සහ ඕනෑම කාල සංවේදී ක්රියාවක් සඳහා ඔබේ දින දර්ශනය භාවිතා කරන්න.ඔබගේ දින දර්ශනයේ අඩංගු විය යුත්තේ නිශ්චිත දිනයන් හා වේලාවන් සහිත අයිතම පමණි.
+ලැයිස්තුව සඳහා බලා සිටීම: මෙම ලැයිස්තුව අන් අය සම්පූර්ණ වන තෙක් ඔබ බලා සිටින කාර්යයන් හෝ කැපවීම් නිරීක්ෂණය කිරීමට ඔබට උපකාරී වේ.අවශ්ය පරිදි මෙම භාණ්ඩ පිළිබඳව ඔබ පසු විපරම් කරන බව එය සහතික කරයි.
+කවදාහරි / සමහර විට ලැයිස්තුව: මේ වන විට ප්රමුඛතාවයක් නොවන අදහස්, ව්යාපෘති හෝ කැපවීම් මෙම ලැයිස්තුවේ ඇති නමුත් අනාගතයේ දී ඇති අදහස් හෝ අනාගතයේ ඇති බැඳීම් මෙම ලැයිස්තුවේ සටහන් කළ යුතුය.
+යොමු ගොනු කිරීමේ පද්ධතිය: ඔබට පසුව යොමු කිරීමට අවශ්ය තොරතුරු සහ ද්රව්ය ගබඩා කිරීම සඳහා සංවිධානාත්මක යොමු පද්ධතියක් සාදන්න.
+නිවැරදි මෙවලම් තෝරා ගැනීම: ඔබ සංවිධානය කිරීම සඳහා තෝරාගත් මෙවලම් භෞතික සටහන් පොත් වලින් සහ ෆෝල්ඩර වලින් ඩිජිටල් යෙදුම් සහ මෘදුකාංග සඳහා වෙනස් විය හැකිය.අත්යවශ්ය වන්නේ ඒවා ඔබගේ පුද්ගලික මනාපයන් සහ ජීවන රටාවට ගැළපීමයි.ඩේවිඩ් ඇලන් යෝජනා කරන්නේ ඔබේ මෙවලම් වලට ප්රවේශ වීමට, විශ්වාසදායක සහ ඔබේ අවශ්යතාවන්ට ගැලපෙන පරිදි ඔබේ මෙවලම් පහසු විය යුතු බවයි.
 
-The Weekly Review: Maintaining your organizational system requires a regular review. The weekly review is a crucial GTD practice. During this time, you ensure all your lists are up to date, reevaluate your priorities, and adjust your commitments and projects as needed.
-
+සතිපතා සමාලෝචනය: ඔබේ ආයතනික පද්ධතිය පවත්වා ගැනීම නිතිපතා සමාලෝචනයක් අවශ්ය වේ.සතිපතා සමාලෝචනය යනු තීරණාත්මක ජීටීඩී පුහුණුවකි.මෙම කාලය තුළ, ඔබේ සියලු ලැයිස්තු යාවත්කාලීනව ඇති බව ඔබ සහතික කර, ඔබේ ප්රමුඛතා නැවත ලබා ගන්න, අවශ්ය පරිදි ඔබේ බැඳීම් සහ ව්යාපෘති සකස් කරන්න.

@@ -1,18 +1,17 @@
-Episode 12: Creating and Using Tools to Support Workflow 
+Epizóda 12: Vytváranie a používanie nástrojov na podporu pracovného postupu
 
-David Allen's  Getting Things Done  explores the idea that having the right tools and systems in place can significantly enhance your workflow and productivity. In Part 2 of the book, titled  Creating and Using Tools to Support Workflow,  Allen delves into various tools and techniques that help you implement the GTD methodology more effectively. Here's an overview of this part:
+David Allen dostáva veci, skúma myšlienku, že mať správne nástroje a systémy môžu výrazne vylepšiť váš pracovný tok a produktivitu.V časti 2 knihy s názvom Vytváranie a používanie nástrojov na podporu pracovného postupu sa Allen ponorí do rôznych nástrojov a techník, ktoré vám pomôžu efektívnejšie implementovať metodiku GTD.Tu je prehľad tejto časti:
 
-The Capture Tool: The Capture Tool is a fundamental component of GTD. It's the place where you quickly capture all the incoming information, tasks, ideas, and commitments that might otherwise clutter your mind. This tool could be a physical inbox, a digital note-taking app, or even a voice recorder. The key is to have a reliable system for capturing everything that needs your attention.
+Nástroj Capture: The Capture Tool je základnou súčasťou GTD.Je to miesto, kde rýchlo zachytíte všetky prichádzajúce informácie, úlohy, nápady a záväzky, ktoré by inak mohli zaplniť vašu myseľ.Tento nástroj by mohol byť fyzická doručená pošta, digitálna aplikácia na zapisovanie poznámok alebo dokonca hlasový rekordér.Kľúčom je mať spoľahlivý systém na zachytenie všetkého, čo potrebuje vašu pozornosť.
 
-The Calendar: Your calendar is where you schedule time-sensitive appointments, meetings, and deadlines. In GTD, the calendar is reserved for items that have a specific date and time associated with them. You're encouraged to use your calendar sparingly for these commitments to avoid clutter.
+Kalendár: Váš kalendár je miestom, kde naplánujete časovo citlivé stretnutia, stretnutia a termíny.V GTD je kalendár vyhradený pre položky, ktoré majú s nimi konkrétny dátum a čas.Odporúčame vám, aby ste svoj kalendár striedmo používali na to, aby sa tieto záväzky vyhli neporiadku.
 
-The Next Actions List: Part 2 emphasizes the importance of maintaining a list of your next actions, which are the concrete, doable tasks you need to complete to move your projects forward. Allen recommends categorizing these actions by context (e.g., calls, emails, errands) to make it easier to tackle them efficiently.
+Ďalší zoznam akcií: časť 2 zdôrazňuje dôležitosť udržiavania zoznamu vašich ďalších akcií, ktoré sú konkrétnymi, uskutočniteľnými úlohami, ktoré musíte dokončiť, aby ste posunuli svoje projekty vpred.Allen odporúča kategorizovať tieto akcie podľa kontextu (napr. Hovory, e -maily, pochôdzky), aby sa ich efektívne riešilo.
 
-The Projects List: This list contains all your active projects, each with a clear desired outcome and a list of next actions. Reviewing your Projects List regularly ensures that you stay on track and make consistent progress.
+Zoznam projektov: Tento zoznam obsahuje všetky vaše aktívne projekty, každý s jasným požadovaným výsledkom a zoznam ďalších akcií.Recenzia zoznamu vašich projektov pravidelne zaisťuje, že zostanete na trati a dosiahnete dôsledný pokrok.
 
-The  Waiting For  List: As mentioned earlier, this list tracks tasks or commitments that depend on someone else's action or response. It's a crucial tool for staying organized and following up on delegated tasks.
+Čakanie na zoznam: Ako už bolo uvedené, tento zoznam sleduje úlohy alebo záväzky, ktoré závisia od akcie alebo odpovede niekoho iného.Je to rozhodujúci nástroj na zostavenie organizácie a sledovanie delegovaných úloh.
 
-The Reference Material System: GTD emphasizes the need for an organized reference system for storing documents, reference materials, and information you might need in the future. This system helps you quickly retrieve information when necessary.
+Systém referenčných materiálov: GTD zdôrazňuje potrebu organizovaného referenčného systému na ukladanie dokumentov, referenčných materiálov a informácií, ktoré by ste mohli v budúcnosti potrebovať.Tento systém vám v prípade potreby rýchlo načítajte informácie.
 
-Using Technology Effectively: Part 2 also addresses how to leverage digital tools like email, task management apps, and note-taking software to enhance your workflow. The key is to integrate these tools into your GTD system in a way that supports your productivity rather than adding complexity.
-
+Efektívne využívanie technológie: časť 2 sa tiež zaoberá tým, ako využiť digitálne nástroje, ako sú e-mail, aplikácie na správu úloh a softvér na zavádzanie poznámok na vylepšenie vášho pracovného postupu.Kľúčom je integrovať tieto nástroje do vášho systému GTD spôsobom, ktorý podporuje vašu produktivitu, a nie zvyšuje zložitosť.

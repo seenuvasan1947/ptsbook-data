@@ -1,18 +1,17 @@
-Episode 12: Creating and Using Tools to Support Workflow 
+Episodi 12: Krijimi dhe përdorimi i mjeteve për të mbështetur rrjedhën e punës
 
-David Allen's  Getting Things Done  explores the idea that having the right tools and systems in place can significantly enhance your workflow and productivity. In Part 2 of the book, titled  Creating and Using Tools to Support Workflow,  Allen delves into various tools and techniques that help you implement the GTD methodology more effectively. Here's an overview of this part:
+David Allen's Getting Things Bërë eksploron idenë se të kesh mjetet dhe sistemet e duhura në vend mund të përmirësojnë ndjeshëm rrjedhën dhe produktivitetin tuaj të punës.Në Pjesën 2 të librit, të titulluar Krijimi dhe Përdorimi i Mjeteve për të mbështetur rrjedhën e punës, Allen del në mjete dhe teknika të ndryshme që ju ndihmojnë të zbatoni metodologjinë GTD në mënyrë më efektive.Këtu është një përmbledhje e kësaj pjese:
 
-The Capture Tool: The Capture Tool is a fundamental component of GTD. It's the place where you quickly capture all the incoming information, tasks, ideas, and commitments that might otherwise clutter your mind. This tool could be a physical inbox, a digital note-taking app, or even a voice recorder. The key is to have a reliable system for capturing everything that needs your attention.
+Mjeti i kapjes: Mjeti i kapjes është një komponent themelor i GTD.Theshtë vendi ku ju kapni shpejt të gjitha informacionet, detyrat, idetë dhe angazhimet në hyrje që mund të rrëmbejnë ndryshe mendjen tuaj.Ky mjet mund të jetë një kuti fizike, një aplikacion dixhital për marrjen e shënimeve, apo edhe një regjistrues zëri.Theelësi është të keni një sistem të besueshëm për kapjen e gjithçkaje që ju duhet vëmendja.
 
-The Calendar: Your calendar is where you schedule time-sensitive appointments, meetings, and deadlines. In GTD, the calendar is reserved for items that have a specific date and time associated with them. You're encouraged to use your calendar sparingly for these commitments to avoid clutter.
+Kalendari: Kalendari juaj është aty ku caktoni takime, takime dhe afate të ndjeshme ndaj kohës.Në GTD, kalendari është i rezervuar për artikujt që kanë një datë dhe kohë specifike të lidhur me to.Ju inkurajoheni të përdorni kalendarin tuaj me kursim për këto angazhime për të shmangur rrëmujën.
 
-The Next Actions List: Part 2 emphasizes the importance of maintaining a list of your next actions, which are the concrete, doable tasks you need to complete to move your projects forward. Allen recommends categorizing these actions by context (e.g., calls, emails, errands) to make it easier to tackle them efficiently.
+Lista e veprimeve tjetër: Pjesa 2 thekson rëndësinë e mbajtjes së një liste të veprimeve tuaja të ardhshme, të cilat janë detyrat e betonit, të mundshëm që ju duhet të plotësoni për të ecur përpara projektet tuaja.Allen rekomandon kategorizimin e këtyre veprimeve sipas kontekstit (p.sh., thirrjet, postat elektronike, veprimet) për ta bërë më të lehtë zgjidhjen e tyre në mënyrë efikase.
 
-The Projects List: This list contains all your active projects, each with a clear desired outcome and a list of next actions. Reviewing your Projects List regularly ensures that you stay on track and make consistent progress.
+Lista e Projekteve: Kjo listë përmban të gjitha projektet tuaja aktive, secila me një rezultat të qartë të dëshiruar dhe një listë të veprimeve të ardhshme.Rishikimi i listës së projekteve tuaja siguron rregullisht që të qëndroni në rrugën e duhur dhe të bëni përparim të vazhdueshëm.
 
-The  Waiting For  List: As mentioned earlier, this list tracks tasks or commitments that depend on someone else's action or response. It's a crucial tool for staying organized and following up on delegated tasks.
+Lista e pritjes: Siç u përmend më herët, kjo listë gjurmon detyrat ose angazhimet që varen nga veprimi ose përgjigja e dikujt tjetër.Shtë një mjet thelbësor për të qëndruar të organizuar dhe për të ndjekur detyrat e deleguara.
 
-The Reference Material System: GTD emphasizes the need for an organized reference system for storing documents, reference materials, and information you might need in the future. This system helps you quickly retrieve information when necessary.
+Sistemi i materialit referues: GTD thekson nevojën për një sistem të organizuar referimi për ruajtjen e dokumenteve, materialeve referuese dhe informacionit që ju nevojiten në të ardhmen.Ky sistem ju ndihmon të merrni shpejt informacionin kur është e nevojshme.
 
-Using Technology Effectively: Part 2 also addresses how to leverage digital tools like email, task management apps, and note-taking software to enhance your workflow. The key is to integrate these tools into your GTD system in a way that supports your productivity rather than adding complexity.
-
+Përdorimi i teknologjisë në mënyrë efektive: Pjesa 2 adreson gjithashtu mënyrën e përdorimit të mjeteve dixhitale si email, aplikacione për menaxhimin e detyrave dhe softuer për marrjen e shënimeve për të përmirësuar rrjedhën tuaj të punës.Theelësi është që të integroni këto mjete në sistemin tuaj GTD në një mënyrë që mbështet produktivitetin tuaj sesa të shtoni kompleksitet.

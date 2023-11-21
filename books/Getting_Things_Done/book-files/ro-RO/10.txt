@@ -1,25 +1,25 @@
-Episode 9: Reviewing: Keeping Your System Functional 
+Episodul 9: Revizuire: Menținerea sistemului funcțional
 
-In  Getting Things Done  by David Allen, Part 2 explores the critical concept of reviewing, which is essential for maintaining a functional and effective productivity system. Here's what you need to know from this section:
+În realizarea lucrurilor de David Allen, partea 2 explorează conceptul critic al revizuirii, care este esențial pentru menținerea unui sistem de productivitate funcțional și eficient.Iată ce trebuie să știți din această secțiune:
 
-The Purpose of Regular Reviews: Regular reviews are the glue that holds your GTD system together. They ensure that your trusted organizational tools stay current and functional. The purpose of these reviews is to keep your commitments and tasks aligned with your goals and priorities.
+Scopul recenziilor regulate: recenziile obișnuite sunt lipiciul care vă reunește sistemul GTD.Aceștia se asigură că instrumentele dvs. organizaționale de încredere rămân la curent și funcțional.Scopul acestor recenzii este de a vă menține angajamentele și sarcinile aliniate obiectivelor și priorităților dvs.
 
-Daily Mini-Review: A mini-review at the beginning and end of your day is essential. It allows you to reassess your commitments, update your to-do lists, and ensure that you're working on the most important tasks. It also helps you start and end your day with clarity.
+Mini-revizuire zilnică: este esențială o mini-revizuire la începutul și sfârșitul zilei.Vă permite să vă reevaluați angajamentele, să vă actualizați listele de activități și să vă asigurați că lucrați la cele mai importante sarcini.De asemenea, vă ajută să începeți și să vă încheiați ziua cu claritate.
 
-Weekly Review: The weekly review is the most crucial review session in the GTD methodology. Typically, it should take about 1-2 hours. During the weekly review, you go through several key steps:
+Revizuire săptămânală: Revizuirea săptămânală este cea mai crucială sesiune de revizuire din metodologia GTD.De obicei, ar trebui să dureze aproximativ 1-2 ore.În timpul revizuirii săptămânale, parcurgeți mai mulți pași cheie:
 
-Collect Loose Papers: Gather any loose papers, notes, or items that need processing.
-Empty Your Head: Write down any new tasks, ideas, or commitments that have arisen during the week.
-Process Your Inboxes: Go through your physical and digital inboxes, clarifying and organizing the items they contain.
-Review Your Calendar: Review the past week and the upcoming week on your calendar to ensure you're aware of all appointments and deadlines.
-Review Your Projects: Go through each project and ensure that you have identified the next actions required to move them forward.
-Review Your  Waiting For  List: Follow up on any items you're waiting for from others.
-Review Your  Someday/Maybe  List: Reflect on any potential projects or ideas you may want to pursue in the future.
-Review Your Action Lists: Ensure that your next actions lists are up to date, and you have clear tasks to work on during the upcoming week.
-The Benefits of Regular Reviews: Regular reviews have several benefits. They help you:
+Colectați hârtii libere: Adunați orice hârtie, note sau articole care au nevoie de procesare.
+Goliți -vă capul: Notați orice sarcini, idei sau angajamente noi care au apărut în timpul săptămânii.
+Procesați -vă căsuțele de e -mail: parcurgeți căsuțele de e -mail fizice și digitale, clarificând și organizând articolele pe care le conțin.
+Examinați -vă calendarul: Examinați săptămâna trecută și săptămâna viitoare în calendarul dvs. pentru a vă asigura că sunteți la curent cu toate programările și termenele.
+Examinați -vă proiectele: parcurgeți fiecare proiect și asigurați -vă că ați identificat următoarele acțiuni necesare pentru a le înainta.
+Examinați -vă lista de așteptare: Urmăriți orice articole pe care le așteptați de la alții.
+Examinați -vă într -o zi/poate lista: Reflectați asupra eventualelor proiecte sau idei potențiale pe care poate doriți să le urmăriți în viitor.
+Examinați -vă listele de acțiuni: asigurați -vă că următoarele liste de acțiuni sunt actualizate și aveți sarcini clare la care să lucrați în săptămâna viitoare.
+Beneficiile recenziilor obișnuite: recenziile obișnuite au mai multe avantaje.Te ajută:
 
-Maintain clarity and focus on your goals and priorities.
-Reduce the risk of missing deadlines or commitments.
-Identify any incomplete or stalled projects.
-Eliminate redundancy and ensure you're not duplicating efforts.
-Stay in control of your workload and reduce stress.
+Mențineți claritatea și concentrați -vă pe obiectivele și prioritățile dvs.
+Reduceți riscul de a lipsi termenele sau angajamentele.
+Identificați orice proiecte incomplete sau blocate.
+Eliminați redundanța și asigurați -vă că nu duplicați eforturile.
+Rămâneți în controlul volumului de muncă și reduceți stresul.

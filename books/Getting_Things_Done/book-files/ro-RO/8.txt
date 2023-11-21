@@ -1,20 +1,19 @@
-Episode 7: Processing: Getting  In  to Empty 
+Episodul 7: Procesare: intrarea la gol
 
-In  Getting Things Done  by David Allen, Part 2, titled  Processing: Getting 'In' to Empty,  we dive deeper into the critical phase of processing. This part of the GTD methodology is all about clarifying the meaning and next actions for the items you've collected. Here are the key concepts from this section:
+În realizarea lucrurilor de David Allen, partea a 2 -a, intitulată Procesare: Obținerea „în” a goli, ne scufundăm mai adânc în faza critică a procesării.Această parte a metodologiei GTD se referă la clarificarea sensului și a acțiunilor următoare pentru elementele pe care le -ați colectat.Iată conceptele cheie din această secțiune:
 
-The Clarifying Process: Processing is the stage where you decide what each item collected means and what action, if any, is associated with it. There are four options for clarifying items:
+Procesul de clarificare: procesarea este etapa în care decideți ce înseamnă fiecare element colectat și ce acțiune, dacă este cazul, este asociată cu acesta.Există patru opțiuni pentru clarificarea articolelor:
 
-Trash: If an item has no value or relevance, discard it.
-Incubate: Some items don't require immediate action but might be important in the future. Place these items in an  incubation  or reference system.
-Reference: Some items serve as reference material, such as information to be filed or stored for later use.
-Action: If an item requires action, you must determine the specific next steps.
-Next Actions: Defining the next action is a fundamental principle of GTD. It means breaking tasks down into actionable steps. Instead of vague to-do items like  write report,  you would clarify it as  draft the introduction of the report.  This clarity eliminates ambiguity and makes it easier to take action.
+Coșul de gunoi: Dacă un articol nu are valoare sau relevanță, aruncați -l.
+Incubate: Unele elemente nu necesită acțiune imediată, dar ar putea fi importante în viitor.Puneți aceste elemente într -un sistem de incubație sau de referință.
+Referință: Unele elemente servesc ca material de referință, cum ar fi informațiile care trebuie depuse sau stocate pentru utilizare ulterioară.
+Acțiune: Dacă un articol necesită acțiune, trebuie să determinați pașii următori specifici.
+Următoarele acțiuni: Definirea următoarei acțiuni este un principiu fundamental al GTD.Înseamnă că ruperea sarcinilor în pași acționabili.În loc de articole vagi de a face, cum ar fi raportul de scriere, l-ați clarifica ca fiind redactarea introducerii raportului.Această claritate elimină ambiguitatea și facilitează luarea de măsuri.
 
-Project Definition: If a task requires more than one step to complete, it becomes a project. Projects should be explicitly defined with a clear outcome and the next actions needed to achieve that outcome.
+Definiția proiectului: Dacă o sarcină necesită mai mult de un pas pentru finalizare, aceasta devine un proiect.Proiectele ar trebui să fie definite în mod explicit cu un rezultat clar și următoarele acțiuni necesare pentru a obține acel rezultat.
 
-Organizing Actions: Once you've clarified the next actions, organize them in a way that makes them easily accessible when you're ready to work on them. This could involve categorizing actions by context, priority, or deadline.
+Organizarea acțiunilor: după ce ați clarificat următoarele acțiuni, organizați -le într -un mod care să le facă ușor accesibile atunci când sunteți gata să lucrați la ele.Aceasta ar putea implica clasificarea acțiunilor în funcție de context, prioritate sau termen.
 
-The  Waiting For  List: Not all actions are within your control. Use a  Waiting For  list to track actions that depend on others. This helps prevent items from falling through the cracks.
+Lista de așteptare: nu toate acțiunile sunt în controlul dvs.Utilizați o listă de așteptare pentru a urmări acțiunile care depind de altele.Acest lucru ajută la prevenirea căderii articolelor prin fisuri.
 
-The  Someday/Maybe  List: Capture ideas or projects that you're not committed to working on immediately but might consider in the future. This list keeps these ideas from cluttering your active task lists.
-
+Într -o zi/poate lista: capturați idei sau proiecte la care nu sunteți angajat să lucrați imediat, dar ar putea să luați în considerare în viitor.Această listă împiedică aceste idei să -ți aglomereze listele de sarcini active.

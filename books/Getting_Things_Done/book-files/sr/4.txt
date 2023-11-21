@@ -1,16 +1,15 @@
-Episode 3: Getting Projects Creatively Under Way: The Five Phases of Project Planning
+Епизода 3: Стварно добијање пројеката: Пет фаза планирања пројеката
 
-In this episode, we dive into the section of David Allen's  Getting Things Done  titled  Getting Projects Creatively Under Way: The Five Phases of Project Planning.  This part of the book delves into the practical steps for initiating and executing projects efficiently within the GTD framework.
+У овој епизоди заронимо у одељак Давида Аллена да су ствари урађене под називом креативно добијање пројеката: Пет фаза планирања пројекта.Овај део књиге преноси у практичне кораке за ефикасно покретање и извршавање пројеката у оквиру ГТД оквира.
 
-David Allen introduces five key phases of project planning:
+Давид Аллен представља пет кључних фаза планирања пројеката:
 
-Defining Purpose and Principles: Before diving into a project, it's crucial to clarify the purpose and the guiding principles. This sets the foundation and helps ensure that the project aligns with your values and goals.
+Дефинисање сврхе и принципе: Пре роњења у пројекат, пресудно је разјаснити сврху и водећи принципи.Ово поставља фондацију и помаже у осигуравању да пројекат поравнава са вашим вредностима и циљевима.
 
-Outcome Visioning: In this phase, you visualize and define what a successful outcome for the project looks like. This clear mental image of the end goal helps in planning and execution.
+Исход Висион: У овој фази ви визуализујете и дефинишите какав изгледа успешан исход за пројекат.Ова јасна ментална слика крајњег циља помаже у планирању и извођењу.
 
-Brainstorming: Creativity plays a significant role in project planning. Allen encourages brainstorming to generate ideas and potential approaches to achieve the project's outcome.
+Браинсторминг: Креативност игра значајну улогу у планирању пројекта.Аллен охрабрује браинсторминг да би генерисали идеје и потенцијалне приступе да би се постигао исход пројекта.
 
-Organizing: Once you have a list of ideas, it's time to organize them into actionable steps. This involves breaking down the project into smaller, manageable tasks and establishing priorities.
+Организовање: Једном када имате списак идеја, време је да их организујете у акционарске кораке.То укључује пробијање пројекта у мање, манусне задатке и успостављање приоритета.
 
-Identifying Next Actions: Finally, Allen stresses the importance of determining the very next physical action required to move the project forward. It's about identifying the immediate step you can take to make progress.
-
+Препознавање следећих радњи: Коначно, Аллен наглашава важност утврђивања и наредне физичке радње потребне за премештање пројекта напред.Ради се о препознавању тренутног корака који можете предузети да напредујете.

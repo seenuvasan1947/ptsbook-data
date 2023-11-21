@@ -1,20 +1,19 @@
-Episode 7: Processing: Getting  In  to Empty 
+කථාංග 7: සැකසීම: හිස්ව ඇති වීම
 
-In  Getting Things Done  by David Allen, Part 2, titled  Processing: Getting 'In' to Empty,  we dive deeper into the critical phase of processing. This part of the GTD methodology is all about clarifying the meaning and next actions for the items you've collected. Here are the key concepts from this section:
+ඩේවිඩ් ඇලන් විසින් කරන ලද දේවල් ලබා ගැනීමේදී, සැකසීම 2 වන කොටස: 'ඇතුළට' යාම, හිස්ව සිටීම, අපි සැකසීමේ තීරණාත්මක අවධියේදී ගැඹුරට කිමිදෙමු.GTD ක්රමවේදයෙහි මෙම කොටස සියල්ලම ඔබ එකතු කළ අයිතම සඳහා අර්ථය සහ ඊළඟ ක්රියා පැහැදිලි කිරීමකි.මෙන්න මෙම කොටසේ ප්රධාන සංකල්පයන්:
 
-The Clarifying Process: Processing is the stage where you decide what each item collected means and what action, if any, is associated with it. There are four options for clarifying items:
+පැහැදිලි කිරීමේ ක්රියාවලිය: සැකසීම යනු සැකසීම යනු එක් එක් අයිතමය එකතු කරන දේ සහ ඇත්නම් එය සමඟ සම්බන්ධ වන්නේ කුමන ක්රියාමාර්ගයද යන්නයි.ආදර්ශනය කිරීමේ අයිතම සඳහා විකල්ප හතරක් ඇත:
 
-Trash: If an item has no value or relevance, discard it.
-Incubate: Some items don't require immediate action but might be important in the future. Place these items in an  incubation  or reference system.
-Reference: Some items serve as reference material, such as information to be filed or stored for later use.
-Action: If an item requires action, you must determine the specific next steps.
-Next Actions: Defining the next action is a fundamental principle of GTD. It means breaking tasks down into actionable steps. Instead of vague to-do items like  write report,  you would clarify it as  draft the introduction of the report.  This clarity eliminates ambiguity and makes it easier to take action.
+කුණු කූඩය: අයිතමයකට වටිනාකමක් හෝ අදාළත්වයක් නොමැති නම්, එය ඉවතලන්න.
+පුර්ව ලියාපදිංචි තක්සේරු කරන්න: සමහර අයිතම සඳහා ක්ෂණික ක්රියාමාර්ග අවශ්ය නොවන නමුත් අනාගතයේදී වැදගත් විය හැකිය.මෙම අයිතම පුර්ව ලියාපදිංචි තක්සේරු පද්ධතියක තබන්න.
+යොමුව: සමහර භාණ්ඩ පසුව භාවිතා කිරීම සඳහා ගොනු කළ යුතු හෝ ගබඩා කිරීම වැනි තොරතුරු, වැනි යොමු ද්රව්ය ලෙස සේවය කරයි.
+ක්රියාව: අයිතමයක් ක්රියාව අවශ්ය නම්, ඔබ නිශ්චිත ඊළඟ පියවර තීරණය කළ යුතුය.
+ඊළඟ ක්රියාමාර්ග: ඊළඟ ක්රියාව නිර්වචනය කිරීම gtd හි මූලික මූලධර්මයකි.එයින් අදහස් කරන්නේ ක්රියාකාරී පියවරයන් ඇති කාර්යයන් බිඳ දැමීමයි.ලිවීමේ වාර්තාවක් වැනි භාණ්ඩ අපොහොසත් වීම වෙනුවට, වාර්තාව හඳුන්වාදීම කෙටුම්පතක් ලෙස ඔබ එය පැහැදිලි කරනු ඇත.මෙම පැහැදිලිකම අවිනිශ්චිතතාවය තුරන් කරන අතර ක්රියාමාර්ග ගැනීම පහසු කරයි.
 
-Project Definition: If a task requires more than one step to complete, it becomes a project. Projects should be explicitly defined with a clear outcome and the next actions needed to achieve that outcome.
+ව්යාපෘති අර්ථ දැක්වීම: කාර්යයක් සම්පූර්ණ කිරීමට එක් පියවර එකකට වඩා වැඩි ප්රමාණයක් අවශ්ය නම් එය ව්යාපෘතියක් බවට පත්වේ.ව්යාපෘති පැහැදිලි ප්රති come ලයක් සහ එම ප්රති come ලය සාක්ෂාත් කර ගැනීම සඳහා අවශ්ය ඊළඟ ක්රියාමාර්ග සමඟ පැහැදිලිව අර්ථ දැක්විය යුතුය.
 
-Organizing Actions: Once you've clarified the next actions, organize them in a way that makes them easily accessible when you're ready to work on them. This could involve categorizing actions by context, priority, or deadline.
+ක්රියා සංවිධානය කිරීම: ඔබ ඊළඟ ක්රියාවන් පැහැදිලි කළ පසු, ඔබ ඔවුන් මත වැඩ කිරීමට සූදානම් වන විට ඒවා පහසුවෙන් ප්රවේශ විය හැකි ආකාරයට ඒවා සංවිධානය කරන්න.සන්දර්භය, ප්රමුඛතාවය හෝ අවසාන දිනය අනුව ක්රියාව වර්ගීකරණය කිරීම මෙයට ඇතුළත් විය හැකිය.
 
-The  Waiting For  List: Not all actions are within your control. Use a  Waiting For  list to track actions that depend on others. This helps prevent items from falling through the cracks.
+ලැයිස්තුවක් සඳහා බලා සිටීම: සියලු ක්රියාවන් ඔබේ පාලනය තුළ නොවේ.අන් අය මත රඳා පවතින ක්රියාවන් නිරීක්ෂණය කිරීම සඳහා ලැයිස්තු බලා සිටීම භාවිතා කරන්න.මෙය ඉරිතැලීම් හරහා වැටීම වළක්වා ගැනීමට උපකාරී වේ.
 
-The  Someday/Maybe  List: Capture ideas or projects that you're not committed to working on immediately but might consider in the future. This list keeps these ideas from cluttering your active task lists.
-
+කවදාහරි / සමහර විට ලැයිස්තුව: ඔබ වහාම වැඩ කිරීමට කැපවී සිටින නමුත් අනාගතයේදී සලකා බැලිය යුතු අදහස් හෝ ව්යාපෘති ග්රහණය කරගන්න.මෙම ලැයිස්තුව මඟින් මෙම අදහස් ඔබේ ක්රියාකාරී කාර්ය ලැයිස්තු අවුල් කිරීමෙන් වළකිමු.

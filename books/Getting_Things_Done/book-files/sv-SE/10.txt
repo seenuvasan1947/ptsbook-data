@@ -1,25 +1,25 @@
-Episode 9: Reviewing: Keeping Your System Functional 
+Avsnitt 9: Granskning: Att hålla ditt system funktionellt
 
-In  Getting Things Done  by David Allen, Part 2 explores the critical concept of reviewing, which is essential for maintaining a functional and effective productivity system. Here's what you need to know from this section:
+Genom att få saker gjort av David Allen undersöker del 2 det kritiska begreppet granskning, vilket är viktigt för att upprätthålla ett funktionellt och effektivt produktivitetssystem.Här är vad du behöver veta från det här avsnittet:
 
-The Purpose of Regular Reviews: Regular reviews are the glue that holds your GTD system together. They ensure that your trusted organizational tools stay current and functional. The purpose of these reviews is to keep your commitments and tasks aligned with your goals and priorities.
+Syftet med regelbundna recensioner: Regelbundna recensioner är limet som håller ditt GTD -system tillsammans.De ser till att dina pålitliga organisatoriska verktyg förblir aktuella och funktionella.Syftet med dessa recensioner är att hålla dina åtaganden och uppgifter i linje med dina mål och prioriteringar.
 
-Daily Mini-Review: A mini-review at the beginning and end of your day is essential. It allows you to reassess your commitments, update your to-do lists, and ensure that you're working on the most important tasks. It also helps you start and end your day with clarity.
+Daily Mini-Review: En mini-review i början och slutet av din dag är avgörande.Det låter dig ompröva dina åtaganden, uppdatera dina att göra-listor och se till att du arbetar med de viktigaste uppgifterna.Det hjälper dig också att starta och avsluta dagen med tydlighet.
 
-Weekly Review: The weekly review is the most crucial review session in the GTD methodology. Typically, it should take about 1-2 hours. During the weekly review, you go through several key steps:
+Weekly Review: The Weekly Review är den mest avgörande granskningssessionen i GTD -metodiken.Vanligtvis bör det ta cirka 1-2 timmar.Under den veckovisa granskningen går du igenom flera viktiga steg:
 
-Collect Loose Papers: Gather any loose papers, notes, or items that need processing.
-Empty Your Head: Write down any new tasks, ideas, or commitments that have arisen during the week.
-Process Your Inboxes: Go through your physical and digital inboxes, clarifying and organizing the items they contain.
-Review Your Calendar: Review the past week and the upcoming week on your calendar to ensure you're aware of all appointments and deadlines.
-Review Your Projects: Go through each project and ensure that you have identified the next actions required to move them forward.
-Review Your  Waiting For  List: Follow up on any items you're waiting for from others.
-Review Your  Someday/Maybe  List: Reflect on any potential projects or ideas you may want to pursue in the future.
-Review Your Action Lists: Ensure that your next actions lists are up to date, and you have clear tasks to work on during the upcoming week.
-The Benefits of Regular Reviews: Regular reviews have several benefits. They help you:
+Samla lösa papper: Samla alla lösa papper, anteckningar eller föremål som behöver bearbetning.
+Töm huvudet: Skriv ner alla nya uppgifter, idéer eller åtaganden som har uppstått under veckan.
+Behandla dina inkorgar: Gå igenom dina fysiska och digitala inkorgar, klargöra och organisera de objekt de innehåller.
+Granska din kalender: Granska den senaste veckan och den kommande veckan i din kalender för att säkerställa att du är medveten om alla möten och tidsfrister.
+Granska dina projekt: Gå igenom varje projekt och se till att du har identifierat de nästa åtgärder som krävs för att flytta dem framåt.
+Granska din Waiting for List: Följ upp alla artiklar du väntar på från andra.
+Granska din en dag/kanske lista: reflektera över eventuella projekt eller idéer du kanske vill bedriva i framtiden.
+Granska dina åtgärdslistor: Se till att dina nästa åtgärdslistor är uppdaterade och att du har tydliga uppgifter att arbeta med under den kommande veckan.
+Fördelarna med regelbundna recensioner: Regelbundna recensioner har flera fördelar.De hjälper dig:
 
-Maintain clarity and focus on your goals and priorities.
-Reduce the risk of missing deadlines or commitments.
-Identify any incomplete or stalled projects.
-Eliminate redundancy and ensure you're not duplicating efforts.
-Stay in control of your workload and reduce stress.
+Håll tydligheten och fokusera på dina mål och prioriteringar.
+Minska risken för saknade tidsfrister eller åtaganden.
+Identifiera eventuella ofullständiga eller stoppade projekt.
+Eliminera redundans och se till att du inte duplicerar insatser.
+Håll kontrollen över din arbetsbelastning och minska stressen.

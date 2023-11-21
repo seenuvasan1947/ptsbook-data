@@ -1,18 +1,17 @@
-Episode 11: Getting Projects Under Control 
+Эпизод 11: Получение контроля проектов
 
-In David Allen's  Getting Things Done,  Part 2 of the book focuses on the critical aspect of getting your projects under control. Managing projects effectively is essential for achieving your goals and reducing stress. Here's an overview of this part:
+В «Дэвиде Аллене», что делает все, часть 2 книги фокусируется на критическом аспекте контроля ваших проектов.Эффективное управление проектами имеет важное значение для достижения ваших целей и снижения стресса.Вот обзор этой части:
 
-Defining a Project: Allen begins by defining a project as anything that requires more than one action step to complete. This broad definition encompasses not only work-related projects but also personal goals and aspirations.
+Определение проекта: Аллен начинает с определения проекта как всего, что требует более одного шага действия для завершения.Это широкое определение охватывает не только проекты, связанные с работой, но и личные цели и стремления.
 
-The Natural Planning Model: To get projects under control, GTD introduces the Natural Planning Model, a series of steps to help you plan effectively. This model involves defining your purpose and principles, envisioning your desired outcome, brainstorming, organizing your ideas, and identifying the next actions.
+Модель естественного планирования: чтобы контролировать проекты, GTD представляет модель естественного планирования, серию шагов, которые помогут вам эффективно планировать.Эта модель включает в себя определение вашей цели и принципов, представляя ваш желаемый результат, мозговой штурм, организацию ваших идей и определение следующих действий.
 
-Outcome and Action Thinking: GTD emphasizes the importance of distinguishing between outcomes and actions. Outcomes represent the specific results you want to achieve, while actions are the concrete steps you need to take to move toward those outcomes.
+Результат и мышление действий: GTD подчеркивает важность различения результатов и действий.Результаты представляют конкретные результаты, которые вы хотите достичь, в то время как действия - это конкретные шаги, которые вам необходимы для достижения этих результатов.
 
-Mind Mapping: Mind mapping is a powerful tool introduced in this section. It allows you to visually organize your ideas and brainstorm effectively. Mind maps can help you generate insights and identify critical actions within a project.
+Картирование ума: картирование ума - это мощный инструмент, представленный в этом разделе.Это позволяет вам визуально организовать ваши идеи и мозговой штурм.Карты разума могут помочь вам генерировать понимание и определить критические действия в рамках проекта.
 
-Organizing Projects: Once you've defined the outcomes and actions for your projects, GTD provides guidance on organizing them. This includes creating project lists, specifying the desired outcomes, and listing the next actions required to make progress.
+Организация проектов: как только вы определили результаты и действия для своих проектов, GTD предоставляет руководство по их организации.Это включает в себя создание списков проектов, указание желаемых результатов и перечисление следующих действий, необходимых для достижения прогресса.
 
-Project Support Material: Support materials for your projects, such as research notes, documents, or reference materials, should be organized and readily accessible. GTD suggests keeping these materials separate from your regular reference files to maintain clarity.
+Материалы поддержки проекта: вспомогательные материалы для ваших проектов, такие как исследовательские заметки, документы или справочные материалы, должны быть организованы и легко доступны.GTD предлагает держать эти материалы отдельно от ваших обычных эталонных файлов для поддержания ясности.
 
-The  Waiting For  List: Projects often involve collaboration with others. GTD recommends maintaining a  Waiting For  list to track commitments or tasks that are dependent on someone else's action or response.
-
+Ожидание списка: проекты часто включают сотрудничество с другими.GTD рекомендует поддерживать ожидание списка для отслеживания обязательств или задач, которые зависят от чужих действий или ответа.

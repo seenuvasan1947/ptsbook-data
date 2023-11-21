@@ -1,18 +1,17 @@
-Episode 11: Getting Projects Under Control 
+Епизода 11: Добијање пројеката под контролом
 
-In David Allen's  Getting Things Done,  Part 2 of the book focuses on the critical aspect of getting your projects under control. Managing projects effectively is essential for achieving your goals and reducing stress. Here's an overview of this part:
+У Давиду Аллену су урађене ствари, део 2 књиге се фокусира на критични аспект добијања ваших пројеката под контролом.Ефикасно управљање пројектима је неопходно за постизање ваших циљева и смањење стреса.Ево прегледа овог дела:
 
-Defining a Project: Allen begins by defining a project as anything that requires more than one action step to complete. This broad definition encompasses not only work-related projects but also personal goals and aspirations.
+Дефинисање пројекта: Аллен започиње дефинисањем пројекта као све што захтева више од једног корака акције.Ова широко дефиниција обухвата не само пројекте везане за рад већ и личне циљеве и тежње.
 
-The Natural Planning Model: To get projects under control, GTD introduces the Natural Planning Model, a series of steps to help you plan effectively. This model involves defining your purpose and principles, envisioning your desired outcome, brainstorming, organizing your ideas, and identifying the next actions.
+Модел природног планирања: Да бисте добили пројекте под контролом, ГТД уводи модел природног планирања, низ корака који ће вам помоћи да ефикасно планирате.Овај модел укључује дефинисање ваше намене и принципа, предвиђајући жељени исход, браинсторминг, организовање својих идеја и идентификовање следећих радњи.
 
-Outcome and Action Thinking: GTD emphasizes the importance of distinguishing between outcomes and actions. Outcomes represent the specific results you want to achieve, while actions are the concrete steps you need to take to move toward those outcomes.
+Исход и радња размишљања: ГТД наглашава важност разликовања исхода и акција.Резултати представљају специфичне резултате које желите да постигнете, док су акције конкретни кораци које су вам потребне да бисте преузели да бисте се кретали према тим исходима.
 
-Mind Mapping: Mind mapping is a powerful tool introduced in this section. It allows you to visually organize your ideas and brainstorm effectively. Mind maps can help you generate insights and identify critical actions within a project.
+Мапирање ума: Мапирање ума је моћан алат уведени у овом одељку.Омогућава вам да визуелно организујете своје идеје и ефикасно.Мапе ума могу вам помоћи да генеришете увиде и идентификујете критичне акције у оквиру пројекта.
 
-Organizing Projects: Once you've defined the outcomes and actions for your projects, GTD provides guidance on organizing them. This includes creating project lists, specifying the desired outcomes, and listing the next actions required to make progress.
+Организовање пројеката: Једном када сте дефинисали исходе и радње за своје пројекте, ГТД пружа смернице о њиховом организовању.Ово укључује креирање листа пројеката, наводећи жељене исходе и наводећи наредне радње потребне за напредак.
 
-Project Support Material: Support materials for your projects, such as research notes, documents, or reference materials, should be organized and readily accessible. GTD suggests keeping these materials separate from your regular reference files to maintain clarity.
+Материјал подршке пројекту: Подршка материјала за ваше пројекте, као што су белешке, документи или референтни материјали, требало би организовати и лако доступни.ГТД сугерира да се ови материјали задрже од ваших редовних референтних датотека да би се одржали јасноћа.
 
-The  Waiting For  List: Projects often involve collaboration with others. GTD recommends maintaining a  Waiting For  list to track commitments or tasks that are dependent on someone else's action or response.
-
+Листа чекања: Пројекти често укључују сарадњу са другима.ГТД препоручује одржавање чекања листе да прате обавезе или задатке који зависе од туђе акције или одговора.

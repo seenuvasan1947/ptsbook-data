@@ -1,14 +1,13 @@
-Part 1: The Art of Getting Things Done
+పార్ట్ 1: పనులను పొందే కళ
 
-Episode 1: A New Practice for a New Reality
+ఎపిసోడ్ 1: కొత్త రియాలిటీ కోసం కొత్త అభ్యాసం
 
-In the first part of David Allen's groundbreaking book  Getting Things Done,  we are introduced to the core concepts of his productivity methodology. This episode delves into the key ideas presented in the opening chapter,  A New Practice for a New Reality. 
+డేవిడ్ అలెన్ యొక్క సంచలనాత్మక పుస్తకం యొక్క మొదటి భాగంలో, పనులు పూర్తయ్యాయి, మేము అతని ఉత్పాదకత పద్దతి యొక్క ప్రధాన భావనలకు పరిచయం చేయబడ్డాము.ఈ ఎపిసోడ్ ప్రారంభ అధ్యాయంలో సమర్పించిన ముఖ్య ఆలోచనలను పరిశీలిస్తుంది, ఇది కొత్త వాస్తవికత కోసం కొత్త అభ్యాసం.
 
-David Allen begins by acknowledging the overwhelming nature of modern life, where information inundates us, tasks pile up, and stress levels soar. He highlights that traditional time management approaches are no longer effective in dealing with this reality. This is where the GTD method comes into play.
+ఆధునిక జీవితం యొక్క అధిక స్వభావాన్ని అంగీకరించడం ద్వారా డేవిడ్ అలెన్ ప్రారంభిస్తాడు, ఇక్కడ సమాచారం మనలను ముంచెత్తుతుంది, పనులు పోగుపడతాయి మరియు ఒత్తిడి స్థాయిలు పెరుగుతాయి.సాంప్రదాయ సమయ నిర్వహణ విధానాలు ఈ వాస్తవికతను ఎదుర్కోవడంలో ఇకపై ప్రభావవంతంగా ఉండవని అతను హైలైట్ చేస్తాడు.ఇక్కడే జిటిడి పద్ధతి అమలులోకి వస్తుంది.
 
-At the heart of the GTD approach is the idea that the mind is a fantastic tool for processing ideas but a terrible place to store them. The episode explains how Allen encourages us to externalize our thoughts by capturing them in an organized system. This frees up mental space and reduces stress.
+జిటిడి విధానం యొక్క గుండె వద్ద మనస్సు ఆలోచనలను ప్రాసెస్ చేయడానికి అద్భుతమైన సాధనం అనే ఆలోచన ఉంది, కానీ వాటిని నిల్వ చేయడానికి భయంకరమైన ప్రదేశం.వ్యవస్థీకృత వ్యవస్థలో వాటిని సంగ్రహించడం ద్వారా మన ఆలోచనలను బాహ్యపరచమని అలెన్ ఎలా ప్రోత్సహిస్తుందో ఎపిసోడ్ వివరిస్తుంది.ఇది మానసిక స్థలాన్ని విముక్తి చేస్తుంది మరియు ఒత్తిడిని తగ్గిస్తుంది.
 
-Additionally, the  Two-Minute Rule  is introduced, suggesting that if a task takes less than two minutes to complete, it should be done immediately rather than being added to a to-do list.
+అదనంగా, రెండు నిమిషాల నియమం ప్రవేశపెట్టబడింది, ఒక పని పూర్తి కావడానికి రెండు నిమిషాల కన్నా తక్కువ సమయం తీసుకుంటే, చేయవలసిన పనుల జాబితాకు చేర్చకుండా వెంటనే చేయాలి.
 
-David Allen emphasizes the importance of capturing all commitments, big or small, personal or professional, in a trusted system. By doing so, individuals gain a sense of control and clarity over their obligations.
-
+విశ్వసనీయ వ్యవస్థలో పెద్ద లేదా చిన్న, వ్యక్తిగత లేదా వృత్తిపరమైన అన్ని కట్టుబాట్లను సంగ్రహించడం యొక్క ప్రాముఖ్యతను డేవిడ్ అలెన్ నొక్కిచెప్పారు.అలా చేయడం ద్వారా, వ్యక్తులు వారి బాధ్యతలపై నియంత్రణ మరియు స్పష్టత యొక్క భావాన్ని పొందుతారు.

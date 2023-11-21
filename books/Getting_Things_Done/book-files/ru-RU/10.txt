@@ -1,25 +1,25 @@
-Episode 9: Reviewing: Keeping Your System Functional 
+Эпизод 9: Обзор: поддержание функциональной системы
 
-In  Getting Things Done  by David Allen, Part 2 explores the critical concept of reviewing, which is essential for maintaining a functional and effective productivity system. Here's what you need to know from this section:
+Получив вещи Дэвидом Алленом, часть 2 исследует критическую концепцию обзора, которая необходима для поддержания функциональной и эффективной системы производительности.Вот что вам нужно знать из этого раздела:
 
-The Purpose of Regular Reviews: Regular reviews are the glue that holds your GTD system together. They ensure that your trusted organizational tools stay current and functional. The purpose of these reviews is to keep your commitments and tasks aligned with your goals and priorities.
+Цель регулярных обзоров: регулярные обзоры - это клей, который держит вашу систему GTD вместе.Они гарантируют, что ваши надежные организационные инструменты остаются актуальными и функциональными.Целью этих обзоров является поддержание ваших обязательств и задач, связанных с вашими целями и приоритетами.
 
-Daily Mini-Review: A mini-review at the beginning and end of your day is essential. It allows you to reassess your commitments, update your to-do lists, and ensure that you're working on the most important tasks. It also helps you start and end your day with clarity.
+Daily Mini-Review: Mini-Review в начале и в конце вашего дня имеет важное значение.Это позволяет вам пересмотреть свои обязательства, обновлять свои списки дел и гарантировать, что вы работаете над самыми важными задачами.Это также помогает вам начать и закончить свой день с ясности.
 
-Weekly Review: The weekly review is the most crucial review session in the GTD methodology. Typically, it should take about 1-2 hours. During the weekly review, you go through several key steps:
+Еженедельный обзор: еженедельный обзор является наиболее важной обзором в методологии GTD.Как правило, это должно занять около 1-2 часов.Во время еженедельного обзора вы выполняете несколько ключевых шагов:
 
-Collect Loose Papers: Gather any loose papers, notes, or items that need processing.
-Empty Your Head: Write down any new tasks, ideas, or commitments that have arisen during the week.
-Process Your Inboxes: Go through your physical and digital inboxes, clarifying and organizing the items they contain.
-Review Your Calendar: Review the past week and the upcoming week on your calendar to ensure you're aware of all appointments and deadlines.
-Review Your Projects: Go through each project and ensure that you have identified the next actions required to move them forward.
-Review Your  Waiting For  List: Follow up on any items you're waiting for from others.
-Review Your  Someday/Maybe  List: Reflect on any potential projects or ideas you may want to pursue in the future.
-Review Your Action Lists: Ensure that your next actions lists are up to date, and you have clear tasks to work on during the upcoming week.
-The Benefits of Regular Reviews: Regular reviews have several benefits. They help you:
+Соберите свободные документы: Соберите любые свободные бумаги, заметки или предметы, которые нуждаются в обработке.
+Опубликайте голову: запишите любые новые задачи, идеи или обязательства, которые возникли в течение недели.
+Обработайте свои почтовые ящики: пройдите свои физические и цифровые почтовые ящики, разъясняя и организуя элементы, которые они содержат.
+Просмотрите свой календарь: просмотрите прошлую неделю и предстоящую неделю в вашем календаре, чтобы убедиться, что вы знаете все встречи и сроки.
+Просмотрите свои проекты: пройдите каждый проект и убедитесь, что вы определили следующие действия, необходимые для их продвижения вперед.
+Просмотрите свой список ожидания: следите за любыми предметами, которые вы ждете от других.
+Просмотрите свой когда -нибудь/может быть списком: подумайте о любых потенциальных проектах или идеях, которые вы можете продолжить в будущем.
+Просмотрите свои списки действий: убедитесь, что ваши следующие списки действий обновлены, и у вас есть четкие задачи, над которыми нужно работать в течение предстоящей недели.
+Преимущества регулярных обзоров: регулярные обзоры имеют несколько преимуществ.Они помогают вам:
 
-Maintain clarity and focus on your goals and priorities.
-Reduce the risk of missing deadlines or commitments.
-Identify any incomplete or stalled projects.
-Eliminate redundancy and ensure you're not duplicating efforts.
-Stay in control of your workload and reduce stress.
+Поддерживать ясность и сосредоточиться на своих целях и приоритетах.
+Снизить риск отсутствия сроков или обязательств.
+Определите любые неполные или остановленные проекты.
+Устраните избыточность и убедитесь, что вы не дублируете усилия.
+Оставайтесь под контролем своей рабочей нагрузки и уменьшите стресс.

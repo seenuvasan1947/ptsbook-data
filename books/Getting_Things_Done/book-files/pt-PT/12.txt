@@ -1,18 +1,17 @@
-Episode 11: Getting Projects Under Control 
+Episódio 11: Obtendo projetos sob controle
 
-In David Allen's  Getting Things Done,  Part 2 of the book focuses on the critical aspect of getting your projects under control. Managing projects effectively is essential for achieving your goals and reducing stress. Here's an overview of this part:
+Em David Allen está fazendo as coisas, a parte 2 do livro se concentra no aspecto crítico de controlar seus projetos.Gerenciar projetos de maneira eficaz é essencial para alcançar seus objetivos e reduzir o estresse.Aqui está uma visão geral desta parte:
 
-Defining a Project: Allen begins by defining a project as anything that requires more than one action step to complete. This broad definition encompasses not only work-related projects but also personal goals and aspirations.
+Definindo um projeto: Allen começa definindo um projeto como qualquer coisa que exija mais de uma etapa de ação para concluir.Essa definição ampla abrange não apenas projetos relacionados ao trabalho, mas também objetivos e aspirações pessoais.
 
-The Natural Planning Model: To get projects under control, GTD introduces the Natural Planning Model, a series of steps to help you plan effectively. This model involves defining your purpose and principles, envisioning your desired outcome, brainstorming, organizing your ideas, and identifying the next actions.
+O modelo de planejamento natural: para controlar os projetos, o GTD apresenta o modelo de planejamento natural, uma série de etapas para ajudá -lo a planejar de maneira eficaz.Esse modelo envolve definir seu propósito e princípios, imaginar o resultado desejado, brainstorming, organizar suas idéias e identificar as próximas ações.
 
-Outcome and Action Thinking: GTD emphasizes the importance of distinguishing between outcomes and actions. Outcomes represent the specific results you want to achieve, while actions are the concrete steps you need to take to move toward those outcomes.
+Resultado e pensamento de ação: o GTD enfatiza a importância de distinguir entre resultados e ações.Os resultados representam os resultados específicos que você deseja alcançar, enquanto as ações são as etapas concretas que você precisa tomar para avançar em direção a esses resultados.
 
-Mind Mapping: Mind mapping is a powerful tool introduced in this section. It allows you to visually organize your ideas and brainstorm effectively. Mind maps can help you generate insights and identify critical actions within a project.
+Mapeamento da mente: o mapeamento da mente é uma ferramenta poderosa introduzida nesta seção.Ele permite que você organize visualmente suas idéias e faça um brainstorm de efetivamente.Os mapas mentais podem ajudá -lo a gerar insights e identificar ações críticas dentro de um projeto.
 
-Organizing Projects: Once you've defined the outcomes and actions for your projects, GTD provides guidance on organizing them. This includes creating project lists, specifying the desired outcomes, and listing the next actions required to make progress.
+Organização de projetos: depois de definir os resultados e ações para seus projetos, o GTD fornece orientações para organizá -los.Isso inclui a criação de listas de projetos, especificando os resultados desejados e listando as próximas ações necessárias para progredir.
 
-Project Support Material: Support materials for your projects, such as research notes, documents, or reference materials, should be organized and readily accessible. GTD suggests keeping these materials separate from your regular reference files to maintain clarity.
+Material de suporte ao projeto: os materiais de suporte para seus projetos, como notas de pesquisa, documentos ou materiais de referência, devem ser organizados e facilmente acessíveis.O GTD sugere manter esses materiais separados de seus arquivos de referência regulares para manter a clareza.
 
-The  Waiting For  List: Projects often involve collaboration with others. GTD recommends maintaining a  Waiting For  list to track commitments or tasks that are dependent on someone else's action or response.
-
+A lista de espera: os projetos geralmente envolvem colaboração com outras pessoas.O GTD recomenda manter uma lista de espera para rastrear compromissos ou tarefas que dependem da ação ou resposta de outra pessoa.

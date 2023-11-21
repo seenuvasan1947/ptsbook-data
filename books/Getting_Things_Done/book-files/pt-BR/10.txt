@@ -1,25 +1,25 @@
-Episode 9: Reviewing: Keeping Your System Functional 
+Episódio 9: Revisão: Mantendo seu sistema funcional
 
-In  Getting Things Done  by David Allen, Part 2 explores the critical concept of reviewing, which is essential for maintaining a functional and effective productivity system. Here's what you need to know from this section:
+Ao fazer as coisas por David Allen, a Parte 2 explora o conceito crítico de revisão, essencial para manter um sistema de produtividade funcional e eficaz.Aqui está o que você precisa saber desta seção:
 
-The Purpose of Regular Reviews: Regular reviews are the glue that holds your GTD system together. They ensure that your trusted organizational tools stay current and functional. The purpose of these reviews is to keep your commitments and tasks aligned with your goals and priorities.
+O objetivoEles garantem que suas ferramentas organizacionais confiáveis permaneçam atuais e funcionais.O objetivo dessas revisões é manter seus compromissos e tarefas alinhados com seus objetivos e prioridades.
 
-Daily Mini-Review: A mini-review at the beginning and end of your day is essential. It allows you to reassess your commitments, update your to-do lists, and ensure that you're working on the most important tasks. It also helps you start and end your day with clarity.
+Mini-revisão diária: Uma mini-revisão no início e o final do seu dia é essencial.Ele permite que você reavalie seus compromissos, atualize suas listas de tarefas e garanta que você esteja trabalhando nas tarefas mais importantes.Também ajuda a começar e terminar o seu dia com clareza.
 
-Weekly Review: The weekly review is the most crucial review session in the GTD methodology. Typically, it should take about 1-2 hours. During the weekly review, you go through several key steps:
+Revisão semanal: A revisão semanal é a sessão de revisão mais crucial na metodologia GTD.Normalmente, deve levar cerca de 1-2 horas.Durante a revisão semanal, você passa por várias etapas importantes:
 
-Collect Loose Papers: Gather any loose papers, notes, or items that need processing.
-Empty Your Head: Write down any new tasks, ideas, or commitments that have arisen during the week.
-Process Your Inboxes: Go through your physical and digital inboxes, clarifying and organizing the items they contain.
-Review Your Calendar: Review the past week and the upcoming week on your calendar to ensure you're aware of all appointments and deadlines.
-Review Your Projects: Go through each project and ensure that you have identified the next actions required to move them forward.
-Review Your  Waiting For  List: Follow up on any items you're waiting for from others.
-Review Your  Someday/Maybe  List: Reflect on any potential projects or ideas you may want to pursue in the future.
-Review Your Action Lists: Ensure that your next actions lists are up to date, and you have clear tasks to work on during the upcoming week.
-The Benefits of Regular Reviews: Regular reviews have several benefits. They help you:
+Colete papéis soltos: junte papéis, notas ou itens soltos que precisam de processamento.
+Esvazie sua cabeça: anote quaisquer novas tarefas, idéias ou compromissos que surgiram durante a semana.
+Processe suas caixas de entrada: passe por suas caixas de entrada físicas e digitais, esclarecendo e organizando os itens que eles contêm.
+Revise seu calendário: revise a semana passada e a próxima semana no seu calendário para garantir que você esteja ciente de todos os compromissos e prazos.
+Revise seus projetos: Analise cada projeto e verifique se você identificou as próximas ações necessárias para avançar.
+Revise sua lista de espera: Acompanhe os itens que você está esperando de outros.
+Revise sua lista um dia/talvez: reflita sobre quaisquer projetos ou idéias em potencial que você possa querer buscar no futuro.
+Revise suas listas de ação: verifique se suas próximas listas de ações estão atualizadas e você terá tarefas claras para trabalhar durante a próxima semana.
+Os benefícios das revisões regulares: revisões regulares têm vários benefícios.Eles te ajudam:
 
-Maintain clarity and focus on your goals and priorities.
-Reduce the risk of missing deadlines or commitments.
-Identify any incomplete or stalled projects.
-Eliminate redundancy and ensure you're not duplicating efforts.
-Stay in control of your workload and reduce stress.
+Mantenha a clareza e concentre -se em seus objetivos e prioridades.
+Reduza o risco de perder prazos ou compromissos.
+Identifique quaisquer projetos incompletos ou paralisados.
+Elimine a redundância e garanta que você não duplique os esforços.
+Mantenha -se no controle da sua carga de trabalho e reduza o estresse.

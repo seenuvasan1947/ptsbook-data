@@ -1,18 +1,17 @@
-Episode 6: Collection: Corralling Your  Stuff  (Part 2)
+Епизода 6: Колекција: Исправите своје ствари (део 2)
 
-In the second part of  Getting Things Done  by David Allen, titled  Collection: Corralling Your 'Stuff,'  we explore the crucial step of gathering and capturing all the items, tasks, commitments, and ideas that clutter our minds and lives. This part focuses on building a system to collect and process these inputs effectively.
+У другом делу постављања ствари Давид Аллен, под називом Колекција: Испларивање ваших 'ствари', истражујемо пресудни корак прикупљања и хватање свих предмета, задатака, обавеза и идеја које налазе наше мисли и живота.Овај се део фокусира на изградњу система за ефикасно прикупљање и обраду ових инпута.
 
-Key concepts in this section include:
+Кључни концепти у овом одељку укључују:
 
-The Capture Habit: David Allen emphasizes the importance of developing the habit of capturing all your commitments and ideas as they arise. This includes everything from work-related tasks to personal to-dos and even fleeting thoughts or concerns. The goal is to ensure that nothing is left unrecorded.
+Навика за хватање: Давид Аллен наглашава важност развоја навике да се ухвати све ваше обавезе и идеје како настају.Ово укључује све од задатака везаних за рад према личним до-дос-у и чак и разноврсним мислима или недоумицама.Циљ је осигурати да ништа не остане неостварен.
 
-The Ubiquitous Capture Tool: To facilitate this capturing habit, it's essential to have a reliable and readily accessible tool for recording your  stuff.  This can be a physical notebook, a digital note-taking app, voice recorder, or any method that suits your preferences. The tool should always be within arm's reach.
+Свеприсутни алат за хватање: Да би се олакшала ова оштећења, кључно је имати поуздан и лако приступачан алат за снимање ваших ствари.Ово може бити физичка свеска, апликација за дигиталну белешку, диктафон, или било који метод који одговара вашим жељама.Алат увек треба да буде унутар руке руке.
 
-Avoiding Mental Clutter: By capturing everything externally, you prevent mental clutter and anxiety. Your mind is freed from the need to remember every detail, allowing you to think more clearly and make better decisions.
+Избегавање менталног нереда: Снимајући све споља, спречаваш ментално нередање и анксиозност.Ваш ум је ослобођен потребе да се сећа сваког детаља, омогућавајући вам да размишљате јасније и да донесете боље одлуке.
 
-Unprocessed Items: Items you collect are not tasks yet; they are unprocessed. Processing involves deciding what each item means, what action is required (if any), and what the desired outcome is. This is where you transform  stuff  into actionable tasks, reference material, or items to be discarded.
+Необрађени предмети: Предмети које прикупљате још нису задаци;Они су необрађени.Обрада укључује одлучивање о томе шта сваки предмет значи, која је радња потребна (ако постоји), и који је жељени исход.Овде претворите ствари у акцију у акцију, референтни материјал или ставке које треба одбацити.
 
-The Two-Minute Rule: If an item can be completed in two minutes or less, do it immediately. This small commitment of time eliminates many small tasks quickly, preventing them from accumulating.
+Дво-минутно правило: Ако се предмет може завршити за две или мање, урадите то одмах.Ова мала посвећеност времена брзо елиминише многе мале задатке, спречавајући их да акумулирају.
 
-Deferred Decisions: Not everything needs immediate action. Some items are better suited for future actions or reference. The GTD system helps you organize these deferred decisions systematically.
-
+Одложене одлуке: Није све потребне тренутне акције.Неке ставке је боље погодним за будуће акције или референцу.ГТД систем вам помаже да вам систематски организујете ове одложене одлуке.

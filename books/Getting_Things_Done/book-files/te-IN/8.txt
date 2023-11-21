@@ -1,20 +1,19 @@
-Episode 7: Processing: Getting  In  to Empty 
+ఎపిసోడ్ 7: ప్రాసెసింగ్: ఖాళీగా పొందడం
 
-In  Getting Things Done  by David Allen, Part 2, titled  Processing: Getting 'In' to Empty,  we dive deeper into the critical phase of processing. This part of the GTD methodology is all about clarifying the meaning and next actions for the items you've collected. Here are the key concepts from this section:
+డేవిడ్ అలెన్ చేత పనులు చేయడంలో, పార్ట్ 2, ప్రాసెసింగ్: 'ఇన్' ను ఖాళీగా పొందడం, మేము ప్రాసెసింగ్ యొక్క క్లిష్టమైన దశలో లోతుగా మునిగిపోతాము.GTD పద్దతి యొక్క ఈ భాగం మీరు సేకరించిన వస్తువుల యొక్క అర్థం మరియు తదుపరి చర్యలను స్పష్టం చేయడం.ఈ విభాగం నుండి ముఖ్య అంశాలు ఇక్కడ ఉన్నాయి:
 
-The Clarifying Process: Processing is the stage where you decide what each item collected means and what action, if any, is associated with it. There are four options for clarifying items:
+స్పష్టత ప్రక్రియ: ప్రాసెసింగ్ అనేది సేకరించిన ప్రతి అంశం అంటే ఏమిటో మీరు నిర్ణయించే దశ మరియు ఏ చర్య అయినా దానితో సంబంధం కలిగి ఉంటుంది.అంశాలను స్పష్టం చేయడానికి నాలుగు ఎంపికలు ఉన్నాయి:
 
-Trash: If an item has no value or relevance, discard it.
-Incubate: Some items don't require immediate action but might be important in the future. Place these items in an  incubation  or reference system.
-Reference: Some items serve as reference material, such as information to be filed or stored for later use.
-Action: If an item requires action, you must determine the specific next steps.
-Next Actions: Defining the next action is a fundamental principle of GTD. It means breaking tasks down into actionable steps. Instead of vague to-do items like  write report,  you would clarify it as  draft the introduction of the report.  This clarity eliminates ambiguity and makes it easier to take action.
+చెత్త: ఒక వస్తువుకు విలువ లేదా v చిత్యం లేకపోతే, దాన్ని విస్మరించండి.
+ఇంక్యుబేట్: కొన్ని వస్తువులకు తక్షణ చర్య అవసరం లేదు, కానీ భవిష్యత్తులో ముఖ్యమైనది కావచ్చు.ఈ వస్తువులను పొదిగే లేదా సూచన వ్యవస్థలో ఉంచండి.
+రిఫరెన్స్: కొన్ని అంశాలు రిఫరెన్స్ మెటీరియల్‌గా పనిచేస్తాయి, తరువాత ఉపయోగం కోసం దాఖలు చేయవలసిన లేదా నిల్వ చేయవలసిన సమాచారం వంటివి.
+చర్య: ఒక వస్తువుకు చర్య అవసరమైతే, మీరు నిర్దిష్ట తదుపరి దశలను నిర్ణయించాలి.
+తదుపరి చర్యలు: తదుపరి చర్యను నిర్వచించడం GTD యొక్క ప్రాథమిక సూత్రం.దీని అర్థం పనులను క్రియాత్మక దశలుగా విభజించడం.రైట్ రిపోర్ట్ వంటి అస్పష్టమైన చేయవలసిన అంశాలకు బదులుగా, మీరు దీనిని నివేదిక యొక్క పరిచయాన్ని ముసాయిదాగా స్పష్టం చేస్తారు.ఈ స్పష్టత అస్పష్టతను తొలగిస్తుంది మరియు చర్య తీసుకోవడం సులభం చేస్తుంది.
 
-Project Definition: If a task requires more than one step to complete, it becomes a project. Projects should be explicitly defined with a clear outcome and the next actions needed to achieve that outcome.
+ప్రాజెక్ట్ నిర్వచనం: ఒక పని పూర్తి కావడానికి ఒకటి కంటే ఎక్కువ దశలు అవసరమైతే, అది ప్రాజెక్ట్ అవుతుంది.స్పష్టమైన ఫలితంతో మరియు ఆ ఫలితాన్ని సాధించడానికి అవసరమైన తదుపరి చర్యలతో ప్రాజెక్టులను స్పష్టంగా నిర్వచించాలి.
 
-Organizing Actions: Once you've clarified the next actions, organize them in a way that makes them easily accessible when you're ready to work on them. This could involve categorizing actions by context, priority, or deadline.
+చర్యలను నిర్వహించడం: మీరు తదుపరి చర్యలను స్పష్టం చేసిన తర్వాత, మీరు వాటిని పని చేయడానికి సిద్ధంగా ఉన్నప్పుడు వాటిని సులభంగా ప్రాప్యత చేసే విధంగా వాటిని నిర్వహించండి.ఇది సందర్భం, ప్రాధాన్యత లేదా గడువు ద్వారా చర్యలను వర్గీకరించవచ్చు.
 
-The  Waiting For  List: Not all actions are within your control. Use a  Waiting For  list to track actions that depend on others. This helps prevent items from falling through the cracks.
+జాబితా కోసం వేచి ఉంది: అన్ని చర్యలు మీ నియంత్రణలో లేవు.ఇతరులపై ఆధారపడే చర్యలను ట్రాక్ చేయడానికి జాబితా కోసం వేచి ఉండండి.ఇది పగుళ్లు పడకుండా నిరోధించడానికి సహాయపడుతుంది.
 
-The  Someday/Maybe  List: Capture ideas or projects that you're not committed to working on immediately but might consider in the future. This list keeps these ideas from cluttering your active task lists.
-
+ఏదో ఒక రోజు/బహుశా జాబితా: మీరు వెంటనే పనిచేయడానికి కట్టుబడి లేని ఆలోచనలు లేదా ప్రాజెక్టులను సంగ్రహించండి కాని భవిష్యత్తులో పరిగణించవచ్చు.ఈ జాబితా ఈ ఆలోచనలను మీ క్రియాశీల పని జాబితాలను అస్తవ్యస్తం చేయకుండా ఉంచుతుంది.

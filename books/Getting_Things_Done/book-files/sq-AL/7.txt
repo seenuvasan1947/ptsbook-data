@@ -1,18 +1,17 @@
-Episode 6: Collection: Corralling Your  Stuff  (Part 2)
+Episodi 6: Koleksioni: Korralimi i gjërave tuaja (Pjesa 2)
 
-In the second part of  Getting Things Done  by David Allen, titled  Collection: Corralling Your 'Stuff,'  we explore the crucial step of gathering and capturing all the items, tasks, commitments, and ideas that clutter our minds and lives. This part focuses on building a system to collect and process these inputs effectively.
+Në pjesën e dytë të bërjes së gjërave të bëra nga David Allen, Koleksioni i titulluar: Korralimi i 'gjërave tuaja', ne eksplorojmë hapin thelbësor të mbledhjes dhe kapjes së të gjitha artikujve, detyrave, angazhimeve dhe ideve që rrëmbejnë mendjet dhe jetën.Kjo pjesë përqendrohet në ndërtimin e një sistemi për të mbledhur dhe përpunuar këto inpute në mënyrë efektive.
 
-Key concepts in this section include:
+Konceptet kryesore në këtë pjesë përfshijnë:
 
-The Capture Habit: David Allen emphasizes the importance of developing the habit of capturing all your commitments and ideas as they arise. This includes everything from work-related tasks to personal to-dos and even fleeting thoughts or concerns. The goal is to ensure that nothing is left unrecorded.
+Zakoni i kapjes: David Allen thekson rëndësinë e zhvillimit të zakonit të kapjes së të gjitha angazhimeve dhe ideve tuaja ndërsa ato lindin.Kjo përfshin gjithçka, nga detyrat e lidhura me punën deri tek DOS-të personale dhe madje edhe mendimet ose shqetësimet e fluturimit.Qëllimi është të sigurohet që asgjë të mos mbetet e paregjistruar.
 
-The Ubiquitous Capture Tool: To facilitate this capturing habit, it's essential to have a reliable and readily accessible tool for recording your  stuff.  This can be a physical notebook, a digital note-taking app, voice recorder, or any method that suits your preferences. The tool should always be within arm's reach.
+Mjeti i kudogjendur i kapjes: Për të lehtësuar këtë zakon kapës, është thelbësore të keni një mjet të besueshëm dhe lehtësisht të arritshëm për regjistrimin e sendeve tuaja.Kjo mund të jetë një fletore fizike, një aplikacion dixhital për marrjen e shënimeve, regjistrues zëri ose ndonjë metodë që i përshtatet preferencave tuaja.Mjeti duhet të jetë gjithmonë brenda mundësive të krahut.
 
-Avoiding Mental Clutter: By capturing everything externally, you prevent mental clutter and anxiety. Your mind is freed from the need to remember every detail, allowing you to think more clearly and make better decisions.
+Shmangia e rrëmujës mendore: Duke kapur gjithçka nga jashtë, ju parandaloni rrëmujën mendore dhe ankthin.Mendja juaj çlirohet nga nevoja për të kujtuar çdo detaj, duke ju lejuar të mendoni më qartë dhe të merrni vendime më të mira.
 
-Unprocessed Items: Items you collect are not tasks yet; they are unprocessed. Processing involves deciding what each item means, what action is required (if any), and what the desired outcome is. This is where you transform  stuff  into actionable tasks, reference material, or items to be discarded.
+Artikujt e papërpunuar: Artikujt që mbledhni nuk janë detyra ende;Ata janë të papërpunuar.Përpunimi përfshin vendosjen e se çfarë do të thotë secila artikull, çfarë veprimi kërkohet (nëse ka) dhe cili është rezultati i dëshiruar.Kjo është ajo ku ju i shndërroni gjërat në detyra vepruese, materiale referimi ose sende që duhen hedhur poshtë.
 
-The Two-Minute Rule: If an item can be completed in two minutes or less, do it immediately. This small commitment of time eliminates many small tasks quickly, preventing them from accumulating.
+Rregulli dy-minutësh: Nëse një artikull mund të përfundojë në dy minuta ose më pak, bëjeni menjëherë.Ky angazhim i vogël i kohës eliminon shumë detyra të vogla shpejt, duke i penguar ato të grumbullohen.
 
-Deferred Decisions: Not everything needs immediate action. Some items are better suited for future actions or reference. The GTD system helps you organize these deferred decisions systematically.
-
+Vendimet e shtyra: Jo gjithçka ka nevojë për veprim të menjëhershëm.Disa artikuj janë më të përshtatshëm për veprimet ose referencat e ardhshme.Sistemi GTD ju ndihmon të organizoni këto vendime të shtyra në mënyrë sistematike.

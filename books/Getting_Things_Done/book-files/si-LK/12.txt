@@ -1,18 +1,17 @@
-Episode 11: Getting Projects Under Control 
+කථාංග 11: ව්යාපෘති පාලනය කිරීම
 
-In David Allen's  Getting Things Done,  Part 2 of the book focuses on the critical aspect of getting your projects under control. Managing projects effectively is essential for achieving your goals and reducing stress. Here's an overview of this part:
+ඩේවිඩ් ඇලන් දේවල් කරා ළඟා වෙමින්, පොතේ 2 වන කොටස ඔබේ ව්යාපෘති පාලනය කිරීමේ තීරණාත්මක අංගය කෙරෙහි අවධානය යොමු කරයි.ඔබේ අරමුණු සාක්ෂාත් කර ගැනීම සහ ආතතිය අඩු කිරීම සඳහා ව්යාපෘති effectively ලදායී ලෙස කළමනාකරණය කිරීම අත්යවශ්ය වේ.මෙන්න මෙම කොටස පිළිබඳ දළ විශ්ලේෂණයක්:
 
-Defining a Project: Allen begins by defining a project as anything that requires more than one action step to complete. This broad definition encompasses not only work-related projects but also personal goals and aspirations.
+ව්යාපෘතියක් නිර්වචනය කිරීම: ඇලන් ආරම්භ වන්නේ ව්යාපෘතියක් එක් ක්රියාකාරී පියවරකට වඩා සම්පූර්ණ කිරීමට අවශ්ය ඕනෑම දෙයක් අවශ්ය නොවන බැවිනි.මෙම පුළුල් අර්ථ දැක්වීම වැඩ ආශ්රිත ව්යාපෘති පමණක් නොව පුද්ගලික අරමුණු හා අභිලාෂයන් ද ඇතුළත් වේ.
 
-The Natural Planning Model: To get projects under control, GTD introduces the Natural Planning Model, a series of steps to help you plan effectively. This model involves defining your purpose and principles, envisioning your desired outcome, brainstorming, organizing your ideas, and identifying the next actions.
+ස්වාභාවික සැලසුම් ආකෘතිය: ව්යාපෘති පාලනය කිරීම සඳහා, GTD ස්වාභාවික සැලසුම් ආකෘතිය හඳුන්වා දෙයි, ඔබට .ලදායී ලෙස සැලසුම් කිරීමට පියවර මාලාවක්.මෙම ආකෘතියට ඔබේ අරමුණු හා මූලධර්ම නිර්වචනය කිරීම, ඔබ අපේක්ෂිත ප්රති come ලය, මොළය අවුස්සමින්, ඔබේ අදහස් සංවිධානය කිරීම සහ ඊළඟ ක්රියා හඳුනා ගැනීම සහ ඊළඟ ක්රියා හඳුනා ගැනීම ඇතුළත් වේ.
 
-Outcome and Action Thinking: GTD emphasizes the importance of distinguishing between outcomes and actions. Outcomes represent the specific results you want to achieve, while actions are the concrete steps you need to take to move toward those outcomes.
+ප්රති come ල සහ ක්රියාකාරී චින්තනය: ප්රති come ල සහ ක්රියාවන් අතර වෙන්කර හඳුනා ගැනීමේ වැදගත්කම GTD අවධාරණය කරයි.ප්රති come ල ඔබට අත් කරගත යුතු නිශ්චිත ප්රති results ල නියෝජනය කරන අතර, එම ප්රති come ල කරා ගමන් කිරීම සඳහා ඔබ ගත යුතු කොන්ක්රීට් පියවරයන් ක්රියා කරයි.
 
-Mind Mapping: Mind mapping is a powerful tool introduced in this section. It allows you to visually organize your ideas and brainstorm effectively. Mind maps can help you generate insights and identify critical actions within a project.
+මනස සිතියම්ගත කිරීම: මනස සිතියම්ගත කිරීම යනු මෙම කොටසේ හඳුන්වා දුන් ප්රබල මෙවලමකි.එය ඔබේ අදහස් දෘශ්යමය වශයෙන් හා මොළයේ කුණාටුව .ලදායී ලෙස සංවිධානය කිරීමට ඉඩ දෙයි.මනස සිතියම් ඔබට තීක්ෂ්ණ බුද්ධිය ජනනය කිරීමට සහ ව්යාපෘතියක් තුළ විවේචනාත්මක ක්රියාමාර්ග හඳුනා ගැනීමට උපකාරී වේ.
 
-Organizing Projects: Once you've defined the outcomes and actions for your projects, GTD provides guidance on organizing them. This includes creating project lists, specifying the desired outcomes, and listing the next actions required to make progress.
+ව්යාපෘති සංවිධානය කිරීම: ඔබ ඔබේ ව්යාපෘතිවල ප්රති come ල සහ ක්රියා අර්ථ දැක්වූ පසු, GTD ඒවා සංවිධානය කිරීම පිළිබඳව මග පෙන්වීම සපයයි.මෙයට ව්යාපෘති ලැයිස්තු නිර්මාණය කිරීම, අපේක්ෂිත ප්රති come ල සඳහන් කිරීම සහ ප්රගතියක් ලබා ගැනීම සඳහා අවශ්ය ඊළඟ ක්රියා ලැයිස්තුගත කිරීම මෙයට ඇතුළත් ය.
 
-Project Support Material: Support materials for your projects, such as research notes, documents, or reference materials, should be organized and readily accessible. GTD suggests keeping these materials separate from your regular reference files to maintain clarity.
+ව්යාපෘති ආධාරක ද්රව්ය: පර්යේෂණ සටහන්, ලේඛන හෝ යොමු ද්රව්ය, ලේඛන හෝ යොමු ද්රව්ය වැනි ඔබේ ව්යාපෘති සඳහා ආධාරක ද්රව්ය සංවිධානය කර පහසුවෙන් ප්රවේශ විය යුතුය.පැහැදිලි බව පවත්වා ගැනීම සඳහා මෙම ද්රව්ය ඔබගේ සාමාන්ය යොමු ලිපිගොනු වලින් වෙන්ව තබා ගැනීම GTD යෝජනා කරයි.
 
-The  Waiting For  List: Projects often involve collaboration with others. GTD recommends maintaining a  Waiting For  list to track commitments or tasks that are dependent on someone else's action or response.
-
+ලැයිස්තුවක් සඳහා බලා සිටීම: ව්යාපෘති බොහෝ විට අන් අය සමඟ සහයෝගීතාවයට සම්බන්ධ වේ.වෙනත් කෙනෙකුගේ ක්රියාව හෝ ප්රතිචාරය මත යැපෙන බැඳීම් හෝ කාර්යයන් නිරීක්ෂණය කිරීම සඳහා ලැයිස්තුගත කිරීම සඳහා බලා සිටීම GTD නිර්දේශ කරයි.

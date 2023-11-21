@@ -1,25 +1,25 @@
-Episode 9: Reviewing: Keeping Your System Functional 
+ఎపిసోడ్ 9: సమీక్షిస్తోంది: మీ సిస్టమ్‌ను క్రియాత్మకంగా ఉంచడం
 
-In  Getting Things Done  by David Allen, Part 2 explores the critical concept of reviewing, which is essential for maintaining a functional and effective productivity system. Here's what you need to know from this section:
+డేవిడ్ అలెన్ చేత పనులు చేయడంలో, పార్ట్ 2 సమీక్ష యొక్క క్లిష్టమైన భావనను అన్వేషిస్తుంది, ఇది క్రియాత్మక మరియు సమర్థవంతమైన ఉత్పాదకత వ్యవస్థను నిర్వహించడానికి అవసరం.ఈ విభాగం నుండి మీరు తెలుసుకోవలసినది ఇక్కడ ఉంది:
 
-The Purpose of Regular Reviews: Regular reviews are the glue that holds your GTD system together. They ensure that your trusted organizational tools stay current and functional. The purpose of these reviews is to keep your commitments and tasks aligned with your goals and priorities.
+సాధారణ సమీక్షల యొక్క ఉద్దేశ్యం: సాధారణ సమీక్షలు మీ GTD వ్యవస్థను కలిసి ఉంచే జిగురు.మీ విశ్వసనీయ సంస్థాగత సాధనాలు ప్రస్తుత మరియు క్రియాత్మకంగా ఉన్నాయని అవి నిర్ధారిస్తాయి.ఈ సమీక్షల యొక్క ఉద్దేశ్యం మీ కట్టుబాట్లు మరియు పనులను మీ లక్ష్యాలు మరియు ప్రాధాన్యతలతో అనుసంధానించడం.
 
-Daily Mini-Review: A mini-review at the beginning and end of your day is essential. It allows you to reassess your commitments, update your to-do lists, and ensure that you're working on the most important tasks. It also helps you start and end your day with clarity.
+రోజువారీ మినీ-రివ్యూ: మీ రోజు ప్రారంభంలో మరియు చివరిలో ఒక చిన్న సమీక్ష అవసరం.ఇది మీ కట్టుబాట్లను తిరిగి అంచనా వేయడానికి, మీ చేయవలసిన పనుల జాబితాలను నవీకరించడానికి మరియు మీరు చాలా ముఖ్యమైన పనులపై పని చేస్తున్నారని నిర్ధారించుకోవడానికి మిమ్మల్ని అనుమతిస్తుంది.ఇది మీ రోజును స్పష్టతతో ప్రారంభించడానికి మరియు ముగించడానికి మీకు సహాయపడుతుంది.
 
-Weekly Review: The weekly review is the most crucial review session in the GTD methodology. Typically, it should take about 1-2 hours. During the weekly review, you go through several key steps:
+వీక్లీ రివ్యూ: వీక్లీ రివ్యూ అనేది జిటిడి పద్దతిలో అత్యంత కీలకమైన సమీక్ష సెషన్.సాధారణంగా, దీనికి 1-2 గంటలు పట్టాలి.వారపు సమీక్ష సమయంలో, మీరు అనేక కీలక దశల ద్వారా వెళతారు:
 
-Collect Loose Papers: Gather any loose papers, notes, or items that need processing.
-Empty Your Head: Write down any new tasks, ideas, or commitments that have arisen during the week.
-Process Your Inboxes: Go through your physical and digital inboxes, clarifying and organizing the items they contain.
-Review Your Calendar: Review the past week and the upcoming week on your calendar to ensure you're aware of all appointments and deadlines.
-Review Your Projects: Go through each project and ensure that you have identified the next actions required to move them forward.
-Review Your  Waiting For  List: Follow up on any items you're waiting for from others.
-Review Your  Someday/Maybe  List: Reflect on any potential projects or ideas you may want to pursue in the future.
-Review Your Action Lists: Ensure that your next actions lists are up to date, and you have clear tasks to work on during the upcoming week.
-The Benefits of Regular Reviews: Regular reviews have several benefits. They help you:
+వదులుగా ఉండే కాగితాలను సేకరించండి: ప్రాసెసింగ్ అవసరమయ్యే ఏదైనా వదులుగా ఉండే కాగితాలు, గమనికలు లేదా వస్తువులను సేకరించండి.
+మీ తలని ఖాళీ చేయండి: వారంలో తలెత్తిన ఏదైనా కొత్త పనులు, ఆలోచనలు లేదా కట్టుబాట్లను రాయండి.
+మీ ఇన్‌బాక్స్‌లను ప్రాసెస్ చేయండి: మీ భౌతిక మరియు డిజిటల్ ఇన్‌బాక్స్‌ల ద్వారా వెళ్లండి, అవి కలిగి ఉన్న వస్తువులను స్పష్టం చేయడం మరియు నిర్వహించడం.
+మీ క్యాలెండర్‌ను సమీక్షించండి: అన్ని నియామకాలు మరియు గడువు గురించి మీకు తెలుసని నిర్ధారించడానికి గత వారం మరియు రాబోయే వారంలో మీ క్యాలెండర్‌లో రాబోయే వారంలో సమీక్షించండి.
+మీ ప్రాజెక్టులను సమీక్షించండి: ప్రతి ప్రాజెక్ట్ ద్వారా వెళ్లి, వాటిని ముందుకు తీసుకెళ్లడానికి అవసరమైన తదుపరి చర్యలను మీరు గుర్తించినట్లు నిర్ధారించుకోండి.
+జాబితా కోసం మీ నిరీక్షణను సమీక్షించండి: మీరు ఇతరుల నుండి ఎదురుచూస్తున్న ఏవైనా అంశాలను అనుసరించండి.
+మీ ఏదో ఒక రోజు/బహుశా జాబితాను సమీక్షించండి: భవిష్యత్తులో మీరు కొనసాగించాలనుకునే ఏదైనా సంభావ్య ప్రాజెక్టులు లేదా ఆలోచనలను ప్రతిబింబించండి.
+మీ చర్య జాబితాలను సమీక్షించండి: మీ తదుపరి చర్యల జాబితాలు తాజాగా ఉన్నాయని నిర్ధారించుకోండి మరియు రాబోయే వారంలో మీకు స్పష్టమైన పనులు ఉన్నాయి.
+సాధారణ సమీక్షల యొక్క ప్రయోజనాలు: సాధారణ సమీక్షలకు అనేక ప్రయోజనాలు ఉన్నాయి.వారు మీకు సహాయం చేస్తారు:
 
-Maintain clarity and focus on your goals and priorities.
-Reduce the risk of missing deadlines or commitments.
-Identify any incomplete or stalled projects.
-Eliminate redundancy and ensure you're not duplicating efforts.
-Stay in control of your workload and reduce stress.
+స్పష్టతను కొనసాగించండి మరియు మీ లక్ష్యాలు మరియు ప్రాధాన్యతలపై దృష్టి పెట్టండి.
+గడువు లేదా కట్టుబాట్లు తప్పిపోయిన ప్రమాదాన్ని తగ్గించండి.
+ఏదైనా అసంపూర్ణమైన లేదా నిలిచిపోయిన ప్రాజెక్టులను గుర్తించండి.
+రిడెండెన్సీని తొలగించండి మరియు మీరు నకిలీ ప్రయత్నాలు చేయలేదని నిర్ధారించుకోండి.
+మీ పనిభారం నియంత్రణలో ఉండండి మరియు ఒత్తిడిని తగ్గించండి.

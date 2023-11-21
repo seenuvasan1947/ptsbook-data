@@ -1,20 +1,19 @@
-Part 2: Practicing Stress-Free Productivity
+Део 2: Вежбање продуктивности без стреса
 
-Episode 5: Getting Started: Setting Up the Time, Space, and Tools (Part 2)
+Епизода 5: Први кораци: Постављање времена, простора и алата (део 2)
 
-In this episode, we'll delve into the second part of David Allen's  Getting Things Done,  which is titled  Getting Started: Setting Up the Time, Space, and Tools.  This section focuses on the practical aspects of implementing the GTD system by creating an efficient environment for managing tasks and commitments.
+У овој епизоди ћемо уложити у други део Давида Аллена, што је учињено стварима, што је насловљено путовање: постављање времена, простора и алата.Овај одељак се фокусира на практичне аспекте спровођења ГТД система стварањем ефикасног окружења за управљање задацима и обавезама.
 
-David Allen emphasizes several key concepts in this part of the book:
+Давид Аллен наглашава неколико кључних концепата у овом делу књиге:
 
-Create a Collection System: To begin with, you should set up a collection system to gather all your thoughts, ideas, tasks, and commitments. This could be a physical inbox on your desk, a digital note-taking app, or a combination of both. The idea is to have a single, trusted place to capture everything.
+Креирајте систем за прикупљање: За почетак морате поставити систем за прикупљање прикупљања свих ваших мисли, идеја, задатака и обавеза.Ово би могла бити физички примљени сандучић на вашем столу, апликацији за дигиталну белешку или комбинацију обоје.Идеја је да има једног, поузданог места да све ухвати све.
 
-Mind Like Water: The GTD system aims to help you achieve a state where your mind is like water - calm and clear. To do this, you need to externalize your commitments and tasks into your collection system. This frees your mind from the burden of trying to remember everything.
+Ум попут воде: ГТД систем има за циљ да вам помогне да постигнете стање у којој је ваш ум попут воде - мирно и јасно.Да бисте то учинили, морате да екстеризујете своје обавезе и задатке у систем сакупљања.То ваши ум ослобађа од терета покушаја да се запамти све.
 
-Organize Your Workspace: Creating an organized and clutter-free workspace is essential for effective productivity. Ensure you have the necessary tools, supplies, and equipment readily available.
+Организујте свој радни простор: Стварање организованог радног простора без икаквих неред је од суштинског значаја за ефикасну продуктивност.Осигурајте да имате потребне алате, залихе и опрему лако доступну.
 
-Set Up Reference Filing: Establish a reference filing system for storing information, documents, and reference materials that you need for your work or personal life. This ensures that you can quickly access information when required.
+Подешавање референтног подношења: Успоставите референтни систем за подношење података за чување информација, докумената и референтних материјала који вам је потребан за ваш рад или лични живот.Ово осигурава да можете брзо да приступите информацијама када је то потребно.
 
-Use Lists and Calendars: Utilize lists for capturing tasks and commitments, and calendars for scheduling time-bound activities and events. Keep these tools current and regularly reviewed.
+Користите спискове и календаре: Користите листе за снимање задатака и обавеза и календаре за заказивање временских активности и догађаја.Држите ове алате тренутне и редовно прегледане.
 
-Choose Your Tools: Select tools and technology that work best for you. Whether it's a physical planner, a digital task manager, or a combination of both, the tools should align with your preferences and lifestyle.
-
+Одаберите алате: Изаберите Алатке и технологију која вам најбоље функционира.Било да је то физички планер, дигитални менаџер задатака или комбинација обоје, алати треба да се поравнају са вашим преференцијама и начином живота.

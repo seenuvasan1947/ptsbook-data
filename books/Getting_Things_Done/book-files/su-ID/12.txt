@@ -1,18 +1,17 @@
-Episode 11: Getting Projects Under Control 
+Episode 11: Kéngingkeun proyék dina kontrol
 
-In David Allen's  Getting Things Done,  Part 2 of the book focuses on the critical aspect of getting your projects under control. Managing projects effectively is essential for achieving your goals and reducing stress. Here's an overview of this part:
+Di DLen Allén urang kéngingkeun hal, Bagian 2 Buku pokus kana aspék kritis ngeunaan kéngingkeun proyék anjeun dina kontrol.Jogan proyék sacara efektif dimungkinkeun pikeun ngaropakeun tujuan anjeun sareng ngirangan setrés.Ieu welasan bagian ieu:
 
-Defining a Project: Allen begins by defining a project as anything that requires more than one action step to complete. This broad definition encompasses not only work-related projects but also personal goals and aspirations.
+Ngartikeun proyek: Allen dimimitian ku netepkeun proyék sapertos naon waé anu peryogi langkung ti hiji léngkah anu lengkep.Defertefesan lega ieu kalebet proyék-proyék anu berpungsi damel tapi ogé tujuan sareng aspirasi pribadi.
 
-The Natural Planning Model: To get projects under control, GTD introduces the Natural Planning Model, a series of steps to help you plan effectively. This model involves defining your purpose and principles, envisioning your desired outcome, brainstorming, organizing your ideas, and identifying the next actions.
+Modél Perencanaan Alus: Meunangkeun proyék dina kadali, gTD ngenup modél perencanaan alami, hiji léngkah pikeun ngabantosan sacara efektif.Model ieu ngalibatkeun tujuan sareng prinsip anjeun, demi-ngahasilkeun hasil anjeun anu dipikahoyong, otak-otér, ngayakeun ideu anjeun, sareng ngaidentipikasi tindakan anu salajengna.
 
-Outcome and Action Thinking: GTD emphasizes the importance of distinguishing between outcomes and actions. Outcomes represent the specific results you want to achieve, while actions are the concrete steps you need to take to move toward those outcomes.
+Hasilna sareng tindakan pamikiran: GTD negeskeun pentingna ngabédakeun atanapi tindakan.Hasilna ngagambarkeun hasil khusus anu anjeun hoyong ngahontal, bari tindakan mangrupikeun léngkah beton anjeun kedah nyandak pikeun mindahkeun kana hasil éta.
 
-Mind Mapping: Mind mapping is a powerful tool introduced in this section. It allows you to visually organize your ideas and brainstorm effectively. Mind maps can help you generate insights and identify critical actions within a project.
+Pikiran Pindah: Pindah mancing mangrupikeun alat anu kuat diwanohkeun dina bagian ieu.Éta ngamungkinkeun anjeun sabalikna pikeun ngatur ideu sareng otak anjeun sacara efektif.Pikiran Peta tiasa ngabantosan anjeun ngahasilkeun wawasan sareng ngaidentipikasi tindakan kritis dina hiji proyek.
 
-Organizing Projects: Once you've defined the outcomes and actions for your projects, GTD provides guidance on organizing them. This includes creating project lists, specifying the desired outcomes, and listing the next actions required to make progress.
+Ngatur proyék: Sakali anjeun parantos ngartikeun cek sareng seueur tindakan pikeun proyék anjeun, GTD nyayogikeun hiduan ngeunaan anu terkenep.Ieu kalebet nyiptakeun daptar Proyék, netepkeun jalan anu dipikahoyong, sareng ngadaptarkeun lampah salajengna anu diperyogikeun pikeun dijaga.
 
-Project Support Material: Support materials for your projects, such as research notes, documents, or reference materials, should be organized and readily accessible. GTD suggests keeping these materials separate from your regular reference files to maintain clarity.
+Bahan proyék: Bahan dukungan pikeun proyék anjeun, sapertos catetan panalungtikan, dokumén, atanapi bahan réaksi, kedah diatur sareng relevan sareng gampang diaksés sareng gampang diaksés.GTD nunjukkeun kana bahan ieu kapisah tina file rujukan biasa anjeun pikeun ngajaga kajelasan.
 
-The  Waiting For  List: Projects often involve collaboration with others. GTD recommends maintaining a  Waiting For  list to track commitments or tasks that are dependent on someone else's action or response.
-
+Ngantosan daptar: Proyék sering ngalarang kolaborasi sareng batur.GTD nyarankeun ngajaga daptar kanggo daptar pikeun ngalacak komitmen atanapi tugas anu gumantung kana tindakan atanapi réspon batur.

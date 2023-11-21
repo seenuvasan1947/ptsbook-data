@@ -1,20 +1,19 @@
-Episode 7: Processing: Getting  In  to Empty 
+Sehemu ya 7: Usindikaji: Kuingia kwa tupu
 
-In  Getting Things Done  by David Allen, Part 2, titled  Processing: Getting 'In' to Empty,  we dive deeper into the critical phase of processing. This part of the GTD methodology is all about clarifying the meaning and next actions for the items you've collected. Here are the key concepts from this section:
+Katika kufanya mambo kufanywa na David Allen, Sehemu ya 2, iliyopewa jina la usindikaji: kupata 'ndani' kwa tupu, tunaingia zaidi katika awamu muhimu ya usindikaji.Sehemu hii ya mbinu ya GTD ni juu ya kufafanua maana na vitendo vifuatavyo kwa vitu ambavyo umekusanya.Hapa kuna dhana muhimu kutoka kwa sehemu hii:
 
-The Clarifying Process: Processing is the stage where you decide what each item collected means and what action, if any, is associated with it. There are four options for clarifying items:
+Mchakato wa kufafanua: usindikaji ni hatua ambayo unaamua nini kila kitu kilichokusanywa kinamaanisha na ni hatua gani, ikiwa ipo, inahusishwa nayo.Kuna chaguzi nne za kufafanua vitu:
 
-Trash: If an item has no value or relevance, discard it.
-Incubate: Some items don't require immediate action but might be important in the future. Place these items in an  incubation  or reference system.
-Reference: Some items serve as reference material, such as information to be filed or stored for later use.
-Action: If an item requires action, you must determine the specific next steps.
-Next Actions: Defining the next action is a fundamental principle of GTD. It means breaking tasks down into actionable steps. Instead of vague to-do items like  write report,  you would clarify it as  draft the introduction of the report.  This clarity eliminates ambiguity and makes it easier to take action.
+Takataka: Ikiwa bidhaa haina thamani au umuhimu, itupa.
+Incubate: Vitu vingine hazihitaji hatua za haraka lakini zinaweza kuwa muhimu katika siku zijazo.Weka vitu hivi kwenye mfumo wa incubation au kumbukumbu.
+Rejea: Vitu vingine hutumika kama nyenzo za kumbukumbu, kama vile habari inayopaswa kufikishwa au kuhifadhiwa kwa matumizi ya baadaye.
+Kitendo: Ikiwa kitu kinahitaji hatua, lazima uamue hatua maalum zinazofuata.
+Vitendo vifuatavyo: Kufafanua hatua inayofuata ni kanuni ya msingi ya GTD.Inamaanisha kuvunja kazi chini kuwa hatua zinazoweza kutekelezwa.Badala ya vitu visivyo wazi vya kufanya kama Ripoti ya Andika, ungefafanua kama rasimu ya kuanzishwa kwa ripoti hiyo.Uwazi huu huondoa ubadilifu na inafanya iwe rahisi kuchukua hatua.
 
-Project Definition: If a task requires more than one step to complete, it becomes a project. Projects should be explicitly defined with a clear outcome and the next actions needed to achieve that outcome.
+Ufafanuzi wa Mradi: Ikiwa kazi inahitaji zaidi ya hatua moja kukamilisha, inakuwa mradi.Miradi inapaswa kuelezewa wazi na matokeo wazi na hatua zifuatazo zinahitajika kufikia matokeo hayo.
 
-Organizing Actions: Once you've clarified the next actions, organize them in a way that makes them easily accessible when you're ready to work on them. This could involve categorizing actions by context, priority, or deadline.
+Kuandaa Vitendo: Mara tu umefafanua vitendo vifuatavyo, panga kwa njia ambayo inawafanya waweze kupatikana kwa urahisi wakati uko tayari kufanya kazi juu yao.Hii inaweza kuhusisha kuainisha vitendo kwa muktadha, kipaumbele, au tarehe ya mwisho.
 
-The  Waiting For  List: Not all actions are within your control. Use a  Waiting For  list to track actions that depend on others. This helps prevent items from falling through the cracks.
+Kusubiri kwa orodha: Sio vitendo vyote vilivyo ndani ya udhibiti wako.Tumia orodha ya kusubiri kufuata vitendo ambavyo vinategemea wengine.Hii husaidia kuzuia vitu kutoka kwa nyufa.
 
-The  Someday/Maybe  List: Capture ideas or projects that you're not committed to working on immediately but might consider in the future. This list keeps these ideas from cluttering your active task lists.
-
+Orodha ya Siku moja/Labda: Capture maoni au miradi ambayo haujajitolea kufanya kazi mara moja lakini unaweza kuzingatia katika siku zijazo.Orodha hii inazuia maoni haya kutokana na kuorodhesha orodha yako ya kazi.

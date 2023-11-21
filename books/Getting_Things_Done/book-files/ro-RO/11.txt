@@ -1,18 +1,17 @@
-Episode 10: Doing: Making the Best Action Choices (Part 2)
+Episodul 10: A face: a face cele mai bune alegeri de acțiune (partea 2)
 
-In  Getting Things Done  by David Allen, Part 2 dives into the critical phase of  Doing.  This phase is all about making the best action choices once you have collected, processed, organized, and reviewed your tasks and commitments. Here's what you need to understand about this phase:
+În realizarea lucrurilor de David Allen, partea a 2 -a se aruncă în faza critică a efectuării.Această fază se referă la a face cele mai bune alegeri de acțiune odată ce ați colectat, procesat, organizat și revizuit sarcinile și angajamentele dvs.Iată ce trebuie să înțelegeți despre această fază:
 
-The Essence of Doing: At its core,  Doing  is about executing the tasks and actions you've identified as necessary to move your projects and goals forward. This phase is where the rubber meets the road, and you take tangible steps toward achieving your desired outcomes.
+Esența de a face: în centrul său, a face este vorba despre executarea sarcinilor și acțiunilor pe care le -ați identificat ca fiind necesare pentru a vă muta proiectele și obiectivele înainte.Această fază este locul în care cauciucul întâlnește drumul și faceți pași tangibili către obținerea rezultatelor dorite.
 
-Contextual Lists: One of the key principles of the GTD method is organizing your tasks by context. Contexts are specific situations or locations where you can perform certain actions. For example, tasks that require a phone call can be grouped under the  Calls  context. This allows you to be efficient and choose actions based on your current context.
+Liste contextuale: Unul dintre principiile cheie ale metodei GTD este organizarea sarcinilor dvs. după context.Contextele sunt situații sau locații specifice în care puteți efectua anumite acțiuni.De exemplu, sarcinile care necesită un apel telefonic pot fi grupate în contextul apelurilor.Acest lucru vă permite să fiți eficienți și să alegeți acțiuni pe baza contextului dvs. actual.
 
-The Two-Minute Rule: Allen introduces the  Two-Minute Rule,  which is a simple but powerful concept. If a task can be completed in two minutes or less, it should be done immediately. This prevents small tasks from accumulating and cluttering your to-do lists.
+Regula de două minute: Allen introduce regula de două minute, care este un concept simplu, dar puternic.Dacă o sarcină poate fi finalizată în două minute sau mai puțin, aceasta trebuie făcută imediat.Acest lucru împiedică acumularea și aglomerarea listelor de activități.
 
-Choosing Actions with Confidence: GTD emphasizes that you should have confidence in the actions you choose to tackle. By following the GTD process of collection, processing, organization, and review, you've already ensured that your actions are aligned with your goals and priorities.
+Alegerea acțiunilor cu încredere: GTD subliniază că ar trebui să aveți încredere în acțiunile pe care alegeți să le abordați.Urmând procesul GTD de colectare, procesare, organizare și revizuire, v -ați asigurat deja că acțiunile dvs. sunt aliniate obiectivelor și priorităților dvs.
 
-Resisting the Urge to Multitask: Multitasking is discouraged in GTD because it can reduce productivity and increase stress. Instead, focus on one task at a time, guided by your current context and priorities.
+Rezistența la îndemn la multitask: multitaskingul este descurajat în GTD, deoarece poate reduce productivitatea și crește stresul.În schimb, concentrați -vă pe o singură sarcină la un moment dat, ghidată de contextul și prioritățile dvs. actuale.
 
-Calendar-Based Actions: While most tasks are organized by context, some actions are time-sensitive and should be placed on your calendar. These are appointments or commitments that must be honored at specific times or on specific dates.
+Acțiuni bazate pe calendar: în timp ce majoritatea sarcinilor sunt organizate în context, unele acțiuni sunt sensibile la timp și ar trebui să fie plasate în calendarul dvs.Acestea sunt programări sau angajamente care trebuie onorate în anumite ore sau la date specifice.
 
-Handling Interruptions: GTD acknowledges that interruptions are a part of work and life. The key is to handle them mindfully and make quick decisions about whether to address them immediately, defer them, delegate them, or capture them for later processing.
-
+Manevrarea întreruperilor: GTD recunoaște că întreruperile sunt o parte a muncii și a vieții.Cheia este să le gestionați cu atenție și să luați decizii rapide cu privire la dacă să le abordați imediat, să le amânați, să le delegați sau să le surprindeți pentru procesarea ulterioară.

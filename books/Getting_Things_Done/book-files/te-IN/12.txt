@@ -1,18 +1,17 @@
-Episode 11: Getting Projects Under Control 
+ఎపిసోడ్ 11: ప్రాజెక్టులను అదుపులో ఉంచడం
 
-In David Allen's  Getting Things Done,  Part 2 of the book focuses on the critical aspect of getting your projects under control. Managing projects effectively is essential for achieving your goals and reducing stress. Here's an overview of this part:
+డేవిడ్ అలెన్ యొక్క పనులను పూర్తి చేయడంలో, పుస్తకం యొక్క పార్ట్ 2 మీ ప్రాజెక్టులను అదుపులోకి తీసుకునే క్లిష్టమైన అంశంపై దృష్టి పెడుతుంది.మీ లక్ష్యాలను సాధించడానికి మరియు ఒత్తిడిని తగ్గించడానికి ప్రాజెక్టులను సమర్థవంతంగా నిర్వహించడం చాలా అవసరం.ఈ భాగం యొక్క అవలోకనం ఇక్కడ ఉంది:
 
-Defining a Project: Allen begins by defining a project as anything that requires more than one action step to complete. This broad definition encompasses not only work-related projects but also personal goals and aspirations.
+ఒక ప్రాజెక్ట్ను నిర్వచించడం: అలెన్ ఒక ప్రాజెక్ట్ను పూర్తి చేయడానికి ఒకటి కంటే ఎక్కువ చర్యల దశ అవసరమయ్యే ఏదైనా ఒక ప్రాజెక్ట్ను నిర్వచించడం ద్వారా ప్రారంభమవుతుంది.ఈ విస్తృత నిర్వచనం పని సంబంధిత ప్రాజెక్టులను మాత్రమే కాకుండా వ్యక్తిగత లక్ష్యాలు మరియు ఆకాంక్షలను కూడా కలిగి ఉంటుంది.
 
-The Natural Planning Model: To get projects under control, GTD introduces the Natural Planning Model, a series of steps to help you plan effectively. This model involves defining your purpose and principles, envisioning your desired outcome, brainstorming, organizing your ideas, and identifying the next actions.
+సహజ ప్రణాళిక నమూనా: ప్రాజెక్టులను అదుపులో ఉంచడానికి, జిటిడి సహజ ప్రణాళిక నమూనాను పరిచయం చేస్తుంది, ఇది మీకు సమర్థవంతంగా ప్లాన్ చేయడంలో సహాయపడటానికి వరుస దశలు.ఈ నమూనా మీ ఉద్దేశ్యం మరియు సూత్రాలను నిర్వచించడం, మీరు కోరుకున్న ఫలితాన్ని vision హించడం, కలవరపరిచే, మీ ఆలోచనలను నిర్వహించడం మరియు తదుపరి చర్యలను గుర్తించడం.
 
-Outcome and Action Thinking: GTD emphasizes the importance of distinguishing between outcomes and actions. Outcomes represent the specific results you want to achieve, while actions are the concrete steps you need to take to move toward those outcomes.
+ఫలితం మరియు చర్య ఆలోచన: ఫలితాలు మరియు చర్యల మధ్య తేడాను గుర్తించడం యొక్క ప్రాముఖ్యతను GTD నొక్కి చెబుతుంది.ఫలితాలు మీరు సాధించదలిచిన నిర్దిష్ట ఫలితాలను సూచిస్తాయి, అయితే చర్యలు ఆ ఫలితాల వైపు వెళ్ళడానికి మీరు తీసుకోవలసిన కాంక్రీట్ దశలు.
 
-Mind Mapping: Mind mapping is a powerful tool introduced in this section. It allows you to visually organize your ideas and brainstorm effectively. Mind maps can help you generate insights and identify critical actions within a project.
+మైండ్ మ్యాపింగ్: మైండ్ మ్యాపింగ్ ఈ విభాగంలో ప్రవేశపెట్టిన శక్తివంతమైన సాధనం.ఇది మీ ఆలోచనలను దృశ్యమానంగా నిర్వహించడానికి మరియు మెదడు తుఫానును సమర్థవంతంగా నిర్వహించడానికి మిమ్మల్ని అనుమతిస్తుంది.మైండ్ మ్యాప్స్ మీకు అంతర్దృష్టులను రూపొందించడానికి మరియు ప్రాజెక్ట్‌లో క్లిష్టమైన చర్యలను గుర్తించడంలో సహాయపడతాయి.
 
-Organizing Projects: Once you've defined the outcomes and actions for your projects, GTD provides guidance on organizing them. This includes creating project lists, specifying the desired outcomes, and listing the next actions required to make progress.
+ప్రాజెక్టులను నిర్వహించడం: మీరు మీ ప్రాజెక్టుల ఫలితాలను మరియు చర్యలను నిర్వచించిన తర్వాత, వాటిని నిర్వహించడానికి GTD మార్గదర్శకత్వం అందిస్తుంది.ఇది ప్రాజెక్ట్ జాబితాలను సృష్టించడం, కావలసిన ఫలితాలను పేర్కొనడం మరియు పురోగతి సాధించడానికి అవసరమైన తదుపరి చర్యలను జాబితా చేయడం.
 
-Project Support Material: Support materials for your projects, such as research notes, documents, or reference materials, should be organized and readily accessible. GTD suggests keeping these materials separate from your regular reference files to maintain clarity.
+ప్రాజెక్ట్ సపోర్ట్ మెటీరియల్: పరిశోధన గమనికలు, పత్రాలు లేదా రిఫరెన్స్ మెటీరియల్స్ వంటి మీ ప్రాజెక్టులకు సహాయక సామగ్రిని నిర్వహించాలి మరియు సులభంగా ప్రాప్యత చేయాలి.స్పష్టతను కొనసాగించడానికి ఈ పదార్థాలను మీ రెగ్యులర్ రిఫరెన్స్ ఫైళ్ళ నుండి వేరుగా ఉంచాలని GTD సూచిస్తుంది.
 
-The  Waiting For  List: Projects often involve collaboration with others. GTD recommends maintaining a  Waiting For  list to track commitments or tasks that are dependent on someone else's action or response.
-
+జాబితా కోసం వెయిటింగ్: ప్రాజెక్టులు తరచుగా ఇతరులతో సహకారాన్ని కలిగి ఉంటాయి.వేరొకరి చర్య లేదా ప్రతిస్పందనపై ఆధారపడిన కట్టుబాట్లు లేదా పనులను ట్రాక్ చేయడానికి జాబితా కోసం వేచి ఉండాలని GTD సిఫార్సు చేస్తుంది.

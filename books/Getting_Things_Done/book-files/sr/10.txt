@@ -1,25 +1,25 @@
-Episode 9: Reviewing: Keeping Your System Functional 
+Епизода 9: Преглед: Одржавање функције вашег система
 
-In  Getting Things Done  by David Allen, Part 2 explores the critical concept of reviewing, which is essential for maintaining a functional and effective productivity system. Here's what you need to know from this section:
+У остваривању ствари Давид Аллен, део 2 истражује критични концепт прегледе, што је неопходно за одржавање функционалног и ефикасног система продуктивности.Ево шта треба да знате из овог одељка:
 
-The Purpose of Regular Reviews: Regular reviews are the glue that holds your GTD system together. They ensure that your trusted organizational tools stay current and functional. The purpose of these reviews is to keep your commitments and tasks aligned with your goals and priorities.
+Сврха редовних прегледа: Редовне прегледе су лепак који заједнички држи ваш ГТД систем.Они осигуравају да ваше поуздане организационе алате остају актуелни и функционални.Сврха ових прегледа је да се ваше обавезе и задатке ускладе са вашим циљевима и приоритетима.
 
-Daily Mini-Review: A mini-review at the beginning and end of your day is essential. It allows you to reassess your commitments, update your to-do lists, and ensure that you're working on the most important tasks. It also helps you start and end your day with clarity.
+Дневна мини-преглед: Мини-ревиев на почетку и на крају вашег дана је од суштинског значаја.Омогућује вам да преиспитујете своје обавезе, ажурирате своје листе обавеза и осигурајте да радите на најважнијим задацима.Такође вам помаже да започнете и завршите свој дан са јасноћом.
 
-Weekly Review: The weekly review is the most crucial review session in the GTD methodology. Typically, it should take about 1-2 hours. During the weekly review, you go through several key steps:
+Недељни преглед: Недељни преглед је најважнија рецензија сесија у ГТД методологији.Обично би требало да траје око 1-2 сата.Током седмичног прегледа пролазите кроз неколико кључних корака:
 
-Collect Loose Papers: Gather any loose papers, notes, or items that need processing.
-Empty Your Head: Write down any new tasks, ideas, or commitments that have arisen during the week.
-Process Your Inboxes: Go through your physical and digital inboxes, clarifying and organizing the items they contain.
-Review Your Calendar: Review the past week and the upcoming week on your calendar to ensure you're aware of all appointments and deadlines.
-Review Your Projects: Go through each project and ensure that you have identified the next actions required to move them forward.
-Review Your  Waiting For  List: Follow up on any items you're waiting for from others.
-Review Your  Someday/Maybe  List: Reflect on any potential projects or ideas you may want to pursue in the future.
-Review Your Action Lists: Ensure that your next actions lists are up to date, and you have clear tasks to work on during the upcoming week.
-The Benefits of Regular Reviews: Regular reviews have several benefits. They help you:
+Сакупљајте лабаве папире: окупите све лабаве папире, белешке или ставке којима је потребна обрада.
+Испразните главу: Запишите све нове задатке, идеје или обавезе које су се појавиле током недеље.
+Процесујте своје пристигледне кутије: прођите кроз физичке и дигиталне поштанске сандучиће, појашњење и организовање предмета које садрже.
+Прегледајте свој календар: Прегледајте прошлу недељу и предстојећу недељу на календару како бисте осигурали да сте свесни свих састанка и рокова.
+Прегледајте своје пројекте: прођите кроз сваки пројекат и осигурајте да сте идентификовали следеће радње потребне за премјештање напред.
+Прегледајте своју листу чекања: Пратите било којих предмета које чекате од других.
+Прегледајте свој Сомедаи / можда листу: размислите о било којим потенцијалним пројектима или идејама које можда желите да наставите у будућности.
+Прегледајте своје акционе листе: Проверите да ли постоје следеће листе акција и имате јасне задатке да радите током наредне недеље.
+Предности редовних прегледа: Редовне прегледе имају неколико користи.Помажу вам:
 
-Maintain clarity and focus on your goals and priorities.
-Reduce the risk of missing deadlines or commitments.
-Identify any incomplete or stalled projects.
-Eliminate redundancy and ensure you're not duplicating efforts.
-Stay in control of your workload and reduce stress.
+Одржавајте јасноћу и фокусирајте се на своје циљеве и приоритете.
+Смањити ризик од недостајућих рокова или обавеза.
+Идентифицирајте било какве непотпуне или застојне пројекте.
+Елиминишите редундантност и осигурајте да не дуплирајте напоре.
+Останите на контроли свог радног оптерећења и смањите стрес.

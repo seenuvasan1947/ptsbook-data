@@ -1,18 +1,17 @@
-Episode 8: Organizing: Setting Up the Right Buckets 
+Епизода 8: Организовање: Подешавање правих канти
 
-In  Getting Things Done  by David Allen, Part 2 continues with the concept of organizing, specifically focusing on setting up the right organizational tools or  buckets  to manage your tasks and commitments effectively. Here's what you need to know from this section:
+У остваривању ствари Давид Аллен, 2. део наставља са концептом организовања, посебно фокусирајући на постављање правих организационих алата или канти за ефикасно управљање вашим задацима и обавезама.Ево шта треба да знате из овог одељка:
 
-The Need for Organizational Tools: Organizing is all about creating a structure to manage your tasks and commitments efficiently. David Allen emphasizes that you need appropriate tools, both physical and digital, to ensure nothing slips through the cracks.
+Потреба за организационим алатима: Организација је све о стварању структуре за ефикасно управљање вашим задацима и обавезама.Давид Аллен наглашава да вам је потребан одговарајући алати, и физички и дигитални, да бисте осигурали да се ништа не искриви кроз пукотине.
 
-The Key Lists and Buckets: There are several key lists or  buckets  that help you organize your work:
+Кључне листе и канте: Постоји неколико кључних листа или канти које вам помажу да организујете свој рад:
 
-Next Actions Lists: These are lists of tasks you can complete immediately. They are categorized based on context (e.g., office, home, phone) to make it easy to see what you can do in a specific situation.
-Projects Lists: Each project you have identified during processing should have a corresponding project list. This list tracks all the next actions required to move a project forward.
-Calendar: Use your calendar to schedule appointments, meetings, and any time-sensitive actions. Your calendar should only contain items with specific dates and times.
-Waiting For List: This list helps you keep track of tasks or commitments you are waiting for others to complete. It ensures that you follow up on these items as needed.
-Someday/Maybe List: Ideas, projects, or commitments that are not a priority at the moment but may be in the future should be recorded on this list.
-Reference Filing System: Create an organized reference system for storing information and materials you may need to refer to later.
-Choosing the Right Tools: The tools you choose for organizing can vary from physical notebooks and folders to digital apps and software. What's essential is that they fit your personal preferences and lifestyle. David Allen suggests that your tools should be easy to access, reliable, and tailored to your needs.
+Следеће листе радњи: Ово су спискове задатака које можете одмах завршити.Они су категорисани на основу контекста (нпр., Канцеларија, кући, телефона) како би олакшали да видите шта можете да урадите у одређеној ситуацији.
+Листе пројеката: Сваки пројекат који сте идентификовали током обраде требало би да има одговарајућу листу пројеката.Ова листа прати све следеће радње потребне за премештање пројекта напред.
+Календар: Користите свој календар да закажите именовања, састанке и било које временске радње.Ваш календар треба да садржи само ставке са специфичним датумима и временима.
+Чекање на листу: Ова листа вам помаже да пратите задатке или обавезе које чекате да други заврше.Осигурава да по потреби пратите ове ставке.
+Једног дана / можда листа: Идеје, пројекти или обавезе које тренутно нису приоритет, али могу бити у будућности, треба да се бележе на овој листи.
+Референтни систем за подношење: Креирајте организовани референтни систем за чување информација и материјала које ћете можда морати да се позабавите касније.
+Одабир правих алата: Алат који одаберете за организовање могу се разликовати од физичких преносних рачунара и мапа до дигиталних апликација и софтвера.Оно што је неопходно је да одговарају вашим личним преференцијама и стилу живота.Давид Аллен сугерише да би ваше алате требали бити лако приступити, поуздани и прилагођени вашим потребама.
 
-The Weekly Review: Maintaining your organizational system requires a regular review. The weekly review is a crucial GTD practice. During this time, you ensure all your lists are up to date, reevaluate your priorities, and adjust your commitments and projects as needed.
-
+Недељни преглед: Одржавање организационог система захтева редован преглед.Недељни преглед је пресудна ГТД пракса.Током овог времена осигуравате да све ваше листе буду ажуриране, преиспитујте своје приоритете и прилагодите своје обавезе и пројекте по потреби.
