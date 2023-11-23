@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+حصہ 3: آٹومیشن
 
-Episode 8: The Subtraction Principle
+قسط 8: گھٹاؤ کا اصول
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+تیمتھیس فیرس کے 4 گھنٹے کے ورک ویک میں ، گھٹاؤ کا اصول معاہدے کے فریم ورک کے خودکار حصے میں ایک کلیدی تصور ہے۔اس اصول پر اس خیال پر توجہ دی گئی ہے کہ زیادہ سے زیادہ حاصل کرنے کے لئے لازمی طور پر زیادہ کام کرنے کی ضرورت نہیں ہے۔اس میں اکثر کم کرنا شامل ہوتا ہے لیکن اعلی سطح کی تاثیر اور کارکردگی کے ساتھ۔گھٹاؤ کے اصول سے کلیدی راستہ یہ ہیں:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+80/20 اصول پر نظرثانی کی گئی: فیرس نے 80/20 اصول کو دوبارہ پیش کیا ، جسے پیرٹو اصول کے نام سے بھی جانا جاتا ہے ، جس میں کہا گیا ہے کہ تقریبا 80 80 ٪ نتائج 20 ٪ کوششوں سے آتے ہیں۔اس اصول کو لاگو کرنے کا مطلب یہ ہے کہ اہم چند سرگرمیوں یا کاموں کی نشاندہی کرنا جو انتہائی اہم نتائج برآمد کرتے ہیں اور ان پر توجہ مرکوز کرتے ہیں۔
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+انتخابی لاعلمی: پہلے متعارف کروائے گئے انتخابی جہالت کے تصور پر عمل کرتے ہوئے ، فیرس تجویز کرتا ہے کہ جس چیز پر آپ توجہ مرکوز کرنے کا انتخاب کرتے ہیں اس کے بارے میں انتخابی ہونے سے آپ کی پیداوری میں ڈرامائی طور پر اضافہ ہوسکتا ہے۔غیر ضروری کاموں اور خلفشار کو نظرانداز یا تفویض کرنا آپ کو اپنی توانائی کو اعلی اثر کی سرگرمیوں میں تبدیل کرنے کی اجازت دیتا ہے۔
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+پارکنسن کا قانون: فیرس نے پارکنسن کے قانون کا تذکرہ کیا ، جس میں کہا گیا ہے کہ اس کی تکمیل کے لئے دستیاب وقت کو بھرنے کے لئے کام پھیلتا ہے۔سخت ڈیڈ لائن طے کرکے اور مصنوعی رکاوٹیں پیدا کرکے ، آپ اپنی کارکردگی میں اضافہ کرسکتے ہیں اور کاموں کو زیادہ تیزی سے انجام دے سکتے ہیں۔
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+معلومات کے آدانوں کو محدود کرنا: معلومات کے ساتھ اپنے آپ کو اوورلوڈ کرنے سے فیصلے کی تھکاوٹ اور پیداواری صلاحیت میں کمی واقع ہوسکتی ہے۔گھٹاؤ کا اصول آپ کو صرف ان معلومات کو محدود کرنے کا مشورہ دیتا ہے جو آپ کے اہداف اور فیصلہ سازی کے لئے ضروری ہے۔
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+بیچ پروسیسنگ: فیرس نے اسی طرح کے کاموں کو ایک ساتھ بیچنے اور ان کو مکمل کرنے کے لئے مخصوص ٹائم بلاکس کو وقف کرنے کی سفارش کی ہے۔اس سے سیاق و سباق کو کم سے کم کیا جاتا ہے اور کارکردگی میں اضافہ ہوتا ہے۔
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+کم سے کم موثر بوجھ: زیادہ کرنے کی کوشش کرنے کے بجائے ، کم کرنے کا مقصد لیکن اسے موثر انداز میں انجام دیں۔مطلوبہ نتیجہ حاصل کرنے کے لئے درکار کم سے کم کوشش کا تعین کریں اور اس سطح پر کام پر توجہ دیں۔
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+انتخابی اہداف: اہداف اور اہداف کا تعین کرنے میں ، انتہائی منتخب ہوں۔ان مقاصد کا انتخاب کریں جو آپ کی زندگی کے مجموعی وژن اور ترجیحات کے مطابق ہوں۔گھٹاؤ کے اصول میں اہداف کو ختم کرنا شامل ہے جو آپ کے لئے حقیقی طور پر اہم نہیں ہیں۔

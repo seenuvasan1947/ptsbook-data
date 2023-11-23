@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+3 වන කොටස: ස්වයංක්රීයකරණය
 
-Episode 8: The Subtraction Principle
+කථාංගය 8: උප මූලික මූලධර්මය
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+තිමෝති ෆෙරීස් විසින් පැය 4 ක වැඩ සතිය තුළ, මන්දපතේ මූලධර්මය, උපුටා දැක්වීමේ මූලධර්මය ගනුදෙනු ගනුදෙනු රාමුවේ ස්වයංක්රීය ආක්රමණයේ ප්රධාන සංකල්පයකි.මෙම මූලධර්මය වැඩි යමක් සාක්ෂාත් කර ගැනීම අවශ්ය නොවන බව සැලකිය යුතු ලෙස වැඩ කිරීම අවශ්ය නොවන අදහස කෙරෙහි අවධානය යොමු කරයි;එය බොහෝ විට අඩු වීම හෝ ඉහළ මට්ටමේ effectiveness ලදායීතාවයක් සහ කාර්යක්ෂමතාවයකින් යුක්ත වේ.උපුටා දැක්වීමේ මූලධර්මයෙහි ප්රධාන ගමනක් මෙන්න:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+80/20 මූලධර්මය නැවත සලකා බැලීය: ෆෙරීස් නැවත හඳුන්වා දී ඇත්තේ 80/20 මූලධර්මය නැවත හඳුන්වා දීම, පැරේටෝ මූලධර්මය ලෙසද, දළ වශයෙන් 80% ක් උත්සාහයෙන් 20% ක්ම පැමිණෙන බවයි.මෙම මූලධර්මය අනුගමනය කිරීම යන්නෙන් අදහස් කරන්නේ වඩාත්ම වැදගත් ප්රති results ල නිපදවීම සහ ඒවා කෙරෙහි අවධානය යොමු කරන අත්යවශ්ය ක්රියාකාරකම් හෝ කාර්යයන් හඳුනා ගැනීමයි.
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+තෝරාගත් නොදැනුවත්කම: කලින් හඳුන්වා දුන් තෝරාගත් නොදැනුවත්කම පිළිබඳ සංකල්පයක් කලින් හඳුන්වා දීමෙන් පෙර, ෆෙරිස් යෝජනා කරන්නේ ඔබ අවධානය යොමු කිරීමට තෝරා ගන්නා දේ පිළිබඳව තෝරා බේරා කටයුතු කිරීම ඔබේ tivity ලදායිතාව නාටකාකාර ලෙස වැඩි කළ හැකිය.අත්යවශ්ය නොවන කාර්යයන් නොසලකා හැරීම හෝ පැවරීම සහ අවධානය වෙනතකට යොමු කිරීම ඔබේ ශක්තිය ඉහළ බලපෑම් සහිත ක්රියාකාරකම් වලට යොමු කිරීමට ඉඩ ලබා දේ.
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+පාකින්සන්ගේ නීතිය: ෆෙරිස් විසින් පාර්සින්සන්ගේ නීතිය ගැන සඳහන් කරන අතර, එහි සඳහන් වන්නේ එය අවසන් වීමට ගතවන කාලය පිරවීම සඳහා වැඩ පුළුල් වන බවයි.දැඩි කාලසීමාවන් නියම කිරීමෙන් සහ කෘතිම බාධාවන් නිර්මාණය කිරීමෙන් ඔබට ඔබේ කාර්යක්ෂමතාව වැඩි කර කාර්යයන් වඩාත් ඉක්මණින් ඉටු කළ හැකිය.
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+තොරතුරු යෙදවුම් සීමා කිරීම: තොරතුරු සමඟ ඔබම බර පැටවීම තීරණාත්මක තෙහෙට්ටුව සහ tivity ලදායිතාව අඩු කිරීමට හේතු වේ.උපුටා දැක්වීමේ මූලධර්මය මඟින් ඔබේ අරමුණු හා තීරණ ගැනීම අවශ්ය දේ පමණක් ලබා ගත හැකි තොරතුරු සීමා කිරීම සඳහා උපදෙස් දෙයි.
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+කණ්ඩායම් සැකසීම: ෆෙරස් සමාන කාර්යයන් එකට එකතු කර ඒවා සම්පූර්ණ කිරීම සඳහා නිශ්චිත කාල කුටි කැප කිරීම නිර්දේශ කරයි.මෙය සන්දර්භය මාරු කිරීම සහ කාර්යක්ෂමතාව වැඩි කරයි.
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+අවම effective ලදායී බර: වැඩි යමක් කිරීමට උත්සාහ කරනවා වෙනුවට, අඩුවෙන් වෙහෙසට පත් වීම, නමුත් එය effectively ලදායී ලෙස කරන්න.අපේක්ෂිත ප්රති result ලයක් ලබා ගැනීම සඳහා අවශ්ය අවම උත්සාහය තීරණය කර එම මට්ටමේ වැඩ කෙරෙහි අවධානය යොමු කරන්න.
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+තෝරාගත් ඉලක්ක: අරමුණු සහ ඉලක්ක සකස් කිරීමේදී, ඉහළ තෝරා ගැනීමක් කරන්න.ඔබේ සමස්ත ජීවන දැක්ම හා ප්රමුඛතා සමඟ පෙළ ගැසෙන අරමුණු තෝරන්න.මන්දගාමී මූලධර්මය යනු ඔබට අව්යාජ වැදගත් නොවන ඉලක්ක ඉවත් කිරීමයි.

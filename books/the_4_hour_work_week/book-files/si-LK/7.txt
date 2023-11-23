@@ -1,18 +1,17 @@
-Episode 6: Define: The Art of Time Management
+කථාංග 6: නිර්වචනය: කාල කළමනාකරණයේ කලාව
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the chapter titled  Define: The Art of Time Management  is an essential part of the DEAL framework, which aims to help you break free from the traditional work paradigm and design a life of your choosing. In this episode, we'll delve into the key concepts from this chapter:
+තිමෝති ෆෙරිස් විසින් නිර්වචනය කරන ලද පැය 4 ක වැඩ සතිය තුළ, නිර්වචනය කරන ලද පරිච්ඡේදයේ: කාල කළමනාකරණයේ කලාව සාම්ප්රදායික වැඩ පරමාදර්ශී වලින් මිදීමට සහ ඔබ තෝරාගත් ජීවිතයක් නිර්මාණය කිරීමට උපකාරී වේ.මෙම කථාංගයේ දී, අපි මෙම පරිච්ඡේදයෙන් ප්රධාන සංකල්ප ගැන සොයා බලමු.
 
-The Parkinson's Law Challenge: Ferriss introduces readers to Parkinson's Law, which states that work expands to fill the time available for its completion. In the context of time management, this law implies that if you have a week to complete a task, it will likely take you a week to finish it. Ferriss challenges the conventional belief that more time equates to better results and suggests a paradigm shift.
+පාකින්සන්ගේ නීති අභියෝගය: ෆෙරිස් පාකින්සන්ගේ නීතියට පා readers කයන් හඳුන්වා දෙයි. එහි සඳහන් වන්නේ එය අවසන් කිරීමට ගතවන කාලය පිරවීම සඳහා වැඩ පුළුල් වන බවයි.කාල කළමනාකරණයේ සන්දර්භය තුළ, මෙම නීතියෙන් ඇඟවෙන්නේ ඔබට යම් කාර්යයක් සම්පූර්ණ කිරීමට සතියක් තිබේ නම්, එය අවසන් කිරීමට ඔබට සතියක් ගතවනු ඇති බවයි.වඩා හොඳ ප්රති results ල ලබා දෙන වැඩි කාලයක් වැඩි වන අතර පරමාදර්ශී මාරුවක් යෝජනා කරන සාම්ප්රදායික විශ්වාසයට ෆෙරීන්ස් අභියෝග කරයි.
 
-The 80/20 Principle (Pareto Principle): This principle asserts that 80% of outcomes result from 20% of causes. Ferriss applies this principle to time management, suggesting that 20% of activities often yield 80% of your desired outcomes. The key is to identify these high-impact tasks and focus on them while minimizing low-impact or time-wasting activities.
+80/20 මූලධර්මය (පැරේටෝ මූලධර්මය): මෙම මූලධර්මය මඟින් ප්රති come ලවලින් 80% ක් ප්රති come ලවලින් 20% ක දෙයකින් සිදුවන බව මෙම මූලධර්මය ප්රකාශ කරයි.ෆෙරිස් මෙම මූලධර්මය මෙම මූලධර්මය කළමනාකරණය කරන්නේ කාල කළමනාකරණයට අනුව, ක්රියාකාරකම් වලින් 20% ක් බොහෝ විට ඔබ අපේක්ෂිත ප්රති come ලවලින් 80% ක් ලබා දෙන බවයි.ප්රධාන දෙය නම් අඩු බලපෑම හෝ කාල-වස්ත්ර හා කාල-වස්ත්ර ක්රියා කිරීම අවම කරන අතරම මෙම අධි-බලපෑම් කාර්යයන් හඳුනා ගැනීම සහ ඒවා කෙරෙහි අවධානය යොමු කිරීමයි.
 
-Time Targets and Personal Efficiency Analysis: Ferriss proposes setting clear time targets for completing tasks or projects. For instance, if a project typically takes a month, challenge yourself to complete it in a week. To do this, you must identify bottlenecks and time-consuming elements and find ways to eliminate or streamline them.
+කාල ඉලක්ක සහ පුද්ගලික කාර්යක්ෂමතා විශ්ලේෂණය: කාර්යයන් හෝ ව්යාපෘති සම්පූර්ණ කිරීම සඳහා පැහැදිලි කාලයක් ඉලක්ක සැකසීම සඳහා ෆෙරස් යෝජනා කරයි.නිදසුනක් වශයෙන්, ව්යාපෘතියක් සාමාන්යයෙන් මාසයක් ගත වන්නේ නම්, සතියකින් එය සම්පූර්ණ කිරීමට ඔබට අභියෝග කරන්න.මෙය සිදු කිරීම සඳහා, ඔබ බාධක සහ කාලය ගතවන මූලද්රව්ය හඳුනාගෙන ඒවා තුරන් කිරීමට හෝ විධිමත් කිරීමට ක්රම සොයා ගත යුතුය.
 
-Two Steps to Being More Productive: Ferriss outlines two essential steps for becoming more productive:
+වඩාත් tive ලදායී වීමට පියවර දෙකක්: ෆෙරින්ස් වඩාත් tive ලදායී වීමට අත්යවශ්ය පියවර දෙකක් ගෙනහැර දක්වයි:
 
-Limit Tasks: Choose only the tasks that contribute significantly to your goals, and let go of those that don't. This principle aligns with the earlier concept of selective ignorance.
-Batch Tasks: Group similar tasks together and tackle them during designated blocks of time. This minimizes context switching and enhances productivity.
-The Low-Information Diet: Ferriss advises reducing your consumption of low-value information, such as news, email, and excessive social media scrolling. He suggests setting specific times for checking email or consuming news to avoid becoming overwhelmed by information that doesn't contribute to your goals.
+සීමා කිරීමේ කාර්යයන්: ඔබේ අරමුණු වලට සැලකිය යුතු දායකත්වයක් ලබා දෙන කාර්යයන් පමණක් තෝරාගෙන, එසේ නොකරන ඒවා අතහැර දැමීමට ඉඩ දෙන්න.මෙම මූලධර්මය තෝරාගත් නොදැනුවත්කම පිළිබඳ කලින් සංකල්පය සමඟ එක් කරයි.
+කණ්ඩායම් කාර්යයන්: සමාන කාර්යයන් එකට එකතු කර ඒවා නම් කරන ලද කාලවලදී ඒවා විසඳා ගන්න.මෙය සන්දර්භය මාරු කිරීම සහ tivity ලදායිතාව වැඩි කරයි.
+අඩු තොරතුරු ආහාර: ප්රවෘත්ති, ඊමේල් සහ අධික සමාජ මාධ්ය අනුචලනය වැනි අඩු වටිනාකම් පිළිබඳ තොරතුරු ඔබේ පරිභෝජනය අඩු කිරීම.ඔබේ අරමුණු වලට දායක නොවන තොරතුරු වලින් යටවීම වළක්වා ගැනීම සඳහා ඊමේල් හෝ ප්රවෘත්ති පරිභෝජනය කිරීම සඳහා ඊමේල් පරීක්ෂා කිරීම සඳහා නිශ්චිත වේලාවන් පරීක්ෂා කිරීම සඳහා නිශ්චිත වේලාවන් සැකසීමට ඔහු යෝජනා කරයි.
 
-The Art of Time Arbitrage: Ferriss introduces the idea of  time arbitrage,  which involves taking advantage of the discrepancy between different markets or time zones. For example, outsourcing work to countries with lower labor costs can save you time and money.
-
+කාලයාගේ කලාව බේරුම්කරණය: ෆෙරින්ස් විවිධ වෙළඳපලවල් හෝ කාල කලාප අතර විෂමතාවයෙන් ප්රයෝජන ගැනීම ඇතුළත් කාල බේරුම්තාව පිළිබඳ අදහසයි.නිදසුනක් වශයෙන්, අඩු ශ්රම පිරිවැය සහිත රටවලට බාහිරින් වැඩ කිරීමෙන් ඔබට කාලය හා මුදල් ඉතිරි කර ගත හැකිය.

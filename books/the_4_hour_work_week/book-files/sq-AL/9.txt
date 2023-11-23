@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+Pjesa 3: Automatizimi
 
-Episode 8: The Subtraction Principle
+Episodi 8: Parimi i Zbritjes
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+Në javën e punës 4-orëshe nga Timothy Ferriss, parimi i zbritjes është një koncept kryesor në seksionin Automate të Kornizës së Marrëveshjeve.Ky parim përqendrohet në idenë se arritja e më shumë nuk kërkon domosdoshmërisht të bësh më shumë;Shpesh përfshin të bësh më pak por me një nivel më të lartë të efektivitetit dhe efikasitetit.Këtu janë marrjet kryesore nga parimi i zbritjes:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+80/20 Parimi i rishikuar: Ferriss rivendos parimin 80/20, i njohur gjithashtu si parimi Pareto, i cili thotë se afërsisht 80% e rezultateve vijnë nga 20% e përpjekjeve.Zbatimi i këtij parimi nënkupton identifikimin e aktiviteteve ose detyrave të pakta jetike që prodhojnë rezultatet më domethënëse dhe përqëndrimi në to.
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+Injoranca selektive: Ndërtimi i nocionit të injorancës selektive të prezantuar më herët, Ferriss sugjeron që të qenit selektiv në lidhje me atë që ju zgjidhni të përqendroheni mund të rrisë në mënyrë dramatike produktivitetin tuaj.Injorimi ose delegimi i detyrave dhe shpërqendrimeve jo thelbësore ju lejon të kanalizoni energjinë tuaj në aktivitete me ndikim të lartë.
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+Ligji i Parkinsonit: Ferriss përmend ligjin e Parkinsonit, i cili thotë se puna zgjerohet për të mbushur kohën e disponueshme për përfundimin e tij.Duke vendosur afate të ngushta dhe duke krijuar kufizime artificiale, ju mund të rritni efikasitetin tuaj dhe të arrini detyrat më shpejt.
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+Kufizimi i Inputeve të Informacionit: Mbingarkimi i vetes me informacion mund të çojë në lodhje të vendimeve dhe të zvogëlojë produktivitetin.Parimi i zbritjes këshillon kufizimin e informacionit që ju konsumoni vetëm atë që është e nevojshme për qëllimet tuaja dhe vendimmarrjen.
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+Përpunimi i grupeve: Ferriss rekomandon të grumbulloni detyra të ngjashme së bashku dhe të kushtoni blloqe specifike kohore për t'i përfunduar ato.Kjo minimizon ndërrimin e kontekstit dhe rrit efikasitetin.
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+Ngarkesa minimale efektive: Në vend që të përpiqeni të bëni më shumë, synoni të bëni më pak, por ta bëni atë në mënyrë efektive.Përcaktoni sasinë minimale të përpjekjeve të kërkuara për të arritur një rezultat të dëshiruar dhe të përqendroheni në atë nivel të punës.
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+Synimet selektive: Në përcaktimin e qëllimeve dhe objektivave, jini shumë selektiv.Zgjidhni objektivat që përputhen me vizionin tuaj të përgjithshëm të jetës dhe përparësitë.Parimi i zbritjes përfshin eleminimin e qëllimeve që nuk janë vërtet të rëndësishme për ju.

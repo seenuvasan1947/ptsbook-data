@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+ഭാഗം 3: ഓട്ടോമേഷൻ
 
-Episode 8: The Subtraction Principle
+എപ്പിസോഡ് 8: കുറയ്ക്കൽ തത്ത്വം
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+തിമൊഥെയൊസ് ഫെറസ് തിമോത്തി ഫെറസ് വഴി 4 മണിക്കൂർ വർക്ക്വീക്കിൽ, ഇടപാടിന്റെ ചട്ടക്കൂടിന്റെ യാന്ത്രിക വിഭാഗത്തിലെ ഒരു പ്രധാന ആശയമാണ് കുറവിന്റെ തത്വം.കൂടുതൽ നേടാനുള്ള ആശയം കൂടുതൽ നേടാം എന്ന ആശയത്തെ ഈ തത്ത്വം ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നു;പലപ്പോഴും അതിൽ കുറവ് ചെയ്യുന്നതും എന്നാൽ ഉയർന്ന അളവിലും കാര്യക്ഷമതയോടും കൂടിയാണ്.കുറയ്ക്കൽ തത്വത്തിൽ നിന്നുള്ള പ്രധാന ടേജുകൾ ഇതാ:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+80/20 തത്വത്തെ വീണ്ടും സന്ദർശിച്ചു: ഫെറിസ് 80/20 തത്വം പുന in സ്ഥാപിക്കുന്നു, പരമൂതാവോ തത്ത്വം എന്നറിയപ്പെടുന്നു, ഇത് ഏകദേശം 80% ഫലങ്ങൾ 20% ശ്രമങ്ങളിൽ നിന്നാണ്.ഈ തത്ത്വം പ്രയോഗിക്കുന്നത് എന്നാൽ ഏറ്റവും പ്രധാനപ്പെട്ട ഫലങ്ങൾ സൃഷ്ടിക്കുന്നതും അവയിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നതുമായ ചില പ്രവർത്തനങ്ങളോ ജോലികളോ തിരിച്ചറിയുക എന്നതാണ്.
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+സെലക്ടീവ് അജ്ഞത: സെലക്ടീവ് അജ്ഞത കൈവരിച്ച ഒരു ധാരണയിൽ, ഫെറിസ് സൂചിപ്പിക്കുന്നത്, നിങ്ങൾ ശ്രദ്ധ കേന്ദ്രീകരിക്കാൻ തിരഞ്ഞെടുക്കുന്നതിനെക്കുറിച്ച് തിരഞ്ഞെടുക്കപ്പെടുന്നതാണെന്ന് തിരഞ്ഞെടുക്കാൻ ഫെറിസ് നിർദ്ദേശിക്കുന്നു നിങ്ങളുടെ ഉൽപാദനക്ഷമതയെ നാടകീയമായി വർദ്ധിപ്പിക്കും.അനിവാര്യതയില്ലാത്ത ജോലികളെ അവഗണിക്കുകയോ ഇല്ലാതാക്കുകയോ ചെയ്യുന്നു, നിങ്ങളുടെ energy ർജ്ജം ഉയർന്ന ഇംപാക്റ്റ് പ്രവർത്തനങ്ങളിലേക്ക് നയിക്കാൻ നിങ്ങളെ അനുവദിക്കുന്നു.
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+പാർക്കിൻസണിന്റെ നിയമം: ഫെററിസ് പാർക്കിൻസൺസ് നിയമം പരാമർശിക്കുന്നു, ഇത് പ്രവർത്തനങ്ങൾ പൂർത്തിയാക്കുന്നതിന് ലഭ്യമായ സമയം പൂരിപ്പിക്കുന്നതിന് വർക്ക് വികസിപ്പിക്കുന്നു.ഇറുകിയ സമയപരിധി നിശ്ചയിക്കുന്നതിലൂടെയും കൃത്രിമ പരിമിതികൾ സൃഷ്ടിക്കുന്നതിലൂടെ, നിങ്ങൾക്ക് നിങ്ങളുടെ കാര്യക്ഷമത വർദ്ധിപ്പിക്കുകയും കൂടുതൽ വേഗത്തിൽ ജോലി പൂർത്തിയാക്കുകയും ചെയ്യാം.
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+വിവര ഇൻപുട്ടുകൾ പരിമിതപ്പെടുത്തുന്നു: വിവരങ്ങളുമായി സ്വയം പ്രവർത്തിക്കുന്നത് തീരുമാനം ക്ഷീണത്തിനും ഉൽപാദനക്ഷമത കുറയ്ക്കും.നിങ്ങളുടെ ലക്ഷ്യങ്ങൾക്കും തീരുമാനമെടുക്കലിനും ആവശ്യമായ വിവരങ്ങൾ പരിമിതപ്പെടുത്തുന്ന വിവരങ്ങൾ പരിമിതപ്പെടുത്തുന്നതിന് കുറയ്ക്കൽ തത്വത്തെ ഉപദേശിക്കുന്നു.
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+ബാച്ച് പ്രോസസ്സിംഗ്: സമാനമായ ജോലികൾ ബാറ്റ് ചെയ്യുന്നതിനും അവ പൂർത്തിയാക്കാൻ നിർദ്ദിഷ്ട സമയ ബ്ലോക്കുകൾ സമർപ്പിക്കുന്നതെന്നും ഫെറിസ് ശുപാർശ ചെയ്യുന്നു.ഇത് സന്ദർഭം മാറുന്നു, കാര്യക്ഷമത വർദ്ധിപ്പിക്കുന്നു.
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+കുറഞ്ഞ ഫലപ്രദമായ ലോഡ്: കൂടുതൽ ചെയ്യാൻ ശ്രമിക്കുന്നതിനുപകരം, കുറച്ച് ചെയ്യാൻ ലക്ഷ്യമിടുകയല്ലാതെ അത് ഫലപ്രദമായി ചെയ്യുക.ആവശ്യമുള്ള ഫലം നേടുന്നതിനും ആ നിലയിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നതിനും ആവശ്യമായ ഏറ്റവും കുറഞ്ഞ പരിശ്രമം നിർണ്ണയിക്കുക.
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+സെലക്ടീവ് ടാർഗെറ്റുകൾ: ലക്ഷ്യങ്ങളും ടാർഗെറ്റുകളും സജ്ജമാക്കുന്നതിന്, വളരെ സെലക്ടീവ് ആയിരിക്കുക.നിങ്ങളുടെ മൊത്തത്തിലുള്ള ജീവിത കാഴ്ചപ്പാടും മുൻഗണനകളുമായും വിന്യസിക്കുന്ന ലക്ഷ്യങ്ങൾ തിരഞ്ഞെടുക്കുക.നിങ്ങൾക്ക് ആത്മാർത്ഥമായി പ്രധാനം ലഭിക്കാത്ത ലക്ഷ്യങ്ങൾ ഇല്ലാതാക്കുന്നതിലൂടെ കുറയ്ക്കൽ തത്ത്വം ഉൾപ്പെടുന്നു.

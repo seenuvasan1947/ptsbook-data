@@ -1,18 +1,17 @@
-Episode 2: Rules That Change the Rules
+ตอนที่ 2: กฎที่เปลี่ยนกฎ
 
-In this episode, we delve into the second chapter of  The 4-Hour Workweek  by Timothy Ferriss, titled  Rules That Change the Rules.  Ferriss introduces the concept of the New Rich (NR) as individuals who have created their own rules and lifestyle design to achieve maximum freedom and enjoyment in life.
+ในตอนนี้เราเจาะลึกลงไปในบทที่สองของสัปดาห์ทำงาน 4 ชั่วโมงโดย Timothy Ferriss ชื่อกฎที่เปลี่ยนกฎFerriss แนะนำแนวคิดของ Rich (NR) ใหม่ในฐานะบุคคลที่ได้สร้างกฎและการออกแบบวิถีชีวิตของตนเองเพื่อให้ได้อิสรภาพสูงสุดและความเพลิดเพลินในชีวิต
 
-Here are the key points from this chapter:
+นี่คือประเด็นสำคัญจากบทนี้:
 
-Time Management: Ferriss emphasizes that the traditional 9-to-5 work model doesn't equate to productivity. He introduces Parkinson's Law, which states that work expands to fill the time available for its completion. This means that if you have eight hours to complete a task, it will take eight hours, but if you have only two hours, it will take two hours. NR individuals use this law to their advantage by setting shorter deadlines for tasks.
+การจัดการเวลา: Ferriss เน้นว่ารูปแบบการทำงาน 9 ถึง 5 แบบดั้งเดิมไม่ได้เท่ากับผลผลิตเขาแนะนำกฎหมายของพาร์กินสันซึ่งระบุว่างานขยายเพื่อเติมเต็มเวลาที่มีให้เสร็จสมบูรณ์ซึ่งหมายความว่าหากคุณมีเวลาแปดชั่วโมงในการทำงานให้เสร็จมันจะใช้เวลาแปดชั่วโมง แต่ถ้าคุณมีเวลาเพียงสองชั่วโมงจะใช้เวลาสองชั่วโมงบุคคล NR ใช้กฎหมายนี้เพื่อประโยชน์ของพวกเขาโดยกำหนดกำหนดเวลาที่สั้นกว่าสำหรับงาน
 
-The 80/20 Principle: Ferriss introduces the Pareto Principle, which suggests that 80% of results come from 20% of efforts. NR individuals focus on the vital few tasks that yield the most significant results and eliminate or delegate the rest.
+หลักการ 80/20: Ferriss แนะนำหลักการ Pareto ซึ่งแสดงให้เห็นว่า 80% ของผลลัพธ์มาจาก 20% ของความพยายามบุคคล NR มุ่งเน้นไปที่งานไม่กี่อย่างที่ให้ผลลัพธ์ที่สำคัญที่สุดและกำจัดหรือมอบหมายส่วนที่เหลือ
 
-Selective Ignorance: NR individuals are highly selective about the information they consume. They avoid drowning in information overload and focus on what's essential to their goals.
+การเลือกความไม่รู้: บุคคล NR มีการคัดเลือกอย่างมากเกี่ยวกับข้อมูลที่พวกเขาบริโภคพวกเขาหลีกเลี่ยงการจมน้ำในข้อมูลมากเกินไปและมุ่งเน้นไปที่สิ่งที่จำเป็นต่อเป้าหมายของพวกเขา
 
-Time Outsourcing: Ferriss introduces the concept of outsourcing tasks that others can do better or more efficiently. Virtual assistants and freelancers can handle various tasks, freeing up your time.
+การเอาท์ซอร์สเวลา: Ferriss แนะนำแนวคิดของงานเอาท์ซอร์สที่คนอื่นสามารถทำได้ดีกว่าหรือมีประสิทธิภาพมากขึ้นผู้ช่วยเสมือนจริงและนักแปลอิสระสามารถจัดการงานต่าง ๆ ทำให้เวลาของคุณเพิ่มขึ้น
 
-The Art of Time Travel: Ferriss suggests asking,  What would you do if you had a month to live?  to identify your true priorities and values. This exercise helps you focus on what truly matters.
+ศิลปะแห่งการเดินทางข้ามเวลา: Ferriss แนะนำให้ถามว่าคุณจะทำอย่างไรถ้าคุณมีเวลาหนึ่งเดือน?เพื่อระบุลำดับความสำคัญและค่านิยมที่แท้จริงของคุณแบบฝึกหัดนี้ช่วยให้คุณมุ่งเน้นไปที่สิ่งที่สำคัญอย่างแท้จริง
 
-Dreamlining: Dreamlining is the process of setting specific goals for your ideal life and identifying the costs associated with those dreams. This exercise makes your goals more tangible and achievable.
-
+Dreamlining: Dreamlining เป็นกระบวนการของการกำหนดเป้าหมายที่เฉพาะเจาะจงสำหรับชีวิตในอุดมคติของคุณและระบุค่าใช้จ่ายที่เกี่ยวข้องกับความฝันเหล่านั้นแบบฝึกหัดนี้ทำให้เป้าหมายของคุณเป็นรูปธรรมและทำได้มากขึ้น

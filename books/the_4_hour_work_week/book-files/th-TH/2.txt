@@ -1,10 +1,9 @@
-Part 1: DEAL
+ส่วนที่ 1: จัดการ
 
-Episode 1: The New Rich
+ตอนที่ 1: The New Rich
 
-In the opening of  The 4-Hour Workweek,  author Timothy Ferriss introduces readers to the concept of the  New Rich  (NR). He challenges conventional notions of retirement, urging individuals to create a life of adventure and excitement now rather than deferring it to old age. Ferriss argues that the NR prioritize time, experiences, and mobility over traditional wealth accumulation.
+ในการเปิดงาน Workweek 4 ชั่วโมงผู้เขียน Timothy Ferriss แนะนำผู้อ่านเกี่ยวกับแนวคิดของ Rich ใหม่ (NR)เขาท้าทายแนวคิดการเกษียณอายุแบบดั้งเดิมกระตุ้นให้บุคคลสร้างชีวิตแห่งการผจญภัยและความตื่นเต้นในขณะนี้แทนที่จะเลื่อนเวลาไปจนถึงวัยชราเฟอร์ริสระบุว่า NR จัดลำดับความสำคัญของเวลาประสบการณ์และการเคลื่อนไหวมากกว่าการสะสมความมั่งคั่งแบบดั้งเดิม
 
-The NR lifestyle revolves around the idea of  time arbitrage,  exploiting the discrepancy between the currency of money and the currency of time. Ferriss shares his personal journey of moving from the 9-to-5 grind to a life of adventure and minimal work hours, and he emphasizes that the first step is changing one's mindset.
+วิถีชีวิตของ NR หมุนรอบความคิดของการเก็งกำไรเวลาโดยใช้ประโยชน์จากความคลาดเคลื่อนระหว่างสกุลเงินของเงินและสกุลเงินของเวลาFerriss แบ่งปันการเดินทางส่วนตัวของเขาในการย้ายจากการบด 9 ถึง 5 ไปสู่ชีวิตของการผจญภัยและเวลาทำงานน้อยที่สุดและเขาเน้นว่าขั้นตอนแรกคือการเปลี่ยนความคิดของคน ๆ หนึ่ง
 
-Ferriss introduces the  DEAL  framework, which stands for Definition, Elimination, Automation, and Liberation. This framework forms the backbone of the book and is essential for achieving a 4-hour workweek. It involves defining clear goals, eliminating time-wasting activities, automating processes, and ultimately liberating oneself from the traditional workweek.
-
+Ferriss แนะนำกรอบการจัดการซึ่งหมายถึงคำจำกัดความการกำจัดระบบอัตโนมัติและการปลดปล่อยเฟรมเวิร์กนี้เป็นกระดูกสันหลังของหนังสือและเป็นสิ่งจำเป็นสำหรับการบรรลุผลงานสัปดาห์ 4 ชั่วโมงมันเกี่ยวข้องกับการกำหนดเป้าหมายที่ชัดเจนกำจัดกิจกรรมที่เสียเวลากระบวนการอัตโนมัติและในที่สุดก็ปลดปล่อยตัวเองออกจากงานแบบดั้งเดิม

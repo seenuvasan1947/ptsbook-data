@@ -1,20 +1,19 @@
-Part 2: AUTOMATION
+2 වන කොටස: ස්වයංක්රීයකරණය
 
-Episode 3: Spotting the Losers: An Overview
+කථාංග 3: පරාජිතයින් හඳුනා ගැනීම: දළ විශ්ලේෂණයක්
 
-In this episode, we dive into the second part of  The 4-Hour Workweek  by Timothy Ferriss, which focuses on the second step of the DEAL framework: Automation. Specifically, we explore the chapter titled  Spotting the Losers: An Overview. 
+මෙම කථාංගයේ දී, තිමෝති ෆෙරීස් විසින් පැය 4 ක වැඩ සතියේ දෙවන කොටසට අපි කිමිදෙන අතර එය ගනුදෙනු රාමුවේ දෙවන පියවර කෙරෙහි අවධානය යොමු කරයි: ස්වයංක්රීයකරණය.විශේෂයෙන්ම, පරාජිතයින් හඳුනාගත් පරිච්ඡේදය අපි ගවේෂණය කරමු: දළ විශ්ලේෂණයක්.
 
-In this chapter, Ferriss discusses the importance of identifying and eliminating time-wasting activities and low-value tasks in your life. Here are the key points from this chapter:
+මෙම පරිච්ඡේදයේ, ඔබේ ජීවිතයේ කාල-නාට්ය කිරීමේ ක්රියාකාරකම් සහ අඩු වටිනාකම් සහිත කාර්යයන් හඳුනාගෙන ඉවත් කිරීමේ වැදගත්කම ෆෙරිස් සාකච්ඡා කරයි.මෙම පරිච්ඡේදයෙන් ප්රධාන කරුණු මෙන්න:
 
-Time as a Commodity: Ferriss introduces the idea of treating time as a valuable commodity. He emphasizes that time is more important than money because, once lost, it cannot be regained. Therefore, it's essential to maximize your use of time.
+භාණ්ඩයක් ලෙස කාලය: ෆෙරිස් කාලය වටිනා වෙළඳ භාණ්ඩයක් ලෙස සැලකීමේ අදහස හඳුන්වා දෙයි.මුදල් වලට වඩා කාලය වැදගත් බව ඔහු අවධාරණය කරයි, මන්ද එය නැති වූ පසු එය නැවත ලබා ගත නොහැක.එබැවින් ඔබේ කාලය භාවිතා කිරීම උපරිම කිරීම අත්යවශ්ය වේ.
 
-The 80/20 Analysis: Ferriss suggests conducting an 80/20 analysis of your activities. Identify the 20% of activities that are consuming 80% of your time and are often unproductive or low value. These are the  losers  that need to be eliminated or streamlined.
+80/20 විශ්ලේෂණය: ෆෙරිස් යෝජනා කරන්නේ ඔබේ ක්රියාකාරකම්වල 80/20/20pond විශ්ලේෂණයක් පැවැත්වීමයි.ඔබගේ කාලයෙන් 80% ක් පරිභෝජනය කරන ක්රියාකාරකම් 20% ක් හඳුනාගෙන බොහෝ විට ro ලදායී නොවන හෝ අඩු වටිනාකමක් හඳුනා ගන්න.මේවා තුරන් කිරීම හෝ විධිමත් කළ යුතු පරාජිතයන් ය.
 
-The Art of Time Management: Ferriss introduces the concept of time management as an art. He argues that managing your time effectively is more important than working long hours. By identifying and cutting out low-value tasks, you can free up time for more meaningful activities.
+කාල කළමනාකරණයේ කලාව: ෆෙරිස් කාල කළමනාකරණය පිළිබඳ සංකල්පය කලාවක් ලෙස හඳුන්වා දෙයි.ඔහු තර්ක කරන්නේ දිගු වේලාවක් වැඩ කිරීමට වඩා ඔබේ කාලය effectively ලදායී ලෙස කළමනාකරණය කිරීම වැදගත් බවයි.අඩු වටිනාකම් සහිත කාර්යයන් හඳුනාගෙන කැපීමෙන්, වඩාත් අර්ථවත් ක්රියාකාරකම් සඳහා ඔබට කාලය නිදහස් කළ හැකිය.
 
-Selective Ignorance Revisited: Ferriss reiterates the importance of selective ignorance. This means intentionally ignoring or avoiding information and tasks that do not contribute to your goals. By saying no to distractions, you can focus on what truly matters.
+තෝරාගත් නොදැනුවත්කම නැවත සලකා බැලීම: ෆෙරෙස් තෝරාගත් නොදැනුවත්කමේ වැදගත්කම නැවත අවධාරණය කරයි.මෙයින් අදහස් කරන්නේ හිතාමතාම ඔබේ ඉලක්ක වලට දායක නොවන තොරතුරු සහ කාර්යයන් නොසලකා හැරීම හෝ වළක්වා ගැනීමයි.අවධානය වෙනතකට යොමු නොකිරීම නිසා, ඔබට සැබවින්ම වැදගත් දේ කෙරෙහි අවධානය යොමු කළ හැකිය.
 
-The Low-Information Diet: Ferriss encourages readers to go on a  low-information diet.  This involves reducing the consumption of news, email, and other information sources that tend to be time-consuming and often unproductive.
+අඩු තොරතුරු ආහාර: ෆෙරිස් පා readers කයන්ට අඩු තොරතුරු ආහාර වේලක් ලබා ගැනීමට දිරිගන්වයි.කාලය, ඊමේල් සහ වෙනත් තොරතුරු ප්රභවයන් පරිභෝජනය කාලය ගතවන අතර කාලය ගතවන හා බොහෝ විට ro ලදායී නොවන බව මෙයට ඇතුළත් වේ.
 
-The Art of Time Arbitrage: Ferriss introduces the concept of time arbitrage, which involves exploiting the difference in the value of time in different situations. For example, you might invest time in learning a skill that can save you time in the future.
-
+කාලයාගේ කලාව බේරුම්කරණය: ෆෙරීස් කාල බේරුම්කරණය පිළිබඳ සංකල්පය විවිධ අවස්ථාවන්හිදී කාලයාගේ ඇවෑමෙහි වෙනස ගවේෂණය කිරීම ඇතුළත් වේ.නිදසුනක් වශයෙන්, අනාගතයේදී ඔබ කාලය ඉතිරි කර ගත හැකි නිපුණතාවයක් ඉගෙන ගැනීමට ඔබට කාලය ආයෝජනය කළ හැකිය.

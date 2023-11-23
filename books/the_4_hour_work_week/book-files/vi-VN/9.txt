@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+Phần 3: Tự động hóa
 
-Episode 8: The Subtraction Principle
+Tập 8: Nguyên tắc trừ
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+Trong tuần làm việc 4 giờ của Timothy Ferriss, nguyên tắc trừ là một khái niệm quan trọng trong phần tự động hóa của khung thỏa thuận.Nguyên tắc này tập trung vào ý tưởng đạt được nhiều hơn không nhất thiết phải làm nhiều hơn;Nó thường liên quan đến việc làm ít hơn nhưng với mức độ hiệu quả và hiệu quả cao hơn.Dưới đây là những điểm chính từ nguyên tắc trừ:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+Nguyên tắc 80/20 được xem xét lại: Ferriss giới thiệu lại nguyên tắc 80/20, còn được gọi là nguyên tắc Pareto, trong đó tuyên bố rằng khoảng 80% kết quả đến từ 20% nỗ lực.Áp dụng nguyên tắc này có nghĩa là xác định một vài hoạt động hoặc nhiệm vụ quan trọng tạo ra kết quả quan trọng nhất và tập trung vào chúng.
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+Sự thiếu hiểu biết có chọn lọc: Xây dựng dựa trên khái niệm về sự thiếu hiểu biết có chọn lọc được giới thiệu trước đó, Ferriss cho thấy rằng việc chọn lọc về những gì bạn chọn để tập trung vào có thể làm tăng đáng kể năng suất của bạn.Bỏ qua hoặc ủy thác các nhiệm vụ và phiền nhiễu không thiết yếu cho phép bạn chuyển năng lượng của mình vào các hoạt động có tác động cao.
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+Luật của Parkinson: Ferriss đề cập đến luật của Parkinson, trong đó tuyên bố rằng công việc mở rộng để lấp đầy thời gian có sẵn để hoàn thành.Bằng cách thiết lập thời hạn chặt chẽ và tạo ra các ràng buộc nhân tạo, bạn có thể tăng hiệu quả và hoàn thành các nhiệm vụ nhanh hơn.
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+Giới hạn thông tin đầu vào: Làm quá tải bản thân với thông tin có thể dẫn đến sự mệt mỏi quyết định và giảm năng suất.Nguyên tắc trừ khuyên giới hạn thông tin bạn tiêu thụ chỉ những gì cần thiết cho mục tiêu và ra quyết định của bạn.
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+Xử lý hàng loạt: Ferriss khuyên bạn nên cùng nhau các nhiệm vụ tương tự và dành các khối thời gian cụ thể để hoàn thành chúng.Điều này giảm thiểu chuyển đổi ngữ cảnh và nâng cao hiệu quả.
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+Tải trọng hiệu quả tối thiểu: Thay vì cố gắng làm nhiều hơn, hãy nhằm mục đích làm ít hơn nhưng làm điều đó một cách hiệu quả.Xác định số lượng nỗ lực tối thiểu cần thiết để đạt được kết quả mong muốn và tập trung vào mức độ công việc đó.
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+Mục tiêu chọn lọc: Trong việc thiết lập các mục tiêu và mục tiêu, hãy chọn lọc cao.Chọn các mục tiêu phù hợp với tầm nhìn và ưu tiên cuộc sống tổng thể của bạn.Nguyên tắc trừ liên quan đến việc loại bỏ các mục tiêu không thực sự quan trọng đối với bạn.

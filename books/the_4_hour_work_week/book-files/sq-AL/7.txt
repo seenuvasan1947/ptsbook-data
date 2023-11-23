@@ -1,18 +1,17 @@
-Episode 6: Define: The Art of Time Management
+Episodi 6: Përcaktoni: Arti i Menaxhimit të Kohës
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the chapter titled  Define: The Art of Time Management  is an essential part of the DEAL framework, which aims to help you break free from the traditional work paradigm and design a life of your choosing. In this episode, we'll delve into the key concepts from this chapter:
+Në javën e punës 4-orëshe nga Timothy Ferriss, kapitulli i titulluar Përcaktoni: Arti i Menaxhimit të Kohës është një pjesë thelbësore e kornizës së marrëveshjes, e cila synon t'ju ndihmojë të çliroheni nga paradigma tradicionale e punës dhe hartoni një jetë të zgjedhjes suaj.Në këtë episod, ne do të shqyrtojmë konceptet kryesore nga ky kapitull:
 
-The Parkinson's Law Challenge: Ferriss introduces readers to Parkinson's Law, which states that work expands to fill the time available for its completion. In the context of time management, this law implies that if you have a week to complete a task, it will likely take you a week to finish it. Ferriss challenges the conventional belief that more time equates to better results and suggests a paradigm shift.
+Sfida e Ligjit të Parkinsonit: Ferriss prezanton lexuesit me ligjin e Parkinsonit, i cili thotë se puna zgjerohet për të mbushur kohën e disponueshme për përfundimin e tij.Në kontekstin e menaxhimit të kohës, ky ligj nënkupton që nëse keni një javë për të përfunduar një detyrë, ka të ngjarë t'ju marrë një javë për ta përfunduar atë.Ferriss sfidon besimin konvencional se më shumë kohë barazohet me rezultate më të mira dhe sugjeron një zhvendosje paradigme.
 
-The 80/20 Principle (Pareto Principle): This principle asserts that 80% of outcomes result from 20% of causes. Ferriss applies this principle to time management, suggesting that 20% of activities often yield 80% of your desired outcomes. The key is to identify these high-impact tasks and focus on them while minimizing low-impact or time-wasting activities.
+Parimi 80/20 (parimi pareto): Ky parim pohon se 80% e rezultateve vijnë nga 20% e shkaqeve.Ferriss e zbaton këtë parim për menaxhimin e kohës, duke sugjeruar që 20% e aktiviteteve shpesh japin 80% të rezultateve tuaja të dëshiruara.Theelësi është që të identifikoni këto detyra me ndikim të lartë dhe të përqendroheni në to duke minimizuar aktivitete me ndikim të ulët ose të gjatë.
 
-Time Targets and Personal Efficiency Analysis: Ferriss proposes setting clear time targets for completing tasks or projects. For instance, if a project typically takes a month, challenge yourself to complete it in a week. To do this, you must identify bottlenecks and time-consuming elements and find ways to eliminate or streamline them.
+Synimet e kohës dhe analiza e efikasitetit personal: Ferriss propozon përcaktimin e objektivave të qarta kohore për plotësimin e detyrave ose projekteve.Për shembull, nëse një projekt zakonisht kërkon një muaj, sfidoni veten për ta përfunduar atë brenda një jave.Për ta bërë këtë, duhet të identifikoni pengesat dhe elementët që kërkojnë kohë dhe të gjeni mënyra për t'i eleminuar ose drejtuar ato.
 
-Two Steps to Being More Productive: Ferriss outlines two essential steps for becoming more productive:
+Dy hapa për të qenë më produktiv: Ferriss përshkruan dy hapa thelbësorë për t'u bërë më produktiv:
 
-Limit Tasks: Choose only the tasks that contribute significantly to your goals, and let go of those that don't. This principle aligns with the earlier concept of selective ignorance.
-Batch Tasks: Group similar tasks together and tackle them during designated blocks of time. This minimizes context switching and enhances productivity.
-The Low-Information Diet: Ferriss advises reducing your consumption of low-value information, such as news, email, and excessive social media scrolling. He suggests setting specific times for checking email or consuming news to avoid becoming overwhelmed by information that doesn't contribute to your goals.
+Kufizoni detyrat: Zgjidhni vetëm detyrat që kontribuojnë ndjeshëm në qëllimet tuaja, dhe lëshojini ato që nuk i bëjnë.Ky parim përputhet me konceptin e mëparshëm të injorancës selektive.
+Detyrat e grupeve: Gruponi detyra të ngjashme së bashku dhe i trajtoni ato gjatë blloqeve të caktuara të kohës.Kjo minimizon ndërrimin e kontekstit dhe rrit produktivitetin.
+Dieta me informacion të ulët: Ferriss këshillon zvogëlimin e konsumit tuaj të informacionit me vlerë të ulët, të tilla si lajmet, posta elektronike dhe lëvizja e tepërt e mediave sociale.Ai sugjeron vendosjen e kohës specifike për kontrollimin e postës elektronike ose konsumimin e lajmeve për të mos u mbingarkuar nga informacionet që nuk kontribuojnë në qëllimet tuaja.
 
-The Art of Time Arbitrage: Ferriss introduces the idea of  time arbitrage,  which involves taking advantage of the discrepancy between different markets or time zones. For example, outsourcing work to countries with lower labor costs can save you time and money.
-
+Arbi i Artit të Kohës: Ferriss prezanton idenë e arbitrazhit të kohës, i cili përfshin përfitimin e mospërputhjes midis tregjeve të ndryshme ose zonave kohore.Për shembull, puna e jashtme për vendet me kosto më të ulët të punës mund t'ju kursejë kohë dhe para.

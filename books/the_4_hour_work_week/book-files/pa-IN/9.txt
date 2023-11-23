@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+ਭਾਗ :: ਆਟੋਮੈਟਿਕ
 
-Episode 8: The Subtraction Principle
+ਐਪੀਸੋਡ 8: ਘਟਾਓ ਸਿਧਾਂਤ
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+ਤਿਮੋਥਿਉਸ ਫਰੀਜ ਦੁਆਰਾ 4 ਘੰਟੇ ਦੇ ਵਰਕਵੀਕ ਵਿੱਚ, ਘਟਾਓ ਦਾ ਸਿਧਾਂਤ ਡੀਲ ਫਰੇਮਵਰਕ ਦੇ ਸਵੈਚਾਲਤ ਭਾਗ ਵਿੱਚ ਇੱਕ ਕੁੰਜੀ ਸੰਕਲਪ ਹੈ.ਇਹ ਸਿਧਾਂਤ ਇਸ ਵਿਚਾਰ 'ਤੇ ਕੇਂਦ੍ਰਤ ਕਰਨਾ ਜ਼ਰੂਰੀ ਤੌਰ ਤੇ ਵਧੇਰੇ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਨਹੀਂ ਹੁੰਦੀ;ਇਹ ਅਕਸਰ ਘੱਟ ਕਰਨਾ ਸ਼ਾਮਲ ਹੁੰਦਾ ਹੈ ਪਰ ਉੱਚ ਪੱਧਰੀ ਪ੍ਰਭਾਵਸ਼ੀਲਤਾ ਅਤੇ ਕੁਸ਼ਲਤਾ ਦੇ ਨਾਲ.ਇਹ ਘਟਾਓ ਸਿਧਾਂਤ ਤੋਂ ਮੁੱਖ ਟਾਵਿਨ ਹਨ:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+80/20 ਸਿਧਾਂਤ ਨੂੰ ਦੁਬਾਰਾ ਵੇਖਿਆ ਗਿਆ: ਫੇਰਿਸ 80/20 ਸਿਧਾਂਤਕ ਵਜੋਂ ਵੀ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ, ਜਿਸ ਵਿਚ ਕਿਹਾ ਗਿਆ ਹੈ ਕਿ ਲਗਭਗ 80% ਦੇ ਨਤੀਜੇ 20% ਕੋਸ਼ਿਸ਼ਾਂ ਤੋਂ ਆਉਂਦੇ ਹਨ.ਇਸ ਸਿਧਾਂਤ ਨੂੰ ਲਾਗੂ ਕਰਨਾ ਮਹੱਤਵਪੂਰਣ ਕੁਝ ਗਤੀਵਿਧੀਆਂ ਜਾਂ ਕਾਰਜਾਂ ਦੀ ਪਛਾਣ ਕਰਨਾ ਜੋ ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਨ ਨਤੀਜੇ ਪੈਦਾ ਕਰਦੇ ਹਨ ਅਤੇ ਉਨ੍ਹਾਂ 'ਤੇ ਕੇਂਦ੍ਰਤ ਕਰਦੇ ਹਨ.
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+ਚੋਣਵੇਂ ਅਗਿਆਨਤਾ: ਚੋਣਵੇਂ ਅਗਿਆਨਤਾ ਦੀ ਧਾਰਨਾ 'ਤੇ ਇਮਾਰਤ ਦਾ ਪਤਾ ਲਗਾਇਆ ਗਿਆ ਕਿ ਤੁਸੀਂ ਧਿਆਨ ਕੇਂਦ੍ਰਤ ਕਰਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਇਸ ਗੱਲ' ਤੇ ਧਿਆਨ ਕੇਂਦ੍ਰਤ ਕਰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੀ ਉਤਪਾਦਕਤਾ ਨੂੰ ਨਾਟਕੀ cra ੰਗ ਨਾਲ ਵਧਾ ਸਕਦੀ ਹੈ.ਗੈਰ-ਜ਼ਰੂਰੀ ਕਾਰਜਾਂ ਨੂੰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰਨਾ ਜਾਂ ਸੌਂਪਣਾ ਤੁਹਾਨੂੰ ਆਪਣੀ energy ਰਜਾ ਨੂੰ ਉੱਚ-ਪ੍ਰਭਾਵ ਦੀਆਂ ਗਤੀਵਿਧੀਆਂ ਵਿੱਚ ਚੈਨਲ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ.
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+ਪਾਰਸਿੰਸਨ ਦਾ ਕਾਨੂੰਨ: ਫੇਰਸਸਨ ਦੇ ਕਾਨੂੰਨ ਦਾ ਜ਼ਿਕਰ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਿਸ ਵਿੱਚ ਦੱਸਿਆ ਗਿਆ ਹੈ ਕਿ ਕੰਮ ਇਸ ਦੇ ਮੁਕੰਮਲ ਹੋਣ ਲਈ ਉਪਲਬਧ ਸਮਾਂ ਭਰਨ ਲਈ ਫੈਲਦਾ ਹੈ.ਤੰਗ ਡੈੱਡਲਾਈਨ ਨਿਰਧਾਰਤ ਕਰਕੇ ਅਤੇ ਨਕਲੀ ਰੁਕਾਵਟਾਂ ਨੂੰ ਬਣਾਉਣਾ, ਤੁਸੀਂ ਆਪਣੀ ਕੁਸ਼ਲਤਾ ਨੂੰ ਵਧਾ ਸਕਦੇ ਹੋ ਅਤੇ ਕਾਰਜਾਂ ਨੂੰ ਵਧੇਰੇ ਤੇਜ਼ੀ ਨਾਲ ਵਧਾ ਸਕਦੇ ਹੋ.
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+ਜਾਣਕਾਰੀ ਇੰਪੁੱਟ ਲਿਮਜ਼ਿੰਗ ਇਨਪੁਟਸ: ਜਾਣਕਾਰੀ ਨਾਲ ਆਪਣੇ ਆਪ ਨੂੰ ਓਵਰਲੋਡ ਕਰਨਾ ਫੈਸਰਮ ਥਕਾਵਟ ਹੋ ਸਕਦਾ ਹੈ ਅਤੇ ਉਤਪਾਦਕਤਾ ਘਟੀ ਹੋ ਸਕਦੀ ਹੈ.ਘਟਾਓ ਸਿਧਾਂਤ ਤੁਹਾਨੂੰ ਉਸ ਜਾਣਕਾਰੀ ਨੂੰ ਸੀਮਤ ਕਰਨ ਦੀ ਸਲਾਹ ਦਿੰਦਾ ਹੈ ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਸਿਰਫ ਤੁਹਾਡੇ ਟੀਚਿਆਂ ਅਤੇ ਫੈਸਲੇ-ਬਣਾਉਣ ਲਈ ਇਸ ਨੂੰ ਸਾਜ਼ਦ ਕਰਦੇ ਹੋ.
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+ਬੈਚ ਪ੍ਰੋਸੈਸਿੰਗ: ਫਰੂ੍ਰਸ ਇਸੇ ਕਾਰਜਾਂ ਨੂੰ ਇਕੱਠੇ ਕਰਨ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਖਾਸ ਸਮੇਂ ਦੇ ਬਲਾਕਾਂ ਨੂੰ ਬਿਠਾਉਣ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ.ਇਹ ਪ੍ਰਸੰਗਾਂ ਨੂੰ ਬਦਲਣ ਅਤੇ ਕੁਸ਼ਲਤਾ ਨੂੰ ਵਧਾਉਂਦਾ ਹੈ.
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+ਘੱਟੋ ਘੱਟ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਲੋਡ: ਵਧੇਰੇ ਕਰਨ ਦੀ ਬਜਾਏ, ਘੱਟ ਕਰਨ ਦਾ ਟੀਚਾ ਰੱਖੋ ਪਰ ਪ੍ਰਭਾਵਸ਼ਾਲੀ .ੰਗ ਨਾਲ ਕਰੋ.ਲੋੜੀਂਦੇ ਨਤੀਜੇ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਅਤੇ ਕੰਮ ਦੇ ਉਸ ਪੱਧਰ 'ਤੇ ਧਿਆਨ ਕੇਂਦਰਤ ਕਰਨ ਲਈ ਲੋੜੀਂਦੀ ਕੋਸ਼ਿਸ਼ ਦੀ ਘੱਟੋ ਘੱਟ ਮਾਤਰਾ ਨਿਰਧਾਰਤ ਕਰੋ.
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+ਚੋਣਵੇਂ ਟੀਚੇ: ਟੀਚੇ ਅਤੇ ਟੀਚਿਆਂ ਨੂੰ ਨਿਰਧਾਰਤ ਕਰਨ ਵਿੱਚ, ਬਹੁਤ ਚੋਣਵੇਂ ਬਣੋ.ਉਦੇਸ਼ਾਂ ਦੀ ਚੋਣ ਕਰੋ ਜੋ ਤੁਹਾਡੀ ਸਮੁੱਚੀ ਜ਼ਿੰਦਗੀ ਦੇ ਨਜ਼ਰੀਏ ਅਤੇ ਤਰਜੀਹਾਂ ਨਾਲ ਇਕਸਾਰ ਹੋ ਜਾਂਦੇ ਹਨ.ਘਟਾਓ ਸਿਧਾਂਤ ਵਿੱਚ ਟੀਚਿਆਂ ਨੂੰ ਖਤਮ ਕਰਨਾ ਸ਼ਾਮਲ ਹੁੰਦਾ ਹੈ ਜੋ ਤੁਹਾਡੇ ਲਈ ਸੱਚੇ ਮਹੱਤਵਪੂਰਣ ਨਹੀਂ ਹੁੰਦੇ.

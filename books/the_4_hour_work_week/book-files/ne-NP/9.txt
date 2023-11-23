@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+भाग :: स्वचालन
 
-Episode 8: The Subtraction Principle
+EPISODED :: मूबिश सिद्धान्त
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+टिमोन फेररले-घण्टा वर्कवीमा, घटाउने सिद्धान्त सम्झौताको सिद्धान्त हो जुन सम्झौता फ्रेमवर्कको स्वचालित अंश हो।यो सिद्धान्तले यो प्राप्ति गरेको विचारमा केन्द्रित गर्दछ कि अधिक गर्न को लागी अधिक गर्न को लागी आवश्यक छैन;यो प्राय: प्रभावकारीता र दक्षताको उच्च स्तरको साथ कम हुन्छ तर कम गर्नु समावेश हुन्छ।यहाँ घटाउ सिद्धान्तबाट कुञ्जी टेकवेजहरू छन्:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+/ 0/20 सिद्धान्त पुन: उत्तराधिकारी: फेरीले / 0/200/20 को सिद्धान्तलाई पनि रिसाएर, जसले लगभग% 0% नतिजा प्राप्त गर्दछ भनेर बताउँछ।यस सिद्धान्तलाई लागू गर्नु भनेको महत्त्वपूर्ण थोरै गतिविधिहरू वा कार्यहरू पहिचान गर्नु हो जुन सबैभन्दा महत्त्वपूर्ण परिणामहरू उत्पादन गर्दछ र उनीहरूमा ध्यान केन्द्रित गर्दछ।
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+चंचल अज्ञानता: पहिलेको छनौट अज्ञानको धारणामा भवनले तपाईंलाई ध्यान केन्द्रित गर्ने भन्ने बारे छनौट गरिएको छ कि तपाईंले यसमा ध्यानपूर्वक छनौट गरेको बारेमा छनौट भइरहेको तपाईंको उत्पादकत्व बृद्धि गर्न सकिन्छ।बेवास्ता गर्ने वा गैर-आवश्यक कार्यहरू र अलमल्याउने कामहरू तपाईंलाई तपाईंको उर्जालाई उच्च प्रभावकारी गतिविधिहरूमा च्यानल गर्न अनुमति दिन्छ।
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+पार्किन्सनको कानून: फेर्गरले पार्टनेनको कानूनको उल्लेख गर्दछ, जसले यस कार्यलाई यसको समाप्तिको लागि उपलब्ध समयको विस्तार गर्दछ।तंग म्यादहरू सेट गरेर र कृत्रिम अवरोधहरू सिर्जना गरेर, तपाईं आफ्नो दक्षता बढाउन र चाँडै कार्यहरू बढाउन सक्नुहुन्छ।
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+सीमित जानकारी इनपुटहरू: आफैंलाई जानकारीको साथ ओभरलोडिंगले निर्णय लिएको र कम उत्पादकत्वमा ल्याउन सक्छ।घनिष्ट सिद्धान्तले तपाइँका लक्ष्यहरू र निर्णय लिनेको लागि मात्र आवश्यक पर्ने जानकारीलाई सीमित गर्दछ।
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+ब्याच प्रसंस्करण: फेरीस समान कार्यहरू सँगै ब्यागी गर्न र तिनीहरूलाई पूर्ण गर्न निश्चित समय ब्लकहरू समर्पण गर्दछ।यसले प्रसंग स्विच गर्दै स्विच गर्दै र दक्षता अभिवृद्धि गर्दछ।
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+न्यूनतम प्रभावी लोड: अधिक गर्न कोशिस गर्नुको सट्टा, कम गर्नको लागि लक्ष्य गर्नुहोस् तर यसले प्रभावकारी रूपमा गर्नुहोस्।एक इच्छित परिणाम प्राप्त गर्न र कामको स्तरमा फोकस गर्न प्रयास को न्यूनतम रकम निर्धारण गर्नुहोस्।
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+छनौट लक्ष्यहरू: लक्ष्य र लक्ष्यहरू सेट गर्न अत्यधिक छनौट हुनुहोस्।उद्देश्यहरू छनौट गर्नुहोस् जुन तपाईंको समग्र जीवन दर्शन र प्राथमिकताहरूको साथ प ign ्क्तिबद्ध गर्नुहोस्।घमण्ड सिद्धान्तमा लक्ष्यहरू हटाउँछ जुन तपाईंको लागि वास्तविक रूपमा महत्त्वपूर्ण हुँदैन।

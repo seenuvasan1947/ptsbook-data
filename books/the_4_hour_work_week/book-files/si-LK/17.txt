@@ -1,34 +1,33 @@
-Part 5: FILLING THE VOID
+5 වන කොටස: අවලංගු කිරීම පුරවන්න
 
-Episode 16: The Great Time Robbery
+කථාංගය 16: මංකොල්ලකෑම
 
-In this episode, we delve into the idea of  The Great Time Robbery  as presented in Timothy Ferriss's  The 4-Hour Workweek.  Ferriss argues that our traditional approach to work, particularly the 9-to-5 office job, often leads to a significant loss of time, energy, and life satisfaction.
+මෙම කථාංගයේ දී, තිමෝති ෆෙරීස් හි පැය 4 ක වැඩ සතියක් වන තිමෝති ෆෙරීස් හි දක්වා ඇති වූ මංකොල්ලකෑම් පිළිබඳ අදහස ගැන අපි සොයා බලමු.මෙම සාම්ප්රදායික ප්රවේශය, විශේෂයෙන් 9 සිට 55 කාර්යාලීය රැකියාවක් සඳහා අපගේ සාම්ප්රදායික ප්රවේශය බොහෝ විට සැලකිය යුතු කාලය, ශක්තිය හා ජීවිත තෘප්තියක් ලබා දෙන බව ෆෙරිස් තර්ක කරයි.
 
-The Office Commute and Cubicle Life:
+කාර්යාලීය ගමනාගමනය සහ කුටිය.
 
-Ferriss highlights the daily commute to the office as a major time thief. Commuting not only eats up precious hours but can also be mentally and physically draining. Once at the office, the cubicle life with its constant interruptions, meetings, and busywork can be unproductive and demotivating.
+ෆෙරයේස් දෛනික වංචාව ප්රධාන කාල සොරෙකු ලෙස කාර්යාලයට ඉස්මතු කරයි.ගමනාගමනය වටිනා පැය ආහාරයට ගැනීම පමණක් නොව මානසිකව හා ශාරීරිකව ඉවතට ගත හැකිය.කාර්යාලයේ පැවති එක් වරක්, ඔවුන්ගේ නිරන්තර බාධා කිරීම්, රැස්වීම් සහ කාර්යබහුල වැඩවලින් යුත් ඕබ්සිං ජීවීන් ro ලදායී නොවන සහ ප්රජා දියුණුව විය හැකිය.
 
-The Parkinson's Law and 80/20 Principle:
+පාකින්සන් නීතිය සහ 80/20 මූලධර්මය:
 
-Ferriss introduces two powerful concepts to challenge the conventional work model:
+සම්මිශ්රිත වැඩ ආකෘතියට අභියෝග කිරීම සඳහා ෆෙරිස් ප්රබල සංකල්ප දෙකක් හඳුන්වා දෙයි:
 
-Parkinson's Law: This law states that work expands to fill the time available for its completion. In the context of a 9-to-5 job, this means that tasks often expand to consume the entire workday, regardless of their actual importance or urgency.
+පාකින්සන්ගේ නීතිය: මෙම නීතියේ සඳහන් වන්නේ එය සම්පූර්ණ කිරීම සඳහා ඇති කාලය පිරවීම සඳහා වැඩ පුළුල් වන බවයි.9 සිට 5 දක්වා රැකියාවක් පිළිබඳ සන්දර්භය තුළ, මෙයින් අදහස් කරන්නේ ඔවුන්ගේ සැබෑ වැදගත්කම හෝ හදිසිය නොසලකා මුළු වැඩ කරන දින පරිභෝජනය සඳහා කාර්යයන් බොහෝ විට පුළුල් වන බවයි.
 
-The 80/20 Principle (Pareto Principle): Ferriss emphasizes that not all tasks are created equal. In many cases, 20% of our efforts yield 80% of the results. By identifying and focusing on the most impactful tasks, we can achieve better results in less time.
+80/20 මූලධර්මය (පැරේටෝ මූලධර්මය): ෆෙරස් අවධාරණය කරන්නේ සියලුම කාර්යයන් සමාන ලෙස නිර්මාණය වී නොමැති බවයි.බොහෝ අවස්ථාවන්හීදී, අපගේ උත්සාහයන්ගෙන් 20% ක් ප්රති .ලවලින් 80% ක් ලබා දෙයි.වඩාත්ම බලපෑම් සහිත කාර්යයන් හඳුනාගෙන අවධානය යොමු කිරීමෙන්, අඩු කාලයකදී අපට වඩා හොඳ ප්රති results ල ලබා ගත හැකිය.
 
-The Art of Time Management:
+කාල කළමනාකරණයේ කලාව:
 
-To combat the time robbery, Ferriss suggests several strategies:
+මංකොල්ලකෑමට එරෙහිව සටන් කිරීම සඳහා, ෆෙරිස් යෝජනා කරන උපාය මාර්ග කිහිපයක් යෝජනා කරයි:
 
-Remote Work: Whenever possible, negotiate remote work arrangements that eliminate the need for daily commutes and allow you to work from your preferred location.
+දුරස්ථ වැඩ: හැකි සෑම විටම, දෛනික ගවේෂණවල අවශ්යතාවය ඉවත් කරන දුරස්ථ වැඩ විධිවිධාන සාකච්ඡා කර ඔබ කැමති ස්ථානයෙන් වැඩ කිරීමට ඔබට ඉඩ සලසයි.
 
-Time Blocking: Rather than working the entire day, block out specific periods for focused, high-impact work. This ensures that you accomplish your most critical tasks efficiently.
+කාලය අවහිර කිරීම: මුළු දවසම වැඩ කරනවා වෙනුවට, නාභිගත, අධි-බලපෑම් වැඩ සඳහා නිශ්චිත කාල සීමාවන් අවහිර කිරීම.ඔබ ඔබේ වඩාත්ම තීරණාත්මක කාර්යයන් කාර්යක්ෂමව ඉටු කරන බව මෙයින් සහතික කෙරේ.
 
-Email and Communication: Limit email and communication time by checking messages only at designated intervals. Avoid letting constant notifications disrupt your concentration.
+විද්යුත් තැපෑල සහ සන්නිවේදනය: නම් කරන ලද කාල පරතරයන්හි පමණක් පණිවිඩ පරීක්ෂා කිරීමෙන් විද්යුත් තැපැල් හා සන්නිවේදන කාලය සීමා කරන්න.නිරන්තර දැනුම්දීම් ඔබේ සාන්ද්රණයට බාධා කිරීමට ඉඩ නොදීමෙන් වළකින්න.
 
-Outsourcing: Delegate non-essential tasks and projects to virtual assistants or contractors, freeing up your time for more important work.
+බාහිරින් ලබා ගැනීම: අතථ්ය සහායකයින්ට හෝ කොන්ත්රාත්කරුවන්ට අත්යවශ්ය නොවන කාර්යයන් සහ ව්යාපෘති පැවරීම, වඩා වැදගත් වැඩ සඳහා ඔබේ කාලය නිදහස් කිරීම.
 
-Mini-Retirements: Ferriss introduces the concept of  mini-retirements,  where you take extended breaks throughout your life to explore your passions and interests, rather than waiting for traditional retirement.
+කුඩා විශ්රාම ගැනීම්: ෆෙරීස් කුඩා විශ්රාම දිවියන්ගේ සංකල්පය හඳුන්වා දෙයි, සාම්ප්රදායික විශ්රාම ගැනීම සඳහා බලා සිටිනවාට වඩා ඔබේ ආශාවන් හා රුචිකත්වයන් ගවේෂණය කිරීම සඳහා ඔබේ ජීවිතය පුරා ව්යාප්ත වේ.
 
-Reclaiming Your Time:
-
+ඔබේ කාලය නැවත ලබා ගැනීම:

@@ -1,18 +1,17 @@
-Episode 5: Learn: Just in Time vs. Just in Case
+ตอนที่ 5: เรียนรู้: ทันเวลาเทียบกับในกรณี
 
-In this episode of our journey through  The 4-Hour Workweek  by Timothy Ferriss, we explore the chapter titled  Learn: Just in Time vs. Just in Case.  This chapter is a pivotal part of Ferriss's DEAL framework, designed to help you escape the 9-5 grind and design your ideal life.
+ในตอนนี้ของการเดินทางของเราผ่านสัปดาห์ทำงาน 4 ชั่วโมงโดย Timothy Ferriss เราสำรวจบทที่ชื่อว่า Learn: ในเวลาเทียบกับในกรณีบทนี้เป็นส่วนสำคัญของกรอบข้อตกลงของ Ferriss ซึ่งออกแบบมาเพื่อช่วยให้คุณหลบหนีการบด 9-5 และออกแบบชีวิตในอุดมคติของคุณ
 
-Here are the key takeaways from this chapter:
+นี่คือประเด็นสำคัญจากบทนี้:
 
-Just-in-Time Learning: Ferriss advocates for the concept of  just-in-time learning,  which means acquiring the necessary knowledge or skills precisely when you need them to accomplish a specific task or goal. This approach challenges the traditional education model of amassing knowledge  just in case  it might be needed in the future.
+การเรียนรู้แบบทันเวลา: Ferriss สนับสนุนแนวคิดของการเรียนรู้แบบทันเวลาซึ่งหมายถึงการได้รับความรู้หรือทักษะที่จำเป็นอย่างแม่นยำเมื่อคุณต้องการให้พวกเขาทำภารกิจหรือเป้าหมายที่เฉพาะเจาะจงวิธีการนี้ท้าทายรูปแบบการศึกษาแบบดั้งเดิมของการรวบรวมความรู้ในกรณีที่อาจจำเป็นในอนาคต
 
-The Value of Speed Over Perfection: Ferriss emphasizes that perfectionism can be a major roadblock to achieving your goals. Instead of spending excessive time trying to master a skill, focus on acquiring the minimum required competency quickly. You can refine and improve your skills as you go.
+คุณค่าของความเร็วเหนือความสมบูรณ์แบบ: Ferriss เน้นว่าลัทธิพอใจ แต่สิ่งดีเลิศอาจเป็นสิ่งกีดขวางบนถนนที่สำคัญเพื่อให้บรรลุเป้าหมายของคุณแทนที่จะใช้เวลามากเกินไปพยายามที่จะฝึกฝนทักษะให้มุ่งเน้นไปที่การรับความสามารถขั้นต่ำที่ต้องการอย่างรวดเร็วคุณสามารถปรับแต่งและพัฒนาทักษะของคุณเมื่อคุณไป
 
-The Art of Outsourcing Knowledge: In the digital age, you don't need to become an expert in everything. Ferriss discusses how you can leverage the expertise of others through outsourcing. Whether it's hiring a virtual assistant or using online resources, you can access knowledge and skills on-demand.
+ศิลปะแห่งความรู้ด้านการเอาท์ซอร์ส: ในยุคดิจิตอลคุณไม่จำเป็นต้องเป็นผู้เชี่ยวชาญในทุกสิ่งFerriss กล่าวถึงวิธีที่คุณสามารถใช้ประโยชน์จากความเชี่ยวชาญของผู้อื่นผ่านการเอาท์ซอร์สไม่ว่าจะเป็นการจ้างผู้ช่วยเสมือนหรือใช้แหล่งข้อมูลออนไลน์คุณสามารถเข้าถึงความรู้และทักษะตามความต้องการ
 
-Selective Learning: Similar to selective ignorance in the previous chapter, Ferriss suggests being selective about what you learn. Focus on the 20% of knowledge that will yield 80% of the results in your chosen field or endeavor.
+การเรียนรู้แบบเลือก: คล้ายกับความไม่รู้เลือกในบทก่อนหน้า Ferriss แนะนำให้เลือกเกี่ยวกับสิ่งที่คุณเรียนรู้มุ่งเน้นไปที่ 20% ของความรู้ที่จะให้ 80% ของผลลัพธ์ในฟิลด์หรือความพยายามที่คุณเลือก
 
-Testing and Feedback Loop: Ferriss encourages readers to create a feedback loop in their learning process. This involves setting clear goals, testing your assumptions, and adjusting your strategies based on real-world feedback. Continuous improvement is key.
+การทดสอบและข้อเสนอแนะลูป: Ferriss สนับสนุนให้ผู้อ่านสร้างลูปข้อเสนอแนะในกระบวนการเรียนรู้ของพวกเขาสิ่งนี้เกี่ยวข้องกับการตั้งเป้าหมายที่ชัดเจนทดสอบสมมติฐานของคุณและปรับกลยุทธ์ของคุณตามข้อเสนอแนะในโลกแห่งความจริงการปรับปรุงอย่างต่อเนื่องเป็นกุญแจสำคัญ
 
-Language Learning: Ferriss shares his experience learning multiple languages efficiently. He introduces the concept of  language hacking  and provides practical tips for rapid language acquisition.
-
+การเรียนรู้ภาษา: Ferriss แบ่งปันประสบการณ์การเรียนรู้หลายภาษาอย่างมีประสิทธิภาพเขาแนะนำแนวคิดของการแฮ็คภาษาและให้คำแนะนำที่เป็นประโยชน์สำหรับการเรียนรู้ภาษาอย่างรวดเร็ว

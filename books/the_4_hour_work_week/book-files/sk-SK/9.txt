@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+Časť 3: Automatizácia
 
-Episode 8: The Subtraction Principle
+Epizóda 8: Princíp odčítania
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+V 4-hodinovom pracovnom týždni od Timothy Ferriss je princíp odčítania kľúčovým konceptom v automatickej časti rámca obchodu.Tento princíp sa zameriava na myšlienku, že dosiahnutie viac si nemusí nevyhnutne vyžadovať viac;Často to zahŕňa menej, ale s vyššou úrovňou účinnosti a efektívnosti.Tu sú kľúčové cesty od princípu odčítania:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+Revidované princíp 80/20: Ferriss znovu zavádza princíp 80/20, známy tiež ako Pareto Principle, ktorý uvádza, že zhruba 80% výsledkov pochádza z 20% úsilia.Uplatňovanie tohto princípu znamená identifikáciu životne dôležitých aktivít alebo úloh, ktoré prinášajú najvýznamnejšie výsledky a zameriavajú sa na ne.
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+Selektívna ignorancia: Budovanie na pojme selektívnej nevedomosti predstavenej skôr Ferriss naznačuje, že selektívnosť o tom, na čo sa rozhodnete zamerať, môže dramaticky zvýšiť vašu produktivitu.Ignorovanie alebo delegovanie nepodstatných úloh a rozptýlenia vám umožňuje nasmerovať energiu na aktivity s vysokým dopadom.
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+Parkinsonov zákon: Ferriss spomína Parkinsonov zákon, ktorý uvádza, že práca sa rozširuje, aby vyplnila čas k dispozícii na jeho dokončenie.Nastavením pevných termínov a vytvorením umelých obmedzení môžete zvýšiť svoju efektívnosť a rýchlejšie plniť úlohy.
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+Obmedzenie informačných vstupov: Preťaženie informácií môže viesť k únave rozhodovania a zníženej produktivite.Princíp odčítania odporúča obmedzovať informácie, ktoré spotrebujete, iba to, čo je potrebné pre vaše ciele a rozhodovanie.
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+Dávkové spracovanie: Ferriss odporúča spolu s podobnými úlohami a venovať ich konkrétne časové bloky na ich dokončenie.To minimalizuje prepínanie kontextu a zvyšuje účinnosť.
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+Minimálne efektívne zaťaženie: Namiesto toho, aby ste sa snažili urobiť viac, zamerajte sa na to, aby ste to robili menej, ale urobte to efektívne.Stanovte minimálne množstvo úsilia potrebného na dosiahnutie požadovaného výsledku a zameranie na túto úroveň práce.
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+Selektívne ciele: Pri stanovovaní cieľov a cieľov buďte veľmi selektívni.Vyberte ciele, ktoré sú v súlade s vašou celkovou životnou víziou a prioritami.Princíp odčítania zahŕňa odstránenie cieľov, ktoré pre vás nie sú skutočne dôležité.

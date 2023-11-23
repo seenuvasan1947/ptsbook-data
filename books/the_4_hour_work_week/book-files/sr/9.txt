@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+Део 3: Аутоматизација
 
-Episode 8: The Subtraction Principle
+Епизода 8: Принцип одузимања
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+У 4-сатној радном твом веку Тимотеју Ферисс, принцип одузимања је кључни концепт у аутоматизацији оквира за уговор.Овај принцип се фокусира на идеју да постизање више не захтева нужно и више;Често укључује да раде мање, али са вишим нивоом ефикасности и ефикасности.Ево кључних воде из принципа одузимања:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+80/20 принцип ревидирано: Ферриссс поново уноси принцип 80/20, познат и као принцип Парето, који наводи да отприлике 80% резултата дође од 20% напора.Примјена овог принципа значи идентификовање виталних неколико активности или задатака који производе најзначајнији резултати и фокусирају се на њих.
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+Селективно незнање: Изградња појма селективног незнања уведена је раније, Феррисс сугерише да је селективно о ономе што одлучите да се фокусирате можете драматично повећати вашу продуктивност.Занемаривање или делегирање небитних задатака и ометања омогућава вам да своју енергију каналише у активности високог утицаја.
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+Паркинсонов закон: Феррисс спомиње Паркинсонов закон, који се наводи да се рад шири да би се време попуњавао на располагању за његово завршетак.Постављањем строгих рокова и стварање вештачких ограничења, можете брже повећати своју ефикасност и постизање задатака.
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+Ограничавање информација у инпути: преоптерећење информација са информацијама може довести до умор одлуке и смањеном продуктивношћу.Принцип одузимања саветује ограничавање информација које конзумирате само ономе што је потребно за ваше циљеве и одлучивање.
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+Обрада серије: Феррисрис препоручује да се сече сличне задатке заједно и посвећују одређене временске блокове да их доврши.Ово минимизира пребацивање контекста и побољшава ефикасност.
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+Минимално ефикасно оптерећење: Уместо да покушате да урадите више, циљ је да учините мање, али то учините ефикасно.Одредите минимални износ напора за постизање жељеног резултата и фокусирање на тај ниво рада.
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+Селективне циљеве: у постављању циљева и циљева, будите веома селективни.Изаберите циљеве који се усклађују са вашом укупном животом визијом и приоритетима.Принцип одузимања укључује елиминисање циљева који вам нису истински важни.

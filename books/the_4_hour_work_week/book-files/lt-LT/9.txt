@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+3 dalis: automatizavimas
 
-Episode 8: The Subtraction Principle
+8 epizodas: atimties principas
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+Timothy Ferrisso 4 valandų darbo savaitėje atimties principas yra pagrindinė koncepcija automatizuojamoje sandorio sistemos skyriuje.Šis principas sutelktas į mintį, kad daugiau pasiekti daugiau reikia padaryti daugiau;Dažnai reikia padaryti mažiau, tačiau aukštesnį efektyvumo ir efektyvumo lygį.Čia yra pagrindiniai pasirinkimai iš atimties principo:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+80/20 principas peržiūrėtas: „Ferriss“ iš naujo įveda 80/20 principą, dar žinomą kaip Pareto principas, kuriame teigiama, kad maždaug 80% rezultatų gaunama iš 20% pastangų.Šio principo taikymas reiškia, kad reikia nustatyti keletą gyvybiškai svarbių veiklų ar užduočių, kurios duoda reikšmingiausius rezultatus ir sutelkia dėmesį į juos.
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+Selektyvus nežinojimas: Remdamasis anksčiau įvestu selektyvaus nežinojimo samprata, Ferrissas teigia, kad selektyvus apie tai, į ką pasirenkate sutelkti dėmesį, gali žymiai padidinti jūsų produktyvumą.Nepaisydami ar deleguojant neesmines užduotis ir blaškymąsi, galite nukreipti savo energiją į didelio poveikio veiklą.
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+Parkinsono įstatymas: Ferrissas mini Parkinsono įstatymą, kuriame teigiama, kad darbas plečiasi, kad užpildytų laiką, kurį jis baigė.Nustatydami griežtus terminus ir sukurdami dirbtinius apribojimus, galite greičiau padidinti savo efektyvumą ir atlikti užduotis.
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+Apribojus informacijos sąnaudas: Perkraunant save informacija gali sukelti nuovargį dėl sprendimų ir sumažinti produktyvumą.Atėmimo principas pataria apriboti jūsų vartojamą informaciją tik tai, kas reikalinga jūsų tikslams ir sprendimų priėmimui.
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+Paketų apdorojimas: „Ferriss“ rekomenduoja sujungti panašias užduotis ir skirti konkrečius laiko blokus jiems atlikti.Tai sumažina konteksto perjungimą ir padidina efektyvumą.
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+Minimalus efektyvus krūvis: Užuot bandę nuveikti daugiau, siekite padaryti mažiau, tačiau tai padarykite efektyviai.Nustatykite minimalų pastangų kiekį, reikalingą norint pasiekti norimą rezultatą ir sutelkti dėmesį į tą darbo lygį.
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+Selektyvūs taikiniai: nustatydami tikslus ir tikslus, būkite labai selektyvūs.Pasirinkite tikslus, kurie atitiktų jūsų bendrą gyvenimo viziją ir prioritetus.Atėmimo principas apima tikslų, kurie jums nėra tikrai svarbūs, pašalinimą.

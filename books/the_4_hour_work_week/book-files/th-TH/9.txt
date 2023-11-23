@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+ส่วนที่ 3: ระบบอัตโนมัติ
 
-Episode 8: The Subtraction Principle
+ตอนที่ 8: หลักการลบ
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+ในงานสัปดาห์ 4 ชั่วโมงโดย Timothy Ferriss หลักการของการลบเป็นแนวคิดหลักในส่วนอัตโนมัติของกรอบการจัดการหลักการนี้มุ่งเน้นไปที่ความคิดที่ว่าการบรรลุเป้าหมายมากขึ้นไม่จำเป็นต้องทำมากขึ้นมันมักจะเกี่ยวข้องกับการทำน้อยลง แต่มีประสิทธิภาพและประสิทธิภาพในระดับที่สูงขึ้นนี่คือประเด็นสำคัญจากหลักการลบ:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+หลักการ 80/20 การมาเยือน: เฟอร์ริสแนะนำหลักการ 80/20 หรือที่เรียกว่าหลักการพาเรโตซึ่งระบุว่าประมาณ 80% ของผลลัพธ์มาจาก 20% ของความพยายามการใช้หลักการนี้หมายถึงการระบุกิจกรรมหรืองานที่สำคัญไม่กี่อย่างที่ให้ผลลัพธ์ที่สำคัญที่สุดและมุ่งเน้นไปที่พวกเขา
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+Selective ความไม่รู้: การสร้างความคิดเกี่ยวกับความไม่รู้เลือกที่แนะนำก่อนหน้านี้ Ferriss แนะนำว่าการเลือกเกี่ยวกับสิ่งที่คุณเลือกที่จะมุ่งเน้นสามารถเพิ่มประสิทธิภาพการทำงานของคุณได้อย่างมากการเพิกเฉยหรือมอบหมายงานที่ไม่จำเป็นและการรบกวนช่วยให้คุณสามารถส่งพลังงานไปสู่กิจกรรมที่มีผลกระทบสูง
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+กฎหมายของพาร์กินสัน: เฟอร์ริสกล่าวถึงกฎหมายของพาร์กินสันซึ่งระบุว่างานขยายเพื่อเติมเต็มเวลาที่มีให้เสร็จสมบูรณ์ด้วยการกำหนดเส้นตายที่เข้มงวดและสร้างข้อ จำกัด เทียมคุณสามารถเพิ่มประสิทธิภาพและทำงานให้สำเร็จได้เร็วขึ้น
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+การ จำกัด ข้อมูลอินพุต: การโอเวอร์โหลดตัวเองด้วยข้อมูลสามารถนำไปสู่ความเหนื่อยล้าในการตัดสินใจและลดประสิทธิภาพการผลิตหลักการการลบแนะนำการ จำกัด ข้อมูลที่คุณใช้กับสิ่งที่จำเป็นสำหรับเป้าหมายและการตัดสินใจของคุณเท่านั้น
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+การประมวลผลแบบแบตช์: Ferriss แนะนำให้ใช้งานที่คล้ายกันเข้าด้วยกันและอุทิศเวลาบล็อกเฉพาะเพื่อให้เสร็จสมบูรณ์สิ่งนี้จะช่วยลดการสลับบริบทและเพิ่มประสิทธิภาพ
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+โหลดที่มีประสิทธิภาพขั้นต่ำ: แทนที่จะพยายามทำมากขึ้นมุ่งมั่นที่จะทำน้อยลง แต่ทำอย่างมีประสิทธิภาพกำหนดจำนวนความพยายามขั้นต่ำที่จำเป็นเพื่อให้ได้ผลลัพธ์ที่ต้องการและมุ่งเน้นไปที่ระดับการทำงานนั้น
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+เป้าหมายที่เลือก: ในการตั้งเป้าหมายและเป้าหมายจะเลือกอย่างสูงเลือกวัตถุประสงค์ที่สอดคล้องกับวิสัยทัศน์และลำดับความสำคัญของชีวิตโดยรวมของคุณหลักการลบเกี่ยวข้องกับการกำจัดเป้าหมายที่ไม่สำคัญกับคุณอย่างแท้จริง

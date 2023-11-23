@@ -1,20 +1,19 @@
-Part 2: AUTOMATION
+ส่วนที่ 2: ระบบอัตโนมัติ
 
-Episode 3: Spotting the Losers: An Overview
+ตอนที่ 3: พบผู้แพ้: ภาพรวม
 
-In this episode, we dive into the second part of  The 4-Hour Workweek  by Timothy Ferriss, which focuses on the second step of the DEAL framework: Automation. Specifically, we explore the chapter titled  Spotting the Losers: An Overview. 
+ในตอนนี้เราดำดิ่งลงไปในส่วนที่สองของสัปดาห์ทำงาน 4 ชั่วโมงโดย Timothy Ferriss ซึ่งมุ่งเน้นไปที่ขั้นตอนที่สองของกรอบการจัดการ: ระบบอัตโนมัติโดยเฉพาะเราสำรวจบทที่มีชื่อว่าผู้แพ้: ภาพรวม
 
-In this chapter, Ferriss discusses the importance of identifying and eliminating time-wasting activities and low-value tasks in your life. Here are the key points from this chapter:
+ในบทนี้ Ferriss กล่าวถึงความสำคัญของการระบุและกำจัดกิจกรรมที่เสียเวลาและงานที่มีมูลค่าต่ำในชีวิตของคุณนี่คือประเด็นสำคัญจากบทนี้:
 
-Time as a Commodity: Ferriss introduces the idea of treating time as a valuable commodity. He emphasizes that time is more important than money because, once lost, it cannot be regained. Therefore, it's essential to maximize your use of time.
+เวลาเป็นสินค้าโภคภัณฑ์: Ferriss แนะนำแนวคิดของการรักษาเวลาเป็นสินค้าที่มีค่าเขาเน้นว่าเวลามีความสำคัญมากกว่าเงินเพราะเมื่อสูญหายไปแล้วมันจะไม่สามารถฟื้นคืนได้ดังนั้นจึงจำเป็นที่จะต้องใช้เวลามากที่สุด
 
-The 80/20 Analysis: Ferriss suggests conducting an 80/20 analysis of your activities. Identify the 20% of activities that are consuming 80% of your time and are often unproductive or low value. These are the  losers  that need to be eliminated or streamlined.
+การวิเคราะห์ 80/20: Ferriss แนะนำให้ทำการวิเคราะห์กิจกรรมของคุณ 80/20ระบุ 20% ของกิจกรรมที่ใช้เวลา 80% ของเวลาของคุณและมักจะไม่ก่อผลหรือต่ำเหล่านี้คือผู้แพ้ที่ต้องกำจัดหรือเพรียวบาง
 
-The Art of Time Management: Ferriss introduces the concept of time management as an art. He argues that managing your time effectively is more important than working long hours. By identifying and cutting out low-value tasks, you can free up time for more meaningful activities.
+ศิลปะแห่งการจัดการเวลา: Ferriss แนะนำแนวคิดของการจัดการเวลาเป็นศิลปะเขาระบุว่าการจัดการเวลาของคุณมีประสิทธิภาพมากกว่าการทำงานเป็นเวลานานด้วยการระบุและตัดงานที่มีมูลค่าต่ำคุณสามารถเพิ่มเวลาสำหรับกิจกรรมที่มีความหมายมากขึ้น
 
-Selective Ignorance Revisited: Ferriss reiterates the importance of selective ignorance. This means intentionally ignoring or avoiding information and tasks that do not contribute to your goals. By saying no to distractions, you can focus on what truly matters.
+การเลือกความไม่รู้กลับมากลับมาอีกครั้ง: Ferriss ย้ำถึงความสำคัญของการเลือกความไม่รู้นี่หมายถึงการเพิกเฉยหรือหลีกเลี่ยงข้อมูลและงานที่ไม่ได้มีส่วนช่วยในการทำเป้าหมายของคุณโดยเจตนาโดยการบอกว่าไม่ทำให้การรบกวนคุณสามารถมุ่งเน้นไปที่สิ่งที่สำคัญอย่างแท้จริง
 
-The Low-Information Diet: Ferriss encourages readers to go on a  low-information diet.  This involves reducing the consumption of news, email, and other information sources that tend to be time-consuming and often unproductive.
+อาหารที่มีข้อมูลต่ำ: Ferriss กระตุ้นให้ผู้อ่านไปทานอาหารที่มีข้อมูลต่ำสิ่งนี้เกี่ยวข้องกับการลดการบริโภคข่าวอีเมลและแหล่งข้อมูลอื่น ๆ ที่มีแนวโน้มที่จะใช้เวลานานและมักจะไม่ก่อผล
 
-The Art of Time Arbitrage: Ferriss introduces the concept of time arbitrage, which involves exploiting the difference in the value of time in different situations. For example, you might invest time in learning a skill that can save you time in the future.
-
+Art of Time Arbitrage: Ferriss แนะนำแนวคิดของการเก็งกำไรเวลาซึ่งเกี่ยวข้องกับการใช้ประโยชน์จากความแตกต่างในคุณค่าของเวลาในสถานการณ์ที่แตกต่างกันตัวอย่างเช่นคุณอาจลงทุนเวลาในการเรียนรู้ทักษะที่สามารถช่วยคุณประหยัดเวลาในอนาคต

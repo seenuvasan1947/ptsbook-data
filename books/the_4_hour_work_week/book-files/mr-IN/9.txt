@@ -1,20 +1,19 @@
-Part 3: AUTOMATION
+भाग 3: ऑटोमेशन
 
-Episode 8: The Subtraction Principle
+भाग 8: वजाबाकी तत्त्व
 
-In  The 4-Hour Workweek  by Timothy Ferriss, the principle of subtraction is a key concept in the  Automate  section of the DEAL framework. This principle focuses on the idea that achieving more does not necessarily require doing more; it often involves doing less but with a higher level of effectiveness and efficiency. Here are the key takeaways from  The Subtraction Principle :
+टिमोथी फेरीसच्या 4-तासांच्या वर्क वीकमध्ये, वजाबाकीचे तत्व डील फ्रेमवर्कच्या स्वयंचलित विभागातील एक महत्त्वाची संकल्पना आहे.हे तत्व या कल्पनेवर लक्ष केंद्रित करते की अधिक साध्य करण्यासाठी अधिक करणे आवश्यक नसते;यात बर्‍याचदा कमी करणे परंतु उच्च पातळीवरील प्रभावीपणा आणि कार्यक्षमतेसह समाविष्ट असते.वजाबाकीच्या तत्त्वावरील मुख्य टेकवे येथे आहेत:
 
-80/20 Principle Revisited: Ferriss reintroduces the 80/20 principle, also known as the Pareto Principle, which states that roughly 80% of results come from 20% of efforts. Applying this principle means identifying the vital few activities or tasks that produce the most significant results and focusing on them.
+80/20 तत्त्व पुन्हा पाहिले: फेरीस 80/20 तत्त्वाचा पुनर्निर्मिती करते, ज्याला पॅरेटो तत्त्व देखील म्हटले जाते, ज्यात असे म्हटले आहे की अंदाजे 80% निकाल 20% प्रयत्नांमधून येतात.या तत्त्वाचा वापर करणे म्हणजे महत्त्वपूर्ण काही क्रियाकलाप किंवा कार्ये ओळखणे जे सर्वात महत्त्वपूर्ण परिणाम देतात आणि त्यांच्यावर लक्ष केंद्रित करतात.
 
-Selective Ignorance: Building on the notion of selective ignorance introduced earlier, Ferriss suggests that being selective about what you choose to focus on can dramatically increase your productivity. Ignoring or delegating non-essential tasks and distractions allows you to channel your energy into high-impact activities.
+निवडक अज्ञान: पूर्वी सादर केलेल्या निवडक अज्ञानाच्या कल्पनेवर आधारित, फेरीस सूचित करते की आपण जे लक्ष केंद्रित केले आहे त्याबद्दल निवडक राहिल्यास आपली उत्पादकता नाटकीयरित्या वाढू शकते.अनावश्यक कार्ये आणि विचलित्यांकडे दुर्लक्ष करणे किंवा त्यांचे प्रतिनिधीत्व करणे आपल्याला आपली उर्जा उच्च-प्रभाव क्रियाकलापांमध्ये चॅनेल करण्याची परवानगी देते.
 
-Parkinson's Law: Ferriss mentions Parkinson's Law, which states that work expands to fill the time available for its completion. By setting tight deadlines and creating artificial constraints, you can increase your efficiency and accomplish tasks more quickly.
+पार्किन्सनचा कायदा: फेरीसने पार्किन्सनच्या कायद्याचा उल्लेख केला आहे, ज्यामध्ये असे म्हटले आहे की कार्य पूर्ण होण्याकरिता उपलब्ध वेळ भरण्यासाठी काम वाढवितो.घट्ट मुदती निश्चित करून आणि कृत्रिम अडचणी तयार करून, आपण आपली कार्यक्षमता वाढवू शकता आणि कार्ये अधिक द्रुतपणे साध्य करू शकता.
 
-Limiting Information Inputs: Overloading yourself with information can lead to decision fatigue and reduced productivity. The subtraction principle advises limiting the information you consume to only what is necessary for your goals and decision-making.
+माहितीची माहिती मर्यादित करणे: माहितीसह स्वत: ला ओव्हरलोड केल्याने निर्णय थकवा आणि उत्पादकता कमी होऊ शकते.वजाबाकी तत्त्व आपल्या ध्येय आणि निर्णय घेण्याकरिता आवश्यक असलेल्या माहितीवर आपण वापरत असलेली माहिती मर्यादित ठेवण्यास सल्ला देते.
 
-Batch Processing: Ferriss recommends batching similar tasks together and dedicating specific time blocks to complete them. This minimizes context switching and enhances efficiency.
+बॅच प्रक्रिया: फेरिसने समान कार्ये एकत्रितपणे एकत्रित करण्याची आणि विशिष्ट वेळ ब्लॉक पूर्ण करण्यासाठी समर्पित करण्याची शिफारस केली.हे संदर्भ स्विचिंग कमी करते आणि कार्यक्षमता वाढवते.
 
-Minimum Effective Load: Instead of trying to do more, aim to do less but do it effectively. Determine the minimum amount of effort required to achieve a desired result and focus on that level of work.
+किमान प्रभावी भार: अधिक करण्याचा प्रयत्न करण्याऐवजी कमी करण्याचे लक्ष्य ठेवा परंतु ते प्रभावीपणे करा.इच्छित परिणाम साध्य करण्यासाठी आवश्यक असलेल्या किमान प्रयत्नांची रक्कम निश्चित करा आणि त्या कामाच्या पातळीवर लक्ष केंद्रित करा.
 
-Selective Targets: In setting goals and targets, be highly selective. Choose objectives that align with your overall life vision and priorities. The subtraction principle involves eliminating goals that are not genuinely important to you.
-
+निवडक लक्ष्य: ध्येय आणि लक्ष्य निश्चित करताना, अत्यंत निवडक रहा.आपल्या एकूण जीवनाची दृष्टी आणि प्राधान्यक्रमांसह संरेखित करणारी उद्दीष्टे निवडा.वजाबाकी तत्त्वामध्ये आपल्यासाठी खरोखर महत्त्वपूर्ण नसलेली उद्दीष्टे काढून टाकणे समाविष्ट आहे.
